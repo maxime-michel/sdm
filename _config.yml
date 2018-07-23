@@ -1,0 +1,14 @@
+title: Secrets de Musiciens
+copyright: "© Secrets de Musiciens 2018"
+author: Maxime
+url: "https://www.secretsdemusiciens.com"
+
+medias:
+- url: https://twitter.com/accordguitare
+  fa_icon: fa-twitter
+- url: mailto:maxime@accordersaguitare.com
+  fa_icon: fa-envelope-o
+
+theme: classical
+font: Source+Sans+Pro
+lang: fr
