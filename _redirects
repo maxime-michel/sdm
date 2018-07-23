@@ -1,0 +1,2 @@
+# Redirect domain aliases to primary domain
+https://www.secretsdemusicien.com/* https://www.secretsdemusiciens.com/:splat 301!
