@@ -15,10 +15,9 @@ apprennent la musique. Voici ce que j'en pense.
 pour la tablature.)
 
 A l'époque de cette composition, je ne connaissais que très peu la théorie. 
-J'écoutais en revanche beaucoup la Passacaille de Jean-Sébastien Bach (cliquez 
-[ici][passacaille] pour l'écouter). J'ai certes toujours voulu comprendre les 
-gammes, les modes et les cadences, mais tout me paraissait beaucoup trop 
-abstrait et compliqué.
+J'écoutais en revanche beaucoup la [Passacaille de Jean-Sébastien 
+Bach][passacaille]. J'ai certes toujours voulu comprendre les gammes, les modes 
+et les cadences, mais tout me paraissait beaucoup trop abstrait et compliqué.
 
 J'aurais pourtant déjà pu commencer mon initiation si j'avais trouvé l'approche 
 simplifiée que j'ai découverte par la suite (je vous en ai déjà parlé, 
