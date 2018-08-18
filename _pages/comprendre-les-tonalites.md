@@ -166,4 +166,4 @@ Si cet article vous a plu, n'hésitez pas à me suivre sur Twitter
 
 [accordages-alternatifs]:https://www.accordersaguitare.com/accordages-alternatifs/
 [twitter]:https://twitter.com/accordguitare
-[autodidactes]:https://www.accordersaguitare.com/les-meilleurs-exercices-pour-autodidactes/
+[autodidactes]:/les-meilleurs-exercices-pour-autodidactes/

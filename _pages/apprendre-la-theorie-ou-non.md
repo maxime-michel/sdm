@@ -101,8 +101,8 @@ Si cet article vous a plu, n'hésitez pas à me suivre sur Twitter
 (@accordguitare) en cliquant [ici][twitter].
 
 [passacaille]: https://www.youtube.com/watch?v=Gfh_0XZBcBk
-[tonalites]:https://www.accordersaguitare.com/pdf/comprendre-tonalites.pdf
-[oreille]:https://www.accordersaguitare.com/pdf/jouer-a-l-oreille.pdf
+[tonalites]:/comprendre-les-tonalites/
+[oreille]:/jouer-a-l-oreille/
 [exemple]:https://www.accordersaguitare.com/pdf/apprendre-theorie-exemple.mp3
 [tablature]:https://www.accordersaguitare.com/pdf/apprendre-theorie-tablature.pdf
 [twitter]:https://twitter.com/accordguitare

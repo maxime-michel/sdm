@@ -80,4 +80,4 @@ pour autodidactes" en cliquant [ici][autodidactes].
 
 [blog]:https://blog.antoineherve.com/
 [twitter]:https://twitter.com/accordguitare
-[autodidactes]:https://www.accordersaguitare.com/les-meilleurs-exercices-pour-autodidactes/
+[autodidactes]:/les-meilleurs-exercices-pour-autodidactes/
