@@ -207,9 +207,8 @@ s'inspirer de ces musiciens d'exception ?
 Si cet article vous a plu, n'hésitez pas à me suivre sur Twitter 
 (@accordguitare) en cliquant [ici][twitter]. Si vous n'en avez pas encore, vous 
 pouvez acheter un diapason en cliquant [ici][diapason]. Vous pouvez aussi lire 
-mon article "Les meilleurs exercices pour autodidactes" en cliquant 
-[ici][autodidactes].
+mon article ["Les meilleurs exercices pour autodidactes"][autodidactes].
 
 [diapason]:http://diapason.accordersaguitare.com
 [twitter]:https://twitter.com/accordguitare
-[autodidactes]:https://www.accordersaguitare.com/les-meilleurs-exercices-pour-autodidactes/
+[autodidactes]:/les-meilleurs-exercices-pour-autodidactes/
