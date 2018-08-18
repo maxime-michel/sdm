@@ -87,7 +87,7 @@ guitare juste, ce qui peut vous tirer d'affaire dans un scénario tel que celui
 que je décrivais plus haut : vous êtes chez des amis et l'on vous met entre les 
 mains une guitare que personne n'a plus jouée depuis des semaines.
 
-## Méthode du débutant
+## Méthode du débutant
 
 Quand on apprend la guitare, on apprend généralement à commencer l'accordage 
 avec le La de la cinquième case de la petite corde de Mi. Puis on remonte le 
