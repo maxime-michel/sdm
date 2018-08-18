@@ -17,8 +17,7 @@ Vous avez peut-être déjà vu ces vidéos de musiciens qui reprennent "25 chans
 débutants sont surpris d'apprendre que la très grande majorité de la musique 
 qu'ils écoutent à la radio, est en fait toujours la même !
 
-(Cliquez [ici][4-accords-22-chansons] pour voir 22 chansons reprises avec 4 
-accords.)
+{% include youtube.html id="TGmAzYW6-Yk" %}
 
 Le malheur est que beaucoup ne s'en rendent jamais compte. Si vous passez de 
 morceau en morceau et que vous travaillez avec l'enregistrement original 
@@ -112,7 +111,6 @@ la musique est inimaginable.
 Si cet article vous a plu, n'hésitez pas à me suivre sur Twitter 
 (@accordguitare) en cliquant [ici][twitter].
 
-[4-accords-22-chansons]:https://www.youtube.com/watch?v=TGmAzYW6-Yk
 [avancer]:https://www.youtube.com/watch?v=khOjDeTNFu8
 [despacito]:https://www.youtube.com/watch?v=kJQP7kiw5Fk
 [twitter]:https://twitter.com/accordguitare
