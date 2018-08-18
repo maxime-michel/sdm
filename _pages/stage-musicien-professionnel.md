@@ -1,6 +1,6 @@
 ---
 date: 2018-07-28
-title: "Ce que j'ai retenu de mon stage avec un musicien professionnel"
+title: "Bilan de mon stage avec un musicien professionnel"
 description: >
   Prochainement…
 ---
