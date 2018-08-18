@@ -1,6 +1,6 @@
 ---
 date: 2017-08-10
-title: "Faut-il apprendre la théorie ?"
+title: "Faut-il apprendre la théorie ?"
 description: >
   Prochainement…
 ---
