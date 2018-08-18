@@ -63,7 +63,9 @@ Et je dis qu'il ne serait jamais devenu Jimi Hendrix sans cela. Non seulement
 sa guitare sonnait mieux, résonnait mieux (ce qui lui a permis d'utiliser 
 l'effet larsen avec son ampli plus facilement, par la suite), mais il a eu une 
 grande liberté de mouvement sur scène, qui lui a permis de pouvoir réaliser des 
-performances étonnantes (comme [celle-ci][hendrix] par exemple).
+performances étonnantes, comme celle-ci par exemple :
+
+{% include youtube.html id="cJunCsrhJjg" %}
 
 Cela n'est certes pas l'objectif principal que je cherche à vous faire 
 atteindre. J'aimerais simplement vous faire comprendre que bien qu'Hendrix 
@@ -163,6 +165,5 @@ Si cet article vous a plu, n'hésitez pas à me suivre sur Twitter
 "Les meilleurs exercices pour autodidactes" en cliquant [ici][autodidactes].
 
 [accordages-alternatifs]:https://www.accordersaguitare.com/accordages-alternatifs/
-[hendrix]:https://www.youtube.com/watch?v=cJunCsrhJjg
 [twitter]:https://twitter.com/accordguitare
 [autodidactes]:https://www.accordersaguitare.com/les-meilleurs-exercices-pour-autodidactes/
