@@ -12,7 +12,7 @@ est aussi à l'aise en classique qu'en improvisation à partir de thèmes pop. S
 conseils sont donc valides pour tout le monde. Ca tombe bien, car c'est un 
 excellent pédagogue francophone.
 
-(Cliquez [ici][watermelon-man] pour accéder à une vidéo d'Antoine Hervé.)
+{% include youtube.html id="K2OXKeT-Qj0" %}
 
 J'ai été fasciné par cette rencontre. A la rigueur, la méthode qu'il nous a 
 donnée durant ce stage, on la trouve en ligne. Les conseils, on les connaît. 
@@ -78,7 +78,6 @@ n'hésitez pas à me suivre sur Twitter (@accordguitare) en cliquant
 [ici][twitter]. Vous pouvez aussi lire mon article "Les meilleurs exercices 
 pour autodidactes" en cliquant [ici][autodidactes].
 
-[watermelon-man]:https://www.youtube.com/watch?v=K2OXKeT-Qj0
 [blog]:https://blog.antoineherve.com/
 [twitter]:https://twitter.com/accordguitare
 [autodidactes]:https://www.accordersaguitare.com/les-meilleurs-exercices-pour-autodidactes/
