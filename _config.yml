@@ -22,6 +22,8 @@ teaser                   : "/img/pages/index.jpg"
 words_per_minute         : 200
 comments:
   provider               : "staticman_v2"
+staticman:
+  branch                 : "master"
 reCaptcha:
   siteKey                :
   secret                 :
