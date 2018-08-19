@@ -3,6 +3,8 @@ date: 2017-04-29
 title: "Le meilleur accordeur ? Votre oreille !"
 description: >
   Prochainement…
+tags:
+  - guitare
 ---
 
 Il paraîtra peut-être amusant à certains que le créateur d'Accorder sa guitare 

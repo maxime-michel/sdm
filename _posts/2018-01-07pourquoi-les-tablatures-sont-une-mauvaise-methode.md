@@ -6,6 +6,8 @@ description: >
   la guitare au travail plus fructueux de l'oreille ou du solfège.
 header:
   image: /img/pages/pourquoi-les-tablatures-sont-une-mauvaise-methode.jpg
+tags:
+  - guitare
 ---
 
 Les musiciens professionnels se divisent en deux catégories : les gens qui ont 
