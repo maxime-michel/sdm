@@ -6,6 +6,8 @@ description: >
   progresser et qui ont peut-être brûlé les étapes.
 header:
   image: /img/pages/les-meilleurs-exercices-pour-autodidactes.jpg
+tags:
+  - attitude
 ---
 
 Corrigez-moi si je me trompe, mais il me semble que ce qui caractérise 

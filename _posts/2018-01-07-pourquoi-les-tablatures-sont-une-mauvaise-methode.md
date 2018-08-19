@@ -8,6 +8,8 @@ header:
   image: /img/pages/pourquoi-les-tablatures-sont-une-mauvaise-methode.jpg
 tags:
   - guitare
+  - rythme
+  - theorie
 ---
 
 Les musiciens professionnels se divisent en deux catégories : les gens qui ont 

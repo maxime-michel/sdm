@@ -3,6 +3,9 @@ date: 2017-04-30
 title: "Quelle différence entre les tonalités à la guitare ?"
 description: >
   Prochainement…
+tags:
+  - theorie
+  - harmonie
 ---
 
 Que vous appreniez de nouveaux morceaux à l'aide de tablatures trouvées en 

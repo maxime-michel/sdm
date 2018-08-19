@@ -3,6 +3,9 @@ date: 2017-08-10
 title: "Faut-il apprendre la théorie ?"
 description: >
   Prochainement…
+tags:
+  - theorie
+  - harmonie
 ---
 
 J'ai récemment retrouvé une vieille composition que j'avais complètement 

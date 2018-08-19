@@ -3,6 +3,9 @@ date: 2017-07-28
 title: "Jouer un morceau à l'oreille et du premier coup ?"
 description: >
   Prochainement…
+tags:
+  - theorie
+  - harmonie
 ---
 
 Je voudrais vous présenter aujourd'hui une idée que je n'ai découverte qu'il y 

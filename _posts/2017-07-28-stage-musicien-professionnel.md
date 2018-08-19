@@ -3,6 +3,8 @@ date: 2017-07-28
 title: "Bilan de mon stage avec un musicien professionnel"
 description: >
   Prochainement…
+tags:
+  - attitude
 ---
 
 J'ai eu l'immense chance, cet été, de participer à un stage d'une semaine 
