@@ -3,6 +3,8 @@ date: 2018-07-23
 title: "Secrets de Musiciens"
 description: >
   Prochainement…
+layout: home
+author_profile: true
 ---
 
 Ce site est destiné à devenir une vaste collection de déclics que j'ai eus lors 
