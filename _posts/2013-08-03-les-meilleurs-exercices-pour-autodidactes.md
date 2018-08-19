@@ -4,6 +4,8 @@ title: "Exercices pour progresser comme autodidacte"
 description: >
   Conseils et réfléxions pour les autodidactes qui ont l'impression de ne plus 
   progresser et qui ont peut-être brûlé les étapes.
+header:
+  image: /img/pages/les-meilleurs-exercices-pour-autodidactes.jpg
 ---
 
 Corrigez-moi si je me trompe, mais il me semble que ce qui caractérise 
