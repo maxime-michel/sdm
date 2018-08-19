@@ -5,6 +5,7 @@ description: >
   Prochainement…
 layout: home
 author_profile: false
+permalink: /
 ---
 
 Ce site est destiné à devenir une vaste collection de déclics que j'ai eus lors 
