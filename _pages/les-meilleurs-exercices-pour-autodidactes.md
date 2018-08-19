@@ -32,7 +32,7 @@ bases et qu'il produit de façon si régulière des virtuoses, c'est que bien
 qu'ennuyeux en apparence il est une meilleure manière de faire. Alors certes, 
 il existe d'excellents musiciens autodidactes. Mais combien de mauvais 
 autodidactes chacun de ces derniers cache-t-il ? Et peut-on vraiment les 
-considérer comme des autodidactes au sens où on l'entend aujourd'hui, quand on 
+considérer comme des autodidactes au sens que l'on entend aujourd'hui, quand on 
 sait que dans le milieu du jazz, par exemple, on apprenait systématiquement au 
 contact de meilleurs musiciens que soi, dans les clubs, chose aujourd'hui 
 perdue et que même les écoles n'arrivent pas à recréer ? En apprenant sur 
