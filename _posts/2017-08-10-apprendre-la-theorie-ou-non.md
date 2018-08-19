@@ -1,8 +1,15 @@
 ---
 date: 2017-08-10
 title: "Faut-il apprendre la théorie ?"
-description: >
-  Prochainement…
+excerpt: >
+  Exemple concret de ce que la théorie permet de comprendre, sur une 
+  composition écrite sans se soucier d'aucune règle !
+header:
+  teaser: /img/jeune-homme-concentre_300.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /img/jeune-homme-concentre.jpg
+categories: [theorie,harmonie]
 ---
 
 J'ai récemment retrouvé une vieille composition que j'avais complètement 
@@ -61,6 +68,7 @@ beaucoup de morceaux différents, pour s'imprégner de musique.
     B1, répété trois fois :
     Lab maj7  Lab maj7  Lab maj7  Lab maj7
     Do min7   Do min7   Sib       Sib
+
     B2 :
     Sib       Sib       Si dim    Si dim
 
@@ -97,12 +105,8 @@ Bref, de cette manière, la théorie permet, au final, de décupler le plaisir !
 Qui l'eût cru ? Apprenez donc la théorie, mais seulement quand vous en avez un 
 besoin concret !
 
-Si cet article vous a plu, n'hésitez pas à me suivre sur Twitter 
-(@accordguitare) en cliquant [ici][twitter].
-
 [passacaille]: https://www.youtube.com/watch?v=Gfh_0XZBcBk
 [tonalites]:/comprendre-les-tonalites/
 [oreille]:/jouer-a-l-oreille/
-[exemple]:https://www.accordersaguitare.com/pdf/apprendre-theorie-exemple.mp3
+[exemple]:/audio/apprendre-theorie-exemple.mp3
 [tablature]:https://www.accordersaguitare.com/pdf/apprendre-theorie-tablature.pdf
-[twitter]:https://twitter.com/accordguitare

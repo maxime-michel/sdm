@@ -1,8 +1,15 @@
 ---
 date: 2017-04-30
 title: "Quelle différence entre les tonalités à la guitare ?"
-description: >
-  Prochainement…
+excerpt: >
+  En raison de l'accordage standard en Mi d'une guitare, certaines tonalités 
+  sont à préférer afin de se faciliter la vie autant que l'on peut.
+header:
+  teaser: /img/guitare-folk-avec-capodastre_300.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /img/guitare-folk-avec-capodastre.jpg
+categories: [theorie,harmonie,guitare]
 ---
 
 Que vous appreniez de nouveaux morceaux à l'aide de tablatures trouvées en 
@@ -158,12 +165,5 @@ par exemple. Ou vous entendre avec le chanteur avant de jouer, et préparer chez
 vous un arrangement qui utilise le plus possible des accords qui possèdent des 
 cordes à vide. Cela prend du temps mais en vaut vraiment la peine.
 
-## Mot de la fin
-
-Si cet article vous a plu, n'hésitez pas à me suivre sur Twitter 
-(@accordguitare) en cliquant [ici][twitter]. Vous pouvez aussi lire mon article 
-"Les meilleurs exercices pour autodidactes" en cliquant [ici][autodidactes].
-
 [accordages-alternatifs]:https://www.accordersaguitare.com/accordages-alternatifs/
-[twitter]:https://twitter.com/accordguitare
 [autodidactes]:/les-meilleurs-exercices-pour-autodidactes/

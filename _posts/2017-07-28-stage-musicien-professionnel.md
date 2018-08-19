@@ -1,8 +1,15 @@
 ---
 date: 2017-07-28
 title: "Ce que j'ai retenu de mon stage avec un musicien professionnel"
-description: >
-  Prochainement…
+excerpt: >
+  Bilan de mon stage de piano jazz d'une semaine avec Antoine Hervé, pianiste 
+  et pédagogue de premier plan.
+header:
+  teaser: /img/homme-piano_300.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /img/homme-piano.jpg
+categories: [attitude]
 ---
 
 J'ai eu l'immense chance, cet été, de participer à un stage d'une semaine 
@@ -29,7 +36,7 @@ ses conseils est donc multiplié.
 J'ai pensé que cela vous intéresserait que je partage les idées principales que 
 je retiendrai de stage. J'ai pris une dizaine de pages de notes, que j'ai 
 condensées en trois lors de la mise au propre. Je vais devoir malheureusement 
-synthétiser à nouveau pour cet email, mais n'hésitez pas à me poser une 
+synthétiser à nouveau pour cet article, mais n'hésitez pas à me poser une 
 question sur tel ou tel point si vous le voulez.
 
 ## Aller lentement
@@ -73,11 +80,9 @@ bureaux, et de stress.
 ## Conclusion
 
 J'espère que ces conseils vous aideront. Pour plus de détails, vous pouvez lire 
-le blog d'Antoine Hervé en cliquant [ici][blog]. Si cet article vous a plu, 
-n'hésitez pas à me suivre sur Twitter (@accordguitare) en cliquant 
-[ici][twitter]. Vous pouvez aussi lire mon article "Les meilleurs exercices 
-pour autodidactes" en cliquant [ici][autodidactes].
+le blog d'Antoine Hervé en cliquant [ici][blog]. Vous pouvez aussi lire mon 
+article "Les meilleurs exercices pour autodidactes" en cliquant 
+[ici][autodidactes].
 
 [blog]:https://blog.antoineherve.com/
-[twitter]:https://twitter.com/accordguitare
 [autodidactes]:/les-meilleurs-exercices-pour-autodidactes/

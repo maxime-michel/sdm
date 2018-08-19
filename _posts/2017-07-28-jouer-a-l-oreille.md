@@ -1,8 +1,15 @@
 ---
 date: 2017-07-28
-title: "Jouer un morceau à l'oreille et du premier coup ?"
-description: >
-  Prochainement…
+title: "Jouer un morceau à l'oreille et du premier coup ?"
+excerpt: >
+  Il existe une méthode très simple pour améliorer son oreille rapidement : 
+  transposer tous les morceaux que l'on étudie dans la même tonalité.
+header:
+  teaser: /img/homme-au-casque_300.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /img/homme-au-casque.jpg
+categories: [theorie,harmonie]
 ---
 
 Je voudrais vous présenter aujourd'hui une idée que je n'ai découverte qu'il y 
@@ -76,13 +83,13 @@ Prenons un exemple. Voici deux morceaux, les notes principales utilisées dans
 leur mélodie, ainsi que leurs accords (au début). La tonalité de référence est 
 Do majeur / La mineur, correspondant à la gamme de Do majeur.
 
-[Ridsa - Avancer][avancer]
+{% include video id="khOjDeTNFu8" provider="youtube" %}
 
 - accords : Sol mineur, Mib, Sib, Fa
 - mélodie : Sol, Ré, Mib, Fa, Do
 - tonalité : Sib majeur
 
-[Luis Fonsi & Daddy Yankee Featuring Justin Bieber - Despacito][despacito]
+{% include video id="kJQP7kiw5Fk" provider="youtube" %}
 
 - accords : Si mineur, Sol, Ré, La
 - mélodie : Si, Fa#, Do#, Ré, Mi, La
@@ -107,10 +114,3 @@ permet, comme je le disais, plus d'assurance, mais aussi, à terme : de pouvoir
 composer volontairement et non par hasard, de pouvoir accéder à des genres plus 
 évolués comme le jazz, où, contrairement à la pop et au rock, ne pas comprendre 
 la musique est inimaginable.
-
-Si cet article vous a plu, n'hésitez pas à me suivre sur Twitter 
-(@accordguitare) en cliquant [ici][twitter].
-
-[avancer]:https://www.youtube.com/watch?v=khOjDeTNFu8
-[despacito]:https://www.youtube.com/watch?v=kJQP7kiw5Fk
-[twitter]:https://twitter.com/accordguitare

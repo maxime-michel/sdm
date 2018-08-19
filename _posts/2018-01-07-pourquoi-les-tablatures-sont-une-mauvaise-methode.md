@@ -4,6 +4,13 @@ title: "Pourquoi les tablatures sont une mauvaise méthode"
 description: >
   Comparaison des tablatures utilisées dans l'apprentissage en autodidacte de 
   la guitare au travail plus fructueux de l'oreille ou du solfège.
+header:
+  teaser: /img/etude-tablatures_300.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /img/etude-tablatures.jpg
+excerpt: "Comparaison des tablatures utilisées dans l'apprentissage en autodidacte de la guitare au travail plus fructueux de l'oreille ou du solfège."
+categories: [guitare,theorie]
 ---
 
 Les musiciens professionnels se divisent en deux catégories : les gens qui ont 

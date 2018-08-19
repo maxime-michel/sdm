@@ -4,6 +4,13 @@ title: "Exercices pour progresser comme autodidacte"
 description: >
   Conseils et réfléxions pour les autodidactes qui ont l'impression de ne plus 
   progresser et qui ont peut-être brûlé les étapes.
+header:
+  teaser: /img/pieces-puzzle_300.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /img/pieces-puzzle.jpg
+excerpt: "Conseils et réfléxions pour les autodidactes qui ont l'impression de ne plus progresser et qui ont peut-être brûlé les étapes."
+categories: [attitude]
 ---
 
 Corrigez-moi si je me trompe, mais il me semble que ce qui caractérise 

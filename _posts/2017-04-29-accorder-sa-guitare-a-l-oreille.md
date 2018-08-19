@@ -1,13 +1,21 @@
 ---
 date: 2017-04-29
 title: "Le meilleur accordeur ? Votre oreille !"
-description: >
-  Prochainement…
+excerpt: >
+  Une oreille entraînée a beaucoup d'avantages par rapport à un accordeur 
+  électronique, un accordage plus précis par exemple !
+header:
+  teaser: /img/mecaniques-guitare_300.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /img/mecaniques-guitare.jpg
+categories: [guitare]
 ---
 
-Il paraîtra peut-être amusant à certains que le créateur d'Accorder sa guitare 
-lui-même vante les mérites de l'accordage à l'oreille, sans l'accordeur qu'il 
-propose sur son site, donc. Le paradoxe s'explique toutefois aisément.
+Il paraîtra peut-être amusant à certains que le créateur d'[Accorder sa 
+guitare][asg] lui-même vante les mérites de l'accordage à l'oreille, sans 
+l'accordeur qu'il propose sur son site, donc. Le paradoxe s'explique toutefois 
+aisément.
 
 En 2011, quand j'ai créé ce site, je ne m'accordais, comme beaucoup, qu'à 
 l'aide d'un accordeur. Bien que l'idée me venait parfois de le faire à 
@@ -204,11 +212,10 @@ améliorerez aussi votre oreille. Les musiciens des meilleurs orchestres
 symphoniques du monde s'accordent systématiquement à l'oreille, pourquoi ne pas 
 s'inspirer de ces musiciens d'exception ?
 
-Si cet article vous a plu, n'hésitez pas à me suivre sur Twitter 
-(@accordguitare) en cliquant [ici][twitter]. Si vous n'en avez pas encore, vous 
-pouvez acheter un diapason en cliquant [ici][diapason]. Vous pouvez aussi lire 
-mon article ["Les meilleurs exercices pour autodidactes"][autodidactes].
+Si vous n'en avez pas encore, vous pouvez acheter un diapason en cliquant 
+[ici][diapason]. Vous pouvez aussi lire mon article ["Les meilleurs exercices 
+pour autodidactes"][autodidactes].
 
+[asg]:https://www.accordersaguitare.com
 [diapason]:http://diapason.accordersaguitare.com
-[twitter]:https://twitter.com/accordguitare
 [autodidactes]:/les-meilleurs-exercices-pour-autodidactes/
