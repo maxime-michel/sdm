@@ -65,7 +65,7 @@ l'effet larsen avec son ampli plus facilement, par la suite), mais il a eu une
 grande liberté de mouvement sur scène, qui lui a permis de pouvoir réaliser des 
 performances étonnantes, comme celle-ci par exemple :
 
-{% include youtube.html id="cJunCsrhJjg" %}
+{% include video id="cJunCsrhJjg" provider="youtube" %}
 
 Cela n'est certes pas l'objectif principal que je cherche à vous faire 
 atteindre. J'aimerais simplement vous faire comprendre que bien qu'Hendrix 

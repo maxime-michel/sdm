@@ -12,7 +12,7 @@ est aussi à l'aise en classique qu'en improvisation à partir de thèmes pop. S
 conseils sont donc valides pour tout le monde. Ca tombe bien, car c'est un 
 excellent pédagogue francophone.
 
-{% include youtube.html id="K2OXKeT-Qj0" %}
+{% include video id="K2OXKeT-Qj0" provider="youtube" %}
 
 J'ai été fasciné par cette rencontre. A la rigueur, la méthode qu'il nous a 
 donnée durant ce stage, on la trouve en ligne. Les conseils, on les connaît. 

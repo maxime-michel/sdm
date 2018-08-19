@@ -17,7 +17,7 @@ Vous avez peut-être déjà vu ces vidéos de musiciens qui reprennent "25 chans
 débutants sont surpris d'apprendre que la très grande majorité de la musique 
 qu'ils écoutent à la radio, est en fait toujours la même !
 
-{% include youtube.html id="TGmAzYW6-Yk" %}
+{% include video id="TGmAzYW6-Yk" provider="youtube" %}
 
 Le malheur est que beaucoup ne s'en rendent jamais compte. Si vous passez de 
 morceau en morceau et que vous travaillez avec l'enregistrement original 
