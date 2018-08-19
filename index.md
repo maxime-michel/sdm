@@ -4,7 +4,7 @@ title: "Secrets de Musiciens"
 description: >
   Prochainement…
 layout: home
-author_profile: true
+author_profile: false
 ---
 
 Ce site est destiné à devenir une vaste collection de déclics que j'ai eus lors 
