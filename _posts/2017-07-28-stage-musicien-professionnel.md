@@ -1,5 +1,5 @@
 ---
-date: 2018-07-28
+date: 2017-07-28
 title: "Bilan de mon stage avec un musicien professionnel"
 description: >
   Prochainement…
