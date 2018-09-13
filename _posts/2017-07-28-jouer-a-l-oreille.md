@@ -22,7 +22,7 @@ de morceaux.
 Vous avez peut-être déjà vu ces vidéos de musiciens qui reprennent "25 chansons 
 à l'aide de 4 accords". Ces vidéos ont du succès car les gens et les musiciens 
 débutants sont surpris d'apprendre que la très grande majorité de la musique 
-qu'ils écoutent à la radio, est en fait toujours la même !
+qu'ils écoutent à la radio est en fait toujours la même !
 
 {% include video id="TGmAzYW6-Yk" provider="youtube" %}
 
@@ -47,9 +47,10 @@ ici d'une tonalité pour votre travail personnel.
 
 ## Connaître la tonalité
 
-Je conseille de choisir la tonalité de Do majeur / La mineur, qui correspond à 
-la gamme de Do. Si vous avez une autre préférence, cela ira aussi, à partir du 
-moment où vous arrêtez votre choix définitivement à partir d'aujourd'hui.
+Je conseille de choisir la tonalité de Do majeur / La mineur, qui correspond 
+aux touches blanches du piano. Si vous avez une autre préférence, cela ira 
+aussi, à partir du moment où vous arrêtez votre choix définitivement à partir 
+d'aujourd'hui.
 
 Une fois cette tonalité déterminée, la première étape est de la connaître. 
 Quelles notes et accords contient-elle ? Quels sont les accords et notes 
@@ -58,16 +59,16 @@ n'hésitez pas à m'écrire et je donnerai plus de détails sur la question.
 
 ## Exercice
 
-A partir du moment où vous aurez défini une tonalité de référence, et 
-réfléchirez dans cette tonalité lors de votre pratique musicale, un exercice 
+A partir du moment où vous avez défini une tonalité de référence, et 
+réfléchissez dans cette tonalité lors de votre pratique musicale, un exercice 
 très intéressant est de vous mettre à analyser la musique que vous écoutez. 
 Prenez un morceau suffisamment simple, et essayez de *sentir* quels accords 
-sont utilisés. Essayez de mentaliser ce morceau avant même de toucher votre 
-guitare.
+sont utilisés. Essayez de voir ce morceau avant même de toucher votre 
+instrument.
 
 Comme nous l'avons vu plus haut, 90% de la musique pop utilise les mêmes 
 accords. Si vous avez déjà quelques années d'expérience, vous devriez être 
-capable de reconnaître certaines suites d'accords. A force d'entraînement, vous 
+capable de reconnaître certains enchaînements. A force d'entraînement, vous 
 pourrez transcrire la plupart des morceaux de cette manière.
 
 Il en va de même des mélodies, à ceci près que pour un guitariste les accords 
@@ -80,8 +81,7 @@ fois.
 ## Exemple
 
 Prenons un exemple. Voici deux morceaux, les notes principales utilisées dans 
-leur mélodie, ainsi que leurs accords (au début). La tonalité de référence est 
-Do majeur / La mineur, correspondant à la gamme de Do majeur.
+leur mélodie, ainsi que leurs accords (au début)
 
 {% include video id="khOjDeTNFu8" provider="youtube" %}
 
@@ -113,4 +113,4 @@ Je reviendrai sur ce sujet dans d'autres articles. Une telle technique mentale
 permet, comme je le disais, plus d'assurance, mais aussi, à terme : de pouvoir 
 composer volontairement et non par hasard, de pouvoir accéder à des genres plus 
 évolués comme le jazz, où, contrairement à la pop et au rock, ne pas comprendre 
-la musique est inimaginable.
+la théorie est inimaginable.

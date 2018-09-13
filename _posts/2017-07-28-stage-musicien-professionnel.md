@@ -28,31 +28,32 @@ vraiment une expérience spéciale.
 
 Les professeurs de musique que nous avons chacun côtoyés ne nous fascinent pour 
 la plupart pas vraiment. Ils savent jouer mais sont rarement des artistes 
-recherchés. Là, c'est autre chose. Même si je n'écoute que rarement la 
-discographie d'Antoine Hervé, quand il se met au piano, c'est un véritable 
-shaman. Il est très à l'aise et a un son exceptionnel. L'impact du moindre de 
-ses conseils est donc multiplié.
+prisés. Là, c'est autre chose. Même si je n'écoute que rarement la discographie 
+d'Antoine, quand il se met au piano, c'est un véritable shaman. Il a un son 
+exceptionnel et semble y parvenir sans le moindre effort. L'impact du moindre 
+de ses conseils est donc multiplié.
 
-J'ai pensé que cela vous intéresserait que je partage les idées principales que 
-je retiendrai de stage. J'ai pris une dizaine de pages de notes, que j'ai 
+J'ai pensé qu'il pourrait être intéressant que je partage les idées principales 
+que je retiendrai de stage. J'ai pris une dizaine de pages de notes, que j'ai 
 condensées en trois lors de la mise au propre. Je vais devoir malheureusement 
 synthétiser à nouveau pour cet article, mais n'hésitez pas à me poser une 
 question sur tel ou tel point si vous le voulez.
 
-## Aller lentement
+## Aller très lentement
 
-Lui-même avoue avoir travaillé des heures des choses très simples : deux 
-accords (afin de vraiment bien les sentir), ou une mélodie seule, par exemple.
+Lui-même avoue sans honte avoir travaillé des heures des choses très simples : 
+deux accords (afin de vraiment *bien* les sentir), ou une mélodie seule, par 
+exemple.
 
 Travailler les choses lentement (mettre un métronome à 40 BPM) permet de se 
-calmer. Nous sommes tous trop stressés en France et en Europe. Or la crispation 
-s'entend quand quelqu'un joue. Il faut donc l'évacuer quand nous prenons notre 
-guitare.
+calmer et d'évacuer le stress inhérent au mode de vie occidental. Cela est 
+important car la crispation s'entend quand quelqu'un joue. Il faut donc 
+l'évacuer quand nous prenons notre instrument.
 
 Ne jamais jouer un morceau que l'on apprend à la vitesse finale. Cela nous fait 
 prendre de mauvaises habitudes qu'il sera difficile de déprogrammer. Le jouer 
 lentement très longtemps d'abord, puis augmenter la vitesse graduellement. Le 
-résultat sera époustouflant.
+cerveau assimilera les paramètres un à un. Le résultat sera époustouflant.
 
 ## Le son, la mélodie
 
@@ -69,20 +70,19 @@ la soutenir dans ses élans, etc.
 
 Pour pouvoir lâcher prise dans sa carrière de musicien, il faut avoir être 
 tendu à un moment dans son apprentissage. Passer par cette étape est donc 
-normal, une espèce de un rite de passage. Antoine Hervé lui-même l'a connu !
+normal, une espèce de un rite de passage.
 
-Un musicien accompli doit être quelqu'un de détendu, dégager une aura. Il doit 
-prendre plaisir à jouer son instrument, et ce plaisir doit se ressentir dans sa 
-vie de tous les jours. La musique devient alors une véritable philosophie de 
-vie, et le musicien un personnage qui détonne dans ce monde de calculs, de 
-bureaux, et de stress.
+Un musicien accompli doit être quelqu'un de détendu, dégager de bonnes ondes. 
+Il doit prendre plaisir à jouer son instrument, et ce plaisir doit se ressentir 
+dans sa vie de tous les jours. La musique devient alors une véritable 
+philosophie de vie, et le musicien un personnage qui détonne dans ce monde de 
+calculs, de bureaux, et de stress.
 
 ## Conclusion
 
-J'espère que ces conseils vous aideront. Pour plus de détails, vous pouvez lire 
-le blog d'Antoine Hervé en cliquant [ici][blog]. Vous pouvez aussi lire mon 
-article "Les meilleurs exercices pour autodidactes" en cliquant 
-[ici][autodidactes].
+Pour plus de détails, je vous invite à lire [le blog d'Antoine Hervé][blog], 
+même si je ne vous cache pas que rien ne vaut le stage en personne. N'hésitez 
+donc pas à vous jeter à l'eau si vous avez l'occasion de participer à un stage 
+qui vous intéresse !
 
 [blog]:https://blog.antoineherve.com/
-[autodidactes]:/les-meilleurs-exercices-pour-autodidactes/

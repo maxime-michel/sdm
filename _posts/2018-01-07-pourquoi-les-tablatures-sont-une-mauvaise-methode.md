@@ -1,7 +1,7 @@
 ---
 date: 2018-01-07
 title: "Pourquoi les tablatures sont une mauvaise méthode"
-description: >
+excerpt: >
   Comparaison des tablatures utilisées dans l'apprentissage en autodidacte de 
   la guitare au travail plus fructueux de l'oreille ou du solfège.
 header:
@@ -9,7 +9,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/etude-tablatures.jpg
-excerpt: "Comparaison des tablatures utilisées dans l'apprentissage en autodidacte de la guitare au travail plus fructueux de l'oreille ou du solfège."
 categories: [guitare,theorie]
 ---
 
@@ -20,7 +19,7 @@ pour jouer un morceau avec ou sans partition. Mais, si l'on simplifie, les
 musiciens que nous écoutons ont démarré leur apprentissage principalement grâce 
 à leurs propres transcriptions, ou dans une école.
 
-Grâce à Internet, les guitaristes amateurs apprennent eux des morceaux via des 
+Grâce à internet, les guitaristes amateurs apprennent eux des morceaux via des 
 tablatures. Depuis peu on voit aussi des vidéos YouTube avec la tablature en 
 sous-titre, ce qui revient au même. Dans un cas comme dans l'autre, les notes 
 sont servies sur un plateau d'argent, dans une notation simplifiée, sans que 
@@ -51,12 +50,13 @@ même pour des morceaux qu'ils ne connaissent pas !
 
 Pour les tablatures, en revanche, l'apprentissage est beaucoup plus rapide. 
 D'ailleurs, il n'y a pas vraiment de notation arrêtée. On est dans le domaine 
-du flou, du cas par cas, de l'arbitraire. On voit certes parfois des tablatures 
-qui indiquent le rythme, elles se servent alors de la notation que l'on 
-retrouve sur les partitions. Mais à mon sens l'intérêt est moindre. A 
-l'exception des guitaristes classiques, la grande majorité des guitaristes ne 
-connaît pas ces signes. Pour les comprendre, il faut les avoir étudiés et 
-beaucoup pratiqués.
+du flou, du cas par cas, de l'arbitraire.
+
+On voit certes parfois des tablatures qui indiquent le rythme, elles se servent 
+alors de la notation que l'on retrouve sur les partitions. Mais à mon sens leur 
+intérêt est moindre. A l'exception des guitaristes classiques, la grande 
+majorité des guitaristes ne connaît pas ces signes. Pour les comprendre, il 
+faut les avoir étudiés et beaucoup pratiqués.
 
 ## Que faire ?
 
@@ -72,7 +72,7 @@ notation rythmique classique. Vous n'aurez pas à réinventer la roue et pourrez
 utiliser le même vocabulaire que les autres musiciens.
 
 J'utilise à cet effet le logiciel [Ear Master][earmaster]. Il propose plusieurs 
-chapitres dont des exercices de rythme, que vous devez taper sur votre clavier 
+chapitres, dont des exercices de rythme, que vous devez taper sur votre clavier 
 ou votre souris, et que l'ordinateur corrige si nécessaire. Les exercices sont 
 progressifs et correspondent à un cursus complet. Le logiciel est disponible en 
 français.
