@@ -74,8 +74,10 @@ que votre accordage corresponde à celui qu'on entend sur les disques ou sur un
 piano accordé. Quand vous jouez un La ou n'importe quelle autre note, il faut 
 que votre instrument émette une fréquence qui corresponde au standard. Cette 
 référence est le La 440 Hz. Les diapasons, que je recommande, et que l'on 
-trouve dans n'importe quel magasin de musique ([lien][diapason]), donnent cette 
-note.
+trouve [dans n'importe quel magasin de musique][diapason], donnent cette note.
+
+{% include figure alt="Diapason sur fond bleu clair"
+image_path="/img/diapason.jpg" caption="Un diapason" %}
 
 ## Utiliser le diapason
 
@@ -97,17 +99,17 @@ mains une guitare que personne n'a plus jouée depuis des semaines.
 
 ## Méthode du débutant
 
-Quand on apprend la guitare, on apprend généralement à commencer l'accordage 
+Quand on commence la guitare, on apprend généralement à commencer l'accordage 
 avec le La de la cinquième case de la petite corde de Mi. Puis on remonte le 
 manche en prenant à chaque fois la corde du dessous comme référence. Cette 
-méthode est détaillée sur le site. Le problème de cette méthode est que si vous 
-faites une légère erreur en cours de route, elle va se répercuter sur toutes 
-les autres cordes.
+méthode est [détaillée sur le site][accordage-debutant]. L'inconvénient est que 
+si vous faites une légère erreur en cours de route, elle va se répercuter sur 
+toutes les autres cordes.
 
-Par ailleurs, cette méthode présente un autre inconvénient. Quand vous vous 
+Par ailleurs, cette méthode présente un autre problème. Quand vous vous 
 accordez, votre main gauche règle la mécanique. Or, si vous appuyez sur la 
 cinquième case de la petite corde de Mi, vous ne pouvez pas régler la mécanique 
-en même temps. Vous devrez alterner entre l'une et l'autre, et vous perdrez du 
+en même temps. Vous devez alterner entre l'une et l'autre, et vous perdrez du 
 temps. Or c'est naturellement l'efficacité que nous recherchons.
 
 ## Commencer par la corde de La
@@ -138,7 +140,7 @@ manières de contourner ce problème.
 ## Harmoniques
 
 La première est l'accordage à l'aide des harmoniques. L'oreille humaine 
-distingue mieux les sons aigus que les graves. Or, les harmoniques étant plus 
+distingue mieux les sons aigus que les graves. Les harmoniques étant plus 
 aiguës que les cordes à vide, il est donc plus facile d'accorder deux 
 harmoniques que deux cordes à vide ou frettées.
 
@@ -151,14 +153,14 @@ référence la 7ème case de la corde de La (Mi)
 3. accorder la 7ème case de la corde de Sol (Ré) en prenant comme référence la 
 5ème case de la corde de Ré (Ré)
 
-A partir de ce moment, les choses deviennent plus difficiles. En effet, 
-l'intervalle entre entre Sol et Si est une tierce majeure, et non une quarte, 
-intervalle qui sépare les autres cordes adjacentes. On ne peut donc pas faire 
-correspondre la 7ème case de la corde de Si à la 5ème case de la corde de Sol. 
-Par ailleurs, les harmoniques aiguës ont moins de corps et sont plus difficiles 
-à entendre. C'est la raison pour laquelle la méthode préconisée est de faire 
-sonner des harmoniques de la grosse corde de Mi, et d'accorder les deux cordes 
-les plus aigües de cette manière :
+A partir de ce moment, la méthode doit être modifiée. En effet, l'intervalle 
+entre entre Sol et Si est une tierce majeure, et non une quarte, intervalle qui 
+sépare les autres cordes adjacentes. On ne peut donc pas faire correspondre la 
+7ème case de la corde de Si à la 5ème case de la corde de Sol. Par ailleurs, 
+les harmoniques aiguës ont moins de corps et sont plus difficiles à entendre. 
+C'est la raison pour laquelle la méthode préconisée est de faire sonner deux 
+harmoniques de la grosse corde de Mi, et d'accorder les deux cordes les plus 
+aigües de cette manière :
 
 4. 7ème case de la grosse corde de Mi = corde de Si à vide
 5. 5ème case de la grosse corde de Mi = corde de Mi à vide
@@ -174,7 +176,7 @@ préalablement la manière dont une quarte sonne.
 Si vous n'êtes pas encore à ce stade, je ne peux que vous conseiller de vous 
 entraîner peu à peu dans ce sens. Avoir les intervalles dans l'oreille vous 
 facilitera grandement la vie par la suite, par exemple quand il s'agira de 
-repiquer des chansons à l'oreille (nous aurons l'occasion d'en reparler).
+[repiquer des chansons à l'oreille][oreille].
 
 Remarquez que vous pouvez aussi utiliser cette méthode avec les harmoniques des 
 cordes à vide (12ème case).
@@ -184,16 +186,16 @@ cordes à vide (12ème case).
 Une fois votre accordage terminé, il est temps de le contrôler, et de 
 recommencer le processus jusqu'à être entièrement satisfait, avec la même 
 méthode, ou une autre. Pour ce faire j'utilise personnellement deux accords que 
-j'aime beaucoup et que je connais très bien. Il s'agit d'un Ré maj9 (X54650) et 
-d'un Ré 6/9 (X5445X), mais vous pouvez choisir ce que vous voulez si ceux-là ne 
-vous parlent pas. Je joue ces accords de diverses manières (corde par corde, 
-deux cordes à la fois, tout l'accord) en écoutant très attentivement la 
-justesse des notes.
+j'aime beaucoup et que je connais très bien. Il s'agit d'un Ré maj9 (`X54650`) 
+et d'un Ré 6/9 (`X5445X`), mais vous pouvez choisir ce que vous voulez si 
+ceux-là ne vous parlent pas. Je joue ces accords de diverses manières (corde 
+par corde, deux cordes à la fois, tout l'accord) en écoutant très attentivement 
+la justesse des notes.
 
 J'utilise aussi un accord en haut de manche, un bête Mi majeur. Car en raison 
-là encore de la construction imparfaite du manche de la guitare, il est 
-possible qu'un excellent accordage pour le milieu du manche sonne légèrement 
-faux en haut de manche, et vice-versa. Il s'agit donc de trouver un compromis.
+de la construction imparfaite du manche de la guitare, il est possible qu'un 
+excellent accordage pour le milieu du manche sonne légèrement faux en haut de 
+manche, et vice-versa. Il s'agit donc de trouver un compromis.
 
 ## Bon à savoir : la corde de Sol
 
@@ -210,12 +212,9 @@ les incorporer dans votre routine. Non seulement votre guitare sonnera mieux,
 mais avec cette manière de faire vous ne dépendrez plus d'un accordeur, et 
 améliorerez aussi votre oreille. Les musiciens des meilleurs orchestres 
 symphoniques du monde s'accordent systématiquement à l'oreille, pourquoi ne pas 
-s'inspirer de ces musiciens d'exception ?
-
-Si vous n'en avez pas encore, vous pouvez acheter un diapason en cliquant 
-[ici][diapason]. Vous pouvez aussi lire mon article ["Les meilleurs exercices 
-pour autodidactes"][autodidactes].
+s'inspirer de leur exemple ?
 
 [asg]:https://www.accordersaguitare.com
 [diapason]:http://diapason.accordersaguitare.com
-[autodidactes]:/les-meilleurs-exercices-pour-autodidactes/
+[accordage-debutant]:https://www.accordersaguitare.com/l-accordage-explique-aux-debutants/
+[oreille]:/jouer-a-l-oreille/

@@ -13,13 +13,13 @@ categories: [guitare,theorie]
 ---
 
 Les musiciens professionnels se divisent en deux catégories : les gens qui ont 
-appris la musique à l'oreille, et les gens qui ont appris à lire des 
+appris la musique [à l'oreille][oreille], et les gens qui ont appris à lire des 
 partitions. Evidemment, dans l'idéal, un musicien complet devra être à l'aise 
 pour jouer un morceau avec ou sans partition. Mais, si l'on simplifie, les 
 musiciens que nous écoutons ont démarré leur apprentissage principalement grâce 
 à leurs propres transcriptions, ou dans une école.
 
-Grâce à internet, les guitaristes amateurs apprennent eux des morceaux via des 
+Grâce à Internet, les guitaristes amateurs apprennent eux des morceaux via des 
 tablatures. Depuis peu on voit aussi des vidéos YouTube avec la tablature en 
 sous-titre, ce qui revient au même. Dans un cas comme dans l'autre, les notes 
 sont servies sur un plateau d'argent, dans une notation simplifiée, sans que 
@@ -87,3 +87,4 @@ au pire moment, en concert devant plusieurs centaines personnes…
 
 [earmaster]:http://earmaster.accordersaguitare.com
 [autodidactes]:/les-meilleurs-exercices-pour-autodidactes/
+[oreille]:/jouer-a-l-oreille/

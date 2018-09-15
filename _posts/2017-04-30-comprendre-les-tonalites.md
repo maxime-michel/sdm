@@ -12,26 +12,26 @@ header:
 categories: [theorie,harmonie,guitare]
 ---
 
-Que vous appreniez de nouveaux morceaux à l'aide de tablatures trouvées en 
-ligne, de vidéos YouTube, de livres de transcriptions, de votre oreille (à 
-partir d'enregistrements originaux), ou du répertoire que vous propose votre 
-professeur ; bref, si vous apprenez la guitare, vous vous retrouvez 
-nécessairement à apprendre des morceaux dans des tonalités différentes.
+Que vous appreniez de nouveaux morceaux à l'aide de [tablatures trouvées en 
+ligne][tablatures], de vidéos YouTube, de livres de transcriptions, [de votre 
+oreille (à partir d'enregistrements originaux)][oreille], ou du répertoire que 
+vous propose votre professeur ; bref, si vous apprenez la guitare, vous vous 
+retrouvez nécessairement à apprendre des morceaux dans des tonalités 
+différentes.
 
 Tel morceau de blues est en Si bémol majeur, tel morceau de pop en Do majeur, 
 tel morceau de rock en Ré majeur. Dans une chanson La mineur suit Fa majeur, 
-deux accords que vous connaissez. Dans une autre vous devez vous concentrer car 
-vous passez de La bémol majeur à Si bémol mineur, accords avec lesquels vous 
-êtes moins familier.
+deux accords que vous connaissez parfaitement. Dans une autre vous passez de La 
+bémol majeur à Si bémol mineur, accords avec lesquels vous êtes moins familier.
 
-Vous avez peut-être déjà réfléchi à ces questions et compris que les artistes 
+Vous avez peut-être déjà réfléchi à cette question et compris que les artistes 
 utilisent différentes tonalités principalement pour accomoder les chanteurs ou 
 les instruments tels que les cuivres. Contrairement à la guitare et au piano, 
 beaucoup d'instruments ont des tessitures restreintes, qui ne leur permettent 
 pas de jouer dans toutes les tonalités. Comme ces instruments jouent souvent la 
-mélodie, qui est primordiale, ils doivent pouvoir la jouer le mieux possible. 
-Et comme chaque mélodie et chaque formation musicale sont différentes, nous 
-avons différentes tonalités d'un morceau à l'autre.
+mélodie, qui est primordiale, ils ont la priorité par rapport aux autres 
+instruments. Et comme chaque mélodie et chaque formation musicale sont 
+différentes, nous avons différentes tonalités d'un morceau à l'autre.
 
 J'aimerais aujourd'hui poursuivre cette réfléxion en soulignant plusieurs 
 points qui sont à mon sens moins connus des guitaristes, mais pourtant 
@@ -66,26 +66,26 @@ bémol majeur, on joue l'accord de Mi bémol souvent), au lieu de jouer un barr�
 apprend dans ses premiers mois de guitare ! Un accord de Mi majeur sur une 
 guitare accordée en Mi bémol donne en effet un accord Mi bémol majeur.
 
-Et je dis qu'il ne serait jamais devenu Jimi Hendrix sans cela. Non seulement 
-sa guitare sonnait mieux, résonnait mieux (ce qui lui a permis d'utiliser 
-l'effet larsen avec son ampli plus facilement, par la suite), mais il a eu une 
-grande liberté de mouvement sur scène, qui lui a permis de pouvoir réaliser des 
-performances étonnantes, comme celle-ci par exemple :
+Et je pense qu'il ne serait jamais devenu Jimi Hendrix sans cette facilité. Non 
+seulement sa guitare sonnait mieux, résonnait mieux (ce qui lui a permis 
+d'utiliser l'effet larsen avec son ampli plus facilement, par la suite), mais 
+il a eu une grande liberté de mouvement sur scène, ce qui lui a permis de 
+pouvoir réaliser des performances étonnantes, comme celle-ci par exemple :
 
 {% include video id="cJunCsrhJjg" provider="youtube" %}
 
-Cela n'est certes pas l'objectif principal que je cherche à vous faire 
-atteindre. J'aimerais simplement vous faire comprendre que bien qu'Hendrix 
-savait jouer un barré à la 6ème case, il n'avait pas envie d'avoir à s'infliger 
-cet effort plusieurs fois par morceau, dans l'obscurité de la scène, lors de 
-longues tournées, lorsqu'il était surtout préoccupé à *ressentir* sa musique, 
-dont on parle encore aujourd'hui.
+Cela n'est certes pas l'objectif que je cherche à vous faire atteindre. 
+J'aimerais simplement vous faire comprendre que bien qu'Hendrix savait jouer un 
+barré à la 6ème case, il n'avait pas envie d'avoir à s'infliger cet effort 
+plusieurs fois par morceau, dans l'obscurité de la scène, lors de longues 
+tournées, lorsqu'il était surtout préoccupé à *ressentir* sa musique, dont on 
+parle encore aujourd'hui.
 
 Pour être un guitariste qui sort du lot il est impératif de comprendre ces 
 considérations. Vous ne devez pas penser que les musiciens que vous écoutez 
-jouent des choses trop difficiles pour vous. Vous devez au contraire rechercher 
-l'efficacité technique, ainsi qu'être sensible au son de votre instrument, en 
-toute circonstance.
+jouent des choses trop difficiles pour vous. Vous devez au contraire développer 
+votre propre efficacité technique, et être sensible au son de votre instrument, 
+en toutes circonstances.
 
 ## Le son
 
@@ -167,3 +167,5 @@ cordes à vide. Cela prend du temps mais en vaut vraiment la peine.
 
 [accordages-alternatifs]:https://www.accordersaguitare.com/accordages-alternatifs/
 [autodidactes]:/les-meilleurs-exercices-pour-autodidactes/
+[tablatures]:/pourquoi-les-tablatures-sont-une-mauvaise-methode/
+[oreille]:/jouer-a-l-oreille/

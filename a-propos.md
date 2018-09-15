@@ -8,16 +8,16 @@ classes: wide
 author_profile: true
 ---
 
-Maxime est un jeune musicien et pédagogue qui vit en Alsace. Il chante et 
+Maxime est un jeune musicien et pédagogue qui vit à Bâle. Il chante et 
 s'accompagne à la guitare dans un style bossa nova, mais joue aussi du piano 
 jazz. (extraits prochainement)
 
-Il apprend la musique à la guitare, et se retrouve rapidement sur scène, 
+Il découvre la musique avec une guitare, et se retrouve rapidement sur scène, 
 notamment lors d'un passage télévisé alors qu'il n'a que 22 ans. Mais ses goûts 
-musicaux l'attirent vers une musique plus sophistiquée, qu'il rêve de pouvoir 
-comprendre et jouer lui-même. Il consacre alors plusieurs années au piano, 
-instrument qui révèle des lacunes dans son jeu d'autodidacte, lacunes qu'il 
-comble avec beaucoup de motivation.
+musicaux se développent et l'attirent vers une musique plus sophistiquée, qu'il 
+rêve de pouvoir comprendre et jouer lui-même. Il consacre alors plusieurs 
+années au piano, instrument qui révèle des lacunes dans son jeu d'autodidacte, 
+lacunes qu'il comble avec beaucoup de motivation.
 
 Dès 2016, il suit [la méthode de Julian Bradley][musical-ear] et transcrit 
 plusieurs centaines de chansons en quelques mois. En parallèle à cela il 

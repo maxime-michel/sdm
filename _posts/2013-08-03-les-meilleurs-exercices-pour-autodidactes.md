@@ -41,7 +41,7 @@ autodidactes chacun de ces derniers cache-t-il ? Et peut-on vraiment les
 considérer comme des autodidactes au sens que l'on entend aujourd'hui, quand on 
 sait que dans le milieu du jazz, par exemple, on apprenait systématiquement [au 
 contact de meilleurs musiciens que soi][stage], dans les clubs, chose 
-aujourd'hui perdue et que même les écoles n'arrivent pas à recréer ? En 
+aujourd'hui perdue et que même les écoles de musique peinent à recréer ? En 
 apprenant sur YouTube on perd cette supervision, ces conseils précieux, et il 
 est extrêmement difficile de réinventer la roue tout seul, surtout pour 
 quelqu'un, comme on l'a vu, d'impatient.
@@ -56,3 +56,7 @@ disant : « Mon Dieu, quelle concentration surhumaine faut-il avoir pour jouer
 un plan aussi compliqué sans erreur et aussi proprement ! », j'ai compris que 
 ces plans sont tout à fait à ma portée si je prends le temps de construire 
 lentement et progressivement mon jeu.
+
+[tablatures]:/pourquoi-les-tablatures-sont-une-mauvaise-methode/
+[theorie]:/theorie/
+[stage]:/stage-musicien-professionnel/

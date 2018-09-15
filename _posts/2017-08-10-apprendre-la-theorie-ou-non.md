@@ -56,8 +56,8 @@ Voici la grille d'accords :
 
 Nous avons ici des arpèges sombres. Ils soulignent les accords Do mineur, Lab 
 majeur 7, Sol 7 et Si diminué. Ce son est typique du mode harmonique mineur. Il 
-est très austère et s'entend entre autres dans le classique : dans le morceau 
-de Bach que je citais tout à l'heure, par exemple. Ce qu'il s'est passé est que 
+est très austère et s'entend beaucoup dans le classique : dans le morceau de 
+Bach que je citais tout à l'heure, par exemple. Ce qu'il s'est passé est que 
 j'ai tellement bien assimilé cette couleur à force d'écouter et d'essayer de 
 jouer des morceaux qui l'utilisent, qu'elle est ressortie spontanément dans ma 
 composition. C'est la première étape : théorie ou non, il faut écouter et jouer 
