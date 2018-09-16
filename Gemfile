@@ -5,5 +5,4 @@ gem "jekyll"
 group :jekyll_plugins do
   gem "minimal-mistakes-jekyll"
   gem "jekyll-sitemap"
-  gem "jekyll-redirect-from"
 end
