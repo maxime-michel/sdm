@@ -85,6 +85,6 @@ pour certains à arrêter l'instrument.][autodidactes] Ou alors, comme moi il y 
 quelques années, à ce que vos lacunes, accentuées par le stress, se dévoilent 
 au pire moment, en concert devant plusieurs centaines personnes…
 
-[earmaster]:http://earmaster.accordersaguitare.com
+[earmaster]:https://www.secretsdemusiciens.com/liens/earmaster/
 [autodidactes]:/les-meilleurs-exercices-pour-autodidactes/
 [oreille]:/jouer-a-l-oreille/

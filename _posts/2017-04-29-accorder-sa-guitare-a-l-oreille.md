@@ -215,6 +215,6 @@ symphoniques du monde s'accordent systématiquement à l'oreille, pourquoi ne pa
 s'inspirer de leur exemple ?
 
 [asg]:https://www.accordersaguitare.com
-[diapason]:http://diapason.accordersaguitare.com
+[diapason]:https://www.secretsdemusiciens.com/liens/diapason/
 [accordage-debutant]:/liens/diapason/
 [oreille]:/jouer-a-l-oreille/
