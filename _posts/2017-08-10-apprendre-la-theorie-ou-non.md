@@ -1,5 +1,4 @@
 ---
-date: 2017-08-10
 title: "Faut-il apprendre la théorie ?"
 excerpt: >
   Exemple concret de ce que la théorie permet de comprendre, sur une 

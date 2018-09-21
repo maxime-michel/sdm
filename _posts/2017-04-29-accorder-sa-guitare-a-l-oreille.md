@@ -1,5 +1,4 @@
 ---
-date: 2017-04-29
 title: "Le meilleur accordeur ? Votre oreille !"
 excerpt: >
   Une oreille entraînée a beaucoup d'avantages par rapport à un accordeur 

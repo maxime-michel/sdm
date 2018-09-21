@@ -1,5 +1,4 @@
 ---
-date: 2017-04-30
 title: "Quelle différence entre les tonalités à la guitare ?"
 excerpt: >
   En raison de l'accordage standard en Mi d'une guitare, certaines tonalités 

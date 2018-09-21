@@ -1,5 +1,4 @@
 ---
-date: 2017-07-28
 title: "Jouer un morceau à l'oreille et du premier coup ?"
 excerpt: >
   Il existe une méthode très simple pour améliorer son oreille rapidement : 

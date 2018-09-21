@@ -1,5 +1,4 @@
 ---
-date: 2013-08-03
 title: "Exercices pour progresser comme autodidacte"
 excerpt: >
   Conseils et réfléxions pour les autodidactes qui ont l'impression de ne plus 

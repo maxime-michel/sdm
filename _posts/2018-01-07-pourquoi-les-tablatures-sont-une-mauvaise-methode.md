@@ -1,5 +1,4 @@
 ---
-date: 2018-01-07
 title: "Pourquoi les tablatures sont une mauvaise méthode"
 excerpt: >
   Comparaison des tablatures utilisées dans l'apprentissage en autodidacte de 

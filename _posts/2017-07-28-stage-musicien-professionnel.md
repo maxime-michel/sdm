@@ -1,5 +1,4 @@
 ---
-date: 2017-07-28
 title: "Ce que j'ai retenu de mon stage avec un musicien professionnel"
 excerpt: >
   Bilan de mon stage de piano jazz d'une semaine avec Antoine Hervé, pianiste 
