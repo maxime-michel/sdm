@@ -221,3 +221,8 @@ defaults:
       share: true
       related: true
       classes: wide
+
+collections:
+  links:
+    output: true
+    permalink: /liens/:path/
