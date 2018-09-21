@@ -1,11 +1,25 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="fr">
   <meta charset="utf-8">
-  <title>Redirecting&hellip;</title>
+  <title>Redirection&hellip;</title>
   <link rel="canonical" href="{{ page.redirect.to }}">
-  <script>location="{{ page.redirect.to }}"</script>
-  <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
+  <script>setTimeout(function() { location="{{ page.redirect.to }}" }, 500);</script>
   <meta name="robots" content="noindex">
-  <h1>Redirecting&hellip;</h1>
-  <a href="{{ page.redirect.to }}">Click here if you are not redirected.</a>
+  <h1>Redirection&hellip;</h1>
+  <a href="{{ page.redirect.to }}">Prière de cliquer ici si vous n'êtes pas redirigé automatiquement.</a>
+  <!-- Matomo -->
+  <script type="text/javascript">
+    var _paq = _paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="https://sdm.innocraft.cloud/";
+      _paq.push(['setTrackerUrl', u+'piwik.php']);
+      _paq.push(['setSiteId', '1']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <!-- End Matomo Code -->
 </html>
