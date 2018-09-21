@@ -64,12 +64,12 @@ jouait arrivaient sur un accord de Mi bémol (et quand on joue un morceau en Mi
 bémol majeur, on joue l'accord de Mi bémol souvent), au lieu de jouer un barré 
 à la 6ème case, il devait simplement jouer un accord de Mi, qu'un débutant 
 apprend dans ses premiers mois de guitare ! Un accord de Mi majeur sur une 
-guitare accordée en Mi bémol donne en effet un accord Mi bémol majeur.
+guitare accordée en Mi bémol donne en effet un accord de Mi bémol majeur.
 
 Et je pense qu'il ne serait jamais devenu Jimi Hendrix sans cette facilité. Non 
 seulement sa guitare sonnait mieux, résonnait mieux (ce qui lui a permis 
 d'utiliser l'effet larsen avec son ampli plus facilement, par la suite), mais 
-il a eu une grande liberté de mouvement sur scène, ce qui lui a permis de 
+il a aussi eu une grande liberté de mouvement sur scène, ce qui lui a permis de 
 pouvoir réaliser des performances étonnantes, comme celle-ci par exemple :
 
 {% include video id="cJunCsrhJjg" provider="youtube" %}

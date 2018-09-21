@@ -216,5 +216,5 @@ s'inspirer de leur exemple ?
 
 [asg]:https://www.accordersaguitare.com
 [diapason]:http://diapason.accordersaguitare.com
-[accordage-debutant]:https://www.accordersaguitare.com/l-accordage-explique-aux-debutants/
+[accordage-debutant]:/liens/diapason/
 [oreille]:/jouer-a-l-oreille/
