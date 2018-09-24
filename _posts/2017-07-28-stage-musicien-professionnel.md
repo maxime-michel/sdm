@@ -12,11 +12,11 @@ categories: [attitude]
 ---
 
 J'ai eu l'immense chance, cet été, de participer à un stage d'une semaine 
-organisé par le pianiste français de premier plan Antoine Hervé. Antoine Hervé 
-est surtout connu dans le milieu du jazz, il est cela dit très polyvalent et 
-est aussi à l'aise en jazz qu'en classique ou en improvisation à partir de 
-thèmes pop. Ses conseils sont donc valides pour tout le monde. Ca tombe bien, 
-car c'est un excellent pédagogue francophone.
+organisé par le pianiste français de premier plan Antoine Hervé. Ce dernier est 
+surtout connu dans le milieu du jazz, il est cela dit très polyvalent et est 
+aussi à l'aise en jazz qu'en classique ou en improvisation à partir de thèmes 
+pop. Ses conseils sont donc valides pour tout le monde. Ca tombe bien, car 
+c'est un excellent pédagogue francophone.
 
 {% include video id="K2OXKeT-Qj0" provider="youtube" %}
 
@@ -69,15 +69,15 @@ lui laisser le champ libre, la soutenir dans ses élans, la complémenter, etc.
 ## Être zen
 
 Pour pouvoir lâcher prise, il faut avoir être tendu à un moment dans son 
-apprentissage. Passer par cette étape est donc normal, une espèce de un rite de 
+apprentissage. Passer par cette étape est donc normal, une espèce de rite de 
 passage. Si vous avez pris conscience d'avoir fait des erreurs par le passé, ne 
 vous en voulez pas, au contraire, vous êtes probablement en très bon chemin !
 
 Un musicien accompli doit être quelqu'un de détendu, dégager de bonnes ondes. 
-Il doit prendre plaisir à jouer son instrument, et ce plaisir doit être si fort 
-qu'il doit se ressentir dans sa vie de tous les jours. La musique devient alors 
-une véritable philosophie de vie, et le musicien un personnage qui détonne dans 
-ce monde de calculs, de bureaux, et de stress.
+Il doit prendre du plaisir à jouer son instrument, et ce plaisir doit être si 
+fort qu'il doit se ressentir dans sa vie de tous les jours. La musique devient 
+alors une véritable philosophie de vie, et le musicien un personnage qui 
+détonne dans ce monde de calculs, de bureaux, et de stress.
 
 ## Conclusion
 
