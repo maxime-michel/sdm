@@ -73,15 +73,23 @@ author:
   avatar           : /img/avatar.jpg
   bio              : "Musicien enthousiaste."
   location         : "Bâle"
-  email            : "maxime@accordersaguitare.com"
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:maxime@accordersaguitare.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.secretsdemusiciens.com/"
+
+# Site Footer
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:maxime@accordersaguitare.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.secretsdemusiciens.com/"
 
 
 # Reading Files
