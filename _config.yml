@@ -24,7 +24,7 @@ comments:
   provider               : "staticman_v2"
 staticman:
   branch                 : "master"
-  endpoint               : "https://staticman-app.herokuapp.com/"
+  endpoint               : "https://staticman-app.herokuapp.com/v2/entry/"
 reCaptcha:
   siteKey                :
   secret                 :
