@@ -12,7 +12,8 @@ Maxime est un jeune musicien et pédagogue qui vit à Bâle. Il chante et
 s'accompagne à la guitare dans un style bossa nova, mais joue aussi du piano 
 jazz. (extraits prochainement)
 
-Il découvre la musique avec une guitare, et se retrouve rapidement sur scène, 
+Il commence à jouer de la musique dans son adolescence, et devient 
+immédiatement passionné, au point qu'il se retrouve rapidement sur scène, 
 notamment lors d'un passage télévisé alors qu'il n'a que 22 ans. Mais ses goûts 
 musicaux se développent et l'attirent vers une musique plus sophistiquée, qu'il 
 rêve de pouvoir comprendre et jouer lui-même. Il consacre alors plusieurs 
@@ -22,9 +23,10 @@ lacunes qu'il comble avec beaucoup de motivation.
 Dès 2016, il suit [la méthode de Julian Bradley][musical-ear] et transcrit 
 plusieurs centaines de chansons en quelques mois. En parallèle à cela il 
 découvre [les cours vidéo d'Aimee Nolte][aimee], dont il deviendra un élève 
-particulier, ainsi que [ceux d'Antoine Hervé][antoine], qu'il rencontre en 
-stage, et dont la pédagogie l'influence profondément. Suite aux encouragements 
-de ces deux derniers il arrête alors son objectif : jouer et enseigner.
+particulier, ainsi que [ceux d'Antoine Hervé][antoine], [qu'il rencontre en 
+stage][stage], et dont la pédagogie l'influence profondément. Suite aux 
+encouragements de ces deux derniers il arrête alors son objectif de vie : jouer 
+et enseigner.
 
 Il pense que son expérience peut apporter énormément aux musiciens autodidactes 
 car :
@@ -41,3 +43,4 @@ bonne technique avec un second instrument, mais aussi de maîtriser la théorie.
 [musical-ear]:http://www.themusicalear.com
 [aimee]:https://www.youtube.com/user/NolteFam
 [antoine]:https://www.youtube.com/user/AntoineHerveOfficial
+[stage]:/stage-musicien-professionnel/
