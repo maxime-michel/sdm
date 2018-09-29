@@ -62,13 +62,13 @@ pensons en terme d'accords, de gammes, aucune poésie ne sera présente dans
 notre musique. Mais dès que nous faisons attention à notre son, que nous 
 nuançons, alors une atmosphère musicale s'installe.
 
-A la guitare, nous ne jouons pas souvent nous-même la mélodie. Nous devons 
+A la guitare, nous ne jouons pas souvent nous-mêmes la mélodie. Nous devons 
 néanmoins être attentifs à ne pas l'écraser, ne pas la masquer, au contraire, 
 lui laisser le champ libre, la soutenir dans ses élans, la complémenter, etc.
 
 ## Être zen
 
-Pour pouvoir lâcher prise, il faut avoir être tendu à un moment dans son 
+Pour pouvoir lâcher prise, il faut avoir été tendu à un moment dans son 
 apprentissage. Passer par cette étape est donc normal, une espèce de rite de 
 passage. Si vous avez pris conscience d'avoir fait des erreurs par le passé, ne 
 vous en voulez pas, au contraire, vous êtes probablement en très bon chemin !
