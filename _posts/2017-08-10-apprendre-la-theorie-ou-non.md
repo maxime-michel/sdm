@@ -14,8 +14,8 @@ categories: [theorie,harmonie]
 J'ai récemment retrouvé une vieille composition que j'avais complètement 
 oubliée. La composition en elle-même n'a rien d'exceptionnel, mais elle m'amené 
 à réfléchir à la question de l'apprentissage de la théorie. J'ai jugé que le 
-sujet vous intéresserait car c'est une question souvent posée par les gens qui 
-apprennent la musique. Voici ce que j'en pense.
+sujet vous intéresserait probablement car c'est une question souvent posée par 
+les gens qui apprennent la musique. Voici ce que j'en pense.
 
 (Cliquez [ici][exemple] pour le fichier MP3 de l'exemple, et [là][tablature] 
 pour la tablature.)
@@ -27,8 +27,8 @@ et les cadences, mais tout me paraissait beaucoup trop abstrait et compliqué.
 
 J'aurais pourtant déjà pu commencer mon initiation si j'avais trouvé l'approche 
 simplifiée que j'ai découverte par la suite (je vous en ai déjà parlé, 
-[ici][oreille] ou [là][tonalites]). Mais comme ce déclic n'a pas eu lieu, je ne 
-m'y suis jamais mis sérieusement. Cette attitude est en réalité la bonne. 
+[ici][oreille] ou [là][tonalites]). Mais, comme ce déclic n'a pas eu lieu, je 
+ne m'y suis jamais mis sérieusement. Cette attitude est en réalité la bonne. 
 **N'apprenez rien en musique si cela ne vous motive pas.**
 
 Vous infliger un apprentissage dont vous ne voyez pas l'utilité concrète 
