@@ -39,8 +39,8 @@ cruciaux !
 ## L'exemple de Jimi Hendrix
 
 Ce n'est pas parce qu'on peut effectivement jouer dans toutes les tonalités à 
-la guitare, qu'il faut le faire ! La guitare, comme chaque instrument, donne 
-des résultats plus ou moins musicaux selon les circonstances.
+la guitare qu'il faut le faire ! La guitare, comme chaque instrument, donne des 
+résultats plus ou moins musicaux selon les circonstances.
 
 Prenez, par exemple, un Mi majeur en haut de manche, et un Mi bémol majeur 
 barré à la 6ème case. Jouez ces positions sur votre guitare, et sentez les 
@@ -90,10 +90,10 @@ en toutes circonstances.
 
 En parlant de son, avez-vous remarqué quand vous avez joué ces deux accords, à 
 quel point le Mi majeur du haut de manche avait un son beaucoup plus ample ? 
-C'est une question de longueur des cordes. Plus les cordes qui vibrent sont 
-longues, donc moins vous frettez une corde haut sur le manche, mieux l'accord 
-sonnera. Entre un Mi bémol majeur et un Mi majeur, vous coupez presque la 
-distance de la corde en deux.
+C'est une question de longueur de corde. Plus les cordes qui vibrent sont 
+longues, donc plus vous frettez près du sillet, mieux l'accord sonnera. Entre 
+un Mi bémol majeur et un Mi majeur, la distance moyenne des cordes est presque 
+coupée en deux.
 
 C'est un phénomène qui n'est pas particulier à la guitare. Vous avez peut-être 
 déjà remarqué qu'on trouve des pianos très longs dans les salles de concert les 
@@ -127,7 +127,7 @@ accords ouverts, dans la mesure du possible, bien entendu :
 
 ## Mi majeur
 
-Mi majeur est très agréable pour jouer des blues (entre autres). Dans cette 
+Mi majeur est très agréable pour jouer des blues, entre autres. Dans cette 
 tonalité un blues comprend les accords Mi majeur et La majeur, ainsi que Si 
 majeur. Certes, Si majeur ne peut pas être joué avec des cordes à vide. Mais il 
 peut être joué relativement haut sur le manche, et, deux accords sur trois, 
@@ -150,19 +150,20 @@ cela devient très intéressant.
 
 ## Et si je ne peux pas ?
 
-Les indications que je vous ai données là sont très générales. Je ne peux pas 
-vous indiquer, pour votre guitare, pour la longueur de vos doigts, pour le 
-style de musique que vous jouez, pour l'épaisseur du manche de votre guitare, 
-quels accords privilégier. Je vous ai donné des exemples pour illustrer ma 
-réfléxion, mais c'est à vous de trouver des automatismes qui vous conviennent.
+Les indications que je vous ai données sont très générales. Je ne peux pas vous 
+indiquer, pour votre guitare, pour la longueur de vos doigts, pour le style de 
+musique que vous jouez, pour l'épaisseur du manche de votre guitare, etc. quels 
+accords privilégier. Je vous ai donné des exemples pour illustrer ma réfléxion, 
+mais c'est à vous de trouver des automatismes qui vous conviennent.
 
-Vous devez aussi vous rappeler qu'en tant qu'instrument rythmique, c'est à vous 
-de vous adapter lorsqu'un chanteur a une tonalité préférée. Vous ne pourrez 
-donc pas toujours mettre ces principes en pratique. Mais vous pouvez faire du 
-mieux que vous pouvez : avoir un capodastre dans la housse de votre guitare, 
-par exemple. Ou vous entendre avec le chanteur avant de jouer, et préparer chez 
-vous un arrangement qui utilise le plus possible des accords qui possèdent des 
-cordes à vide. Cela prend du temps mais en vaut vraiment la peine.
+Vous devez aussi vous rappeler qu'en tant qu'instrumentiste rythmique, c'est à 
+vous de vous adapter lorsqu'un chanteur a une tonalité préférée. Vous ne 
+pourrez donc pas toujours mettre ces principes en pratique. Mais vous pouvez 
+faire du mieux que vous pouvez : avoir un capodastre dans la housse de votre 
+guitare, par exemple. Ou vous entendre avec le chanteur avant de jouer, et 
+préparer chez vous un arrangement qui utilise le plus possible des accords qui 
+possèdent des cordes à vide. Cela prend du temps mais en vaut vraiment la 
+peine.
 
 [accordages-alternatifs]:https://www.accordersaguitare.com/accordages-alternatifs/
 [autodidactes]:/les-meilleurs-exercices-pour-autodidactes/
