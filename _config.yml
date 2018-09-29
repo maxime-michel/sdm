@@ -91,6 +91,23 @@ footer:
       icon: "fas fa-fw fa-link"
       url: "https://www.secretsdemusiciens.com/"
 
+# Mailchimp
+mailchimp:
+  title: "Pour aller plus loin…"
+  lead: "Si vous souhaitez en savoir plus sur les sujets présentés sur ce site, et être informé lors de la publication d'un nouvel article, remplissez simplement le formulaire ci-dessous :"
+  confirm: "Je m'inscris »"
+  list: accordersaguitare
+  dc: us15
+  u: 88f74bac90be8782706e16cfe
+  id: 433ec9f0b0
+  fields:
+    - type: "email"
+      merge: "EMAIL"
+      placeholder: "Votre adresse mail"
+    - type: "text"
+      merge: "NAME"
+      placeholder: "Votre prénom"
+
 
 # Reading Files
 include:
