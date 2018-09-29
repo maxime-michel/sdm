@@ -72,7 +72,7 @@ author:
   name             : "Maxime"
   avatar           : /img/avatar.jpg
   bio              : "Musicien enthousiaste."
-  location         : "Bâle"
+  location         : ":switzerland: :fr:"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
