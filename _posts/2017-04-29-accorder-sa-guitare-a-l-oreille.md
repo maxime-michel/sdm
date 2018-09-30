@@ -75,8 +75,8 @@ que votre instrument émette une fréquence qui corresponde au standard. Cette
 référence est le La 440 Hz. Les diapasons, que je recommande, et que l'on 
 trouve [dans n'importe quel magasin de musique][diapason], donnent cette note.
 
-{% include figure alt="Diapason sur fond bleu clair"
-image_path="/img/diapason.jpg" caption="Un diapason" %}
+{% include figure alt="Diapason sur fond bleu clair" caption="Un diapason" 
+image_path="/img/diapason.jpg" %}
 
 ## Utiliser le diapason
 
