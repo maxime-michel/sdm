@@ -32,7 +32,7 @@ Il pense que son expérience peut apporter énormément aux musiciens autodidact
 car :
 
 - il a appris la musique dès son adolescence, mais surtout lorsqu'il était 
-adulte, et non dès l'enfance grâce à un cursus dans un conservatoire,
+adulte, et non grâce à un cursus dans un conservatoire dès l'enfance,
 - il a travaillé de manière autonome, sans professeur,
 - bilingue, il a appris principalement de cours en anglais, dont il partage les 
 meilleures méthodes soit via des articles de sa plume, soit via des 
