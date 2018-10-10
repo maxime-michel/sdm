@@ -113,3 +113,5 @@ permet, comme je le disais, plus d'assurance, mais aussi, à terme : de pouvoir
 composer volontairement et non par hasard, de pouvoir accéder à des genres plus 
 évolués comme le jazz, où, contrairement à la pop et au rock, ne pas comprendre 
 la théorie est inimaginable.
+
+{% include mailchimp.html %}

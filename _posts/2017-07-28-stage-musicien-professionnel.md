@@ -87,3 +87,5 @@ donc pas à vous jeter à l'eau si vous avez l'occasion de participer à un stag
 qui vous intéresse !
 
 [blog]:https://blog.antoineherve.com/
+
+{% include mailchimp.html %}

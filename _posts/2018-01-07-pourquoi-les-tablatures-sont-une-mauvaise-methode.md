@@ -87,3 +87,5 @@ au pire moment, en concert devant plusieurs centaines personnes…
 [earmaster]:https://www.secretsdemusiciens.com/liens/earmaster/
 [autodidactes]:/les-meilleurs-exercices-pour-autodidactes/
 [oreille]:/jouer-a-l-oreille/
+
+{% include mailchimp.html %}

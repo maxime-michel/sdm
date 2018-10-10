@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/chanteuse-joue-guitare.jpg
-categories: [theorie]
+categories: [theorie,guitare]
 ---
 
 Je vous ai déjà parlé de [mes réserves vis-à-vis des tablatures][tablatures] 
@@ -27,8 +27,8 @@ chanteur ou de l'instrument mélodique principal.
 Or, quand vous jouez un morceau dans la tonalité d'origine, vous avez donc de 
 grandes chances de ne pas être dans la zone optimale de votre propre voix. Il 
 se peut que le résultat soit correct, mauvais, ou même excellent – si vous avez 
-la chance d'avoir une voix très proche du chanteur qui vous plaît. Mais comme 
-dans tout jeu de hasard, vous êtes amenés à perdre tôt ou tard.
+la chance d'avoir une voix très proche du chanteur qui vous plaît. Mais c'est 
+du hasard et tôt ou tard vous serez perdant.
 
 La méthode pérenne à suivre est la suivante :
 
@@ -38,7 +38,7 @@ La méthode pérenne à suivre est la suivante :
 4. transposer
 5. apprendre le morceau définitif
 
-## Connaître sa voix
+### 1. Connaître sa voix
 
 Je passe rapidement sur ce point car je ne suis pas professeur de chant. C'est 
 vraiment une question vaste et je recommande de se faire aider, c'est-à-dire de 
@@ -51,27 +51,28 @@ répértoire.
 Soit car ils ont étudié les morceaux en question, et inclus ce point dans leur 
 étude. Soit car ils sont tellement expérimentés qu'ils arrivent à trouver la 
 bonne tonalité en quelques secondes juste avant de jouer. C'est le cas par 
-exemple des joueurs de "piano bar", qui jouent les morceaux que le public 
-demande durant le concert, et qu'ils ne connaissent pas forcément avant.
+exemple des joueurs de piano bar, qui jouent les morceaux que le public demande 
+durant le concert, et qu'ils ne connaissent pas forcément avant.
 
-## Apprendre le morceau dans une tonalité de référence
+### 2. Apprendre le morceau dans une tonalité de référence
 
-Je passe rapidement sur ce point aussi, nous avons déjà parlé [des avantages en 
-gain de temps qu'il y a à travailler tous son répertoire dans une tonalité de 
-référence][oreille], repérer immédiatement les motifs récurrents par exemple.
+Je passe rapidement sur ce point aussi, nous avons déjà parlé [des avantages 
+qu'il y a à travailler tout son répertoire dans une tonalité de 
+référence][oreille], repérer immédiatement les motifs récurrents, par exemple.
 
-## Trouver la bonne tonalité
+### 3. Trouver la bonne tonalité
 
 Dans mon propre exemple je sais que la note la plus haute que je peux chanter 
-est un Mi, et que ma voix gagne à être poussée. Par conséquent je recherche la 
-note la plus haute de la mélodie, et vois de combien il faut la transposer, 
-vers le haut ou vers le bas, pour qu'elle soit proche de ce Mi.
+est un Mi, et que ma voix gagne vraiment à être poussée. Par conséquent je 
+recherche la note la plus haute de la mélodie, et vois de combien il faut la 
+transposer, vers le haut ou vers le bas, pour qu'elle soit proche de ce Mi.
 
-J'ai souvent plusieurs possibilités. Je tranche alors grâce à d'autres 
-facteurs, comme par exemple ce qui est le plus confortable à jouer à la 
-guitare.
+J'ai souvent plusieurs possibilités : faire tomber la note la plus haute de la 
+mélodie sur un Mi bémol ou un Ré, par exemple, ce qui ne change pas grand chose 
+d'un point de vue vocal. Je tranche alors grâce à d'autres facteurs, comme par 
+exemple ce qui est le plus confortable à jouer à la guitare.
 
-## Transposer
+### 4. Transposer
 
 Transposer une mélodie chantée est généralement simple. Parfois la mélodie est 
 compliquée et la transposition nous fait nous rendre compte que certains 
@@ -79,20 +80,21 @@ passages n'étaient pas entièrement clairs. C'est une excellente chose et il
 faut insister jusqu'à ce que l'assimilation soit parfaite.
 
 Transposer à la guitare, en revanche, est un travail de longue haleine. C'est 
-pour cela que généralement je m'oriente vers une tonalité que je connais, afin 
-de pouvoir directement avoir certains accords dans les doigts.
+pour cela que généralement je m'oriente à l'étape précédente vers une tonalité 
+que je connais déjà, afin de pouvoir directement avoir certains accords dans 
+les doigts.
 
-## Apprendre le morceau définitif
+### 5. Apprendre le morceau définitif
 
-Une fois ce travail théorique réalisé, commence la répétition du morceau que 
-vou avez transposé. Et là, malgré tout le travail fait en amont, ça peut être 
-long. Il s'agit [d'être patient et de se faire confiance][attitude].
+Une fois ce travail théorique réalisé, commence la répétition du morceau 
+transposé. Et là, malgré tout le travail fait en amont, ça peut être long. Il 
+s'agit [d'être patient et de se faire confiance][attitude].
 
 ## Conclusion
 
 Cette méthode représente un travail énorme, j'en suis bien conscient. Cela dit, 
 plus on le fait, plus cela devient rapide. Ce sont surtout les premiers 
-morceaux qui sont difficiles, le temps que tous les concepts se mettent en 
+morceaux qui sont difficiles, le temps que tous les automatismes se mettent en 
 place. Pour faire des reprises excellentes systématiquement, il n'y a toutefois 
 pas de raccourci !
 
@@ -101,3 +103,5 @@ pas de raccourci !
 [tonalites]:/comprendre-les-tonalites/
 [oreille]:/jouer-a-l-oreille/
 [attitude]:/attitude/
+
+{% include mailchimp.html %}

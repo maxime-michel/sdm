@@ -217,3 +217,5 @@ s'inspirer de leur exemple ?
 [diapason]:https://www.secretsdemusiciens.com/liens/diapason/
 [accordage-debutant]:/liens/diapason/
 [oreille]:/jouer-a-l-oreille/
+
+{% include mailchimp.html %}

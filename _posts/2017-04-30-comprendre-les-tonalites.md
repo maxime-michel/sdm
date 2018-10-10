@@ -169,3 +169,5 @@ peine.
 [autodidactes]:/les-meilleurs-exercices-pour-autodidactes/
 [tablatures]:/pourquoi-les-tablatures-sont-une-mauvaise-methode/
 [oreille]:/jouer-a-l-oreille/
+
+{% include mailchimp.html %}

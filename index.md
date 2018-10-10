@@ -2,9 +2,9 @@
 date: 2018-07-23
 title: "Secrets de Musiciens"
 excerpt: >
-  Ce site est une vaste collection de déclics que j'ai eus lors de mon 
-  apprentissage de la musique, en particulier lorsque je suis passé 
-  d'instrumentiste lambda à celui de \"compositeur\".
+  Ce site est une collection de déclics que j'ai eus lors de mon apprentissage 
+  de la musique, en particulier lorsque je suis passé du stade d'instrumentiste 
+  lambda à celui de \"compositeur\".
 layout: splash
 author_profile: false
 header:

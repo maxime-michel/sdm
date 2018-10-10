@@ -109,3 +109,5 @@ besoin concret !
 [oreille]:/jouer-a-l-oreille/
 [exemple]:/audio/apprendre-theorie-exemple.mp3
 [tablature]:https://www.accordersaguitare.com/pdf/apprendre-theorie-tablature.pdf
+
+{% include mailchimp.html %}

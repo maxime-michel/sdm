@@ -59,3 +59,5 @@ lentement et progressivement mon jeu.
 [tablatures]:/pourquoi-les-tablatures-sont-une-mauvaise-methode/
 [theorie]:/theorie/
 [stage]:/stage-musicien-professionnel/
+
+{% include mailchimp.html %}
