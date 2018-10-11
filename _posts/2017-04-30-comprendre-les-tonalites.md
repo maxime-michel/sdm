@@ -93,7 +93,7 @@ quel point le Mi majeur du haut de manche avait un son beaucoup plus ample ?
 C'est une question de longueur de corde. Plus les cordes qui vibrent sont 
 longues, donc plus vous frettez près du sillet, mieux l'accord sonnera. Entre 
 un Mi bémol majeur et un Mi majeur, la distance moyenne des cordes est presque 
-coupée en deux.
+divisée par deux.
 
 C'est un phénomène qui n'est pas particulier à la guitare. Vous avez peut-être 
 déjà remarqué qu'on trouve des pianos très longs dans les salles de concert les 
@@ -109,13 +109,13 @@ deux positions du même accord, vous devez réfléchir de la même manière.
 
 Il existe donc, à la guitare, des tonalités plus agréables que d'autres. On les 
 reconnaît au fait que leurs accords clés peuvent se jouer avec des cordes à 
-vide.
+vide ou en tout cas haut sur le manche.
 
 ## Do majeur
 
 Parlons de Do majeur. C'est une tonalité importante car c'est la plus simple : 
 Do, Ré, Mi, Fa, Sol, La, Si. Aucun bémol ni dièse. Pour cette raison beaucoup 
-de cours ou de livres pour débutants l'utilisent. Voici une manière 
+de cours et de livres pour débutants l'utilisent. Voici une manière 
 intéressante de jouer les accords de la gamme, en privilégiant au maximum les 
 accords ouverts, dans la mesure du possible, bien entendu :
 
@@ -140,7 +140,7 @@ c'est déjà très bien !
 
 La majeur est ma tonalité préférée. Les accords majeurs que je montre 
 ci-dessous n'ont certes rien de particulier. Mais, lorsqu'on commence à les 
-altérer, qu'on ajoute des septièmes, par exemple (ce sera le sujet d'un autre 
+enrichir, qu'on ajoute des septièmes, par exemple (ce sera le sujet d'un autre 
 article), je trouve personnellement que, dans cette tonalité plus qu'une autre, 
 cela devient très intéressant.
 
@@ -161,9 +161,8 @@ vous de vous adapter lorsqu'un chanteur a une tonalité préférée. Vous ne
 pourrez donc pas toujours mettre ces principes en pratique. Mais vous pouvez 
 faire du mieux que vous pouvez : avoir un capodastre dans la housse de votre 
 guitare, par exemple. Ou vous entendre avec le chanteur avant de jouer, et 
-préparer chez vous un arrangement qui utilise le plus possible des accords qui 
-possèdent des cordes à vide. Cela prend du temps mais en vaut vraiment la 
-peine.
+préparer chez vous un arrangement qui utilise le plus possible des accords en 
+haut de manche. Cela prend du temps mais en vaut vraiment la peine.
 
 [accordages-alternatifs]:https://www.accordersaguitare.com/accordages-alternatifs/
 [autodidactes]:/les-meilleurs-exercices-pour-autodidactes/
