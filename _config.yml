@@ -77,9 +77,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:maxime@accordersaguitare.com
-    - label: "Site"
+    - label: "Secrets de Musiciens"
       icon: "fas fa-fw fa-link"
       url: "https://www.secretsdemusiciens.com/"
+    - label: "Accorder sa guitare"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.accordersaguitare.com/"
 
 # Site Footer
 footer:
@@ -87,9 +90,12 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:maxime@accordersaguitare.com
-    - label: "Site"
+    - label: "Secrets de Musiciens"
       icon: "fas fa-fw fa-link"
       url: "https://www.secretsdemusiciens.com/"
+    - label: "Accorder sa guitare"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.accordersaguitare.com/"
 
 # Mailchimp
 mailchimp:
