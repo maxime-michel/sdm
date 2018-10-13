@@ -52,7 +52,7 @@ Soit car ils ont étudié les morceaux en question, et inclus ce point dans leur
 étude. Soit car ils sont tellement expérimentés qu'ils arrivent à trouver la 
 bonne tonalité en quelques secondes juste avant de jouer. C'est le cas par 
 exemple des joueurs de piano bar, qui jouent les morceaux que le public demande 
-durant le concert, et qu'ils ne connaissent pas forcément avant.
+durant le concert, dont certains que le musicien n'a pas répétés récemment.
 
 ### 2. Apprendre le morceau dans une tonalité de référence
 
