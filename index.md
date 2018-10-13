@@ -16,10 +16,10 @@ feature_row:
     alt: "placeholder image 2"
     title: "Attitude"
     excerpt: >
-      Cette différence n'est de loin pas un détail théorique, une fois certains 
-      concepts assimilés, mon niveau a décollé, et ma confiance avec. J'aurais 
-      voulu trouver cette aide bien avant et c'est pourquoi je partagerai 
-      désormais autant que je peux sur ce site.
+      Cette différence n'est de loin pas qu'un détail théorique, une fois 
+      certains concepts assimilés, mon niveau a décollé, et ma confiance avec. 
+      J'aurais voulu trouver cette aide bien avant et c'est pourquoi je 
+      partagerai désormais autant que je peux sur ce site.
     url: "/attitude"
     btn_class: "btn--primary"
   - image_path: /img/piano-a-queue_900.jpg
