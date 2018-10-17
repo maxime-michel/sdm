@@ -76,6 +76,9 @@ ou votre souris, et que l'ordinateur corrige si nécessaire. Les exercices sont
 progressifs et correspondent à un cursus complet. Le logiciel est disponible en 
 français.
 
+[<img src="/img/earmaster.png" alt="Bannière EarMaster">][earmaster]
+{: style="text-align: center;" }
+
 ## Conclusion
 
 Vous devez avoir des fondations très solides pour votre jeu, et la rythmique en 
