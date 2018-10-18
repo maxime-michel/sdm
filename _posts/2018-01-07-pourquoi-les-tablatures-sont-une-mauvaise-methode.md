@@ -18,11 +18,11 @@ pour jouer un morceau avec ou sans partition. Mais, si l'on simplifie, les
 musiciens que nous écoutons ont démarré leur apprentissage principalement grâce 
 à leurs propres transcriptions, ou dans une école.
 
-Grâce à Internet, les guitaristes amateurs apprennent eux des morceaux via des 
-tablatures. Depuis peu on voit aussi des vidéos YouTube avec la tablature en 
-sous-titre, ce qui revient au même. Dans un cas comme dans l'autre, les notes 
-sont servies sur un plateau d'argent, dans une notation simplifiée, sans que 
-l'oreille n'ait à travailler.
+Grâce à Internet, les guitaristes amateurs apprennent quant à eux des morceaux 
+via des tablatures. Depuis peu on voit aussi des vidéos YouTube avec la 
+tablature en sous-titre, ce qui revient au même. Dans un cas comme dans 
+l'autre, les notes sont servies sur un plateau d'argent, dans une notation 
+simplifiée, sans que l'oreille n'ait à travailler.
 
 ## L'oreille ne travaille pas quand on lit une tablature
 

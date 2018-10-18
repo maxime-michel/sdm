@@ -20,8 +20,8 @@ différentes.
 
 Tel morceau de blues est en Si bémol majeur, tel morceau de pop en Do majeur, 
 tel morceau de rock en Ré majeur. Dans une chanson La mineur suit Fa majeur, 
-deux accords que vous connaissez parfaitement. Dans une autre vous passez de La 
-bémol majeur à Si bémol mineur, accords avec lesquels vous êtes moins familier.
+deux accords que vous connaissez parfaitement. Dans une autre c'est La bémol 
+majeur puis Si bémol mineur, accords avec lesquels vous êtes moins familier.
 
 Vous avez peut-être déjà réfléchi à cette question et compris que les artistes 
 utilisent différentes tonalités principalement pour accomoder les chanteurs ou 

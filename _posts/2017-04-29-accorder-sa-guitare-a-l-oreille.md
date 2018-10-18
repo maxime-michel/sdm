@@ -45,7 +45,7 @@ moindre centime !
 
 Avant de commencer, je dois vous prévenir qu'accorder une guitare d'entrée de 
 gamme à l'oreille risque de vous frustrer énormément. Si la guitare ne tient 
-pas l'accordage, ou s'il y a des défauts de justesse le long du manche, il faut 
+pas l'accord, ou s'il y a des défauts de justesse le long du manche, il faut 
 régler ces problèmes dans un premier temps. Dans le doute, rendez-vous avec 
 votre guitare dans un magasin de musique et demandez son avis au technicien. 
 S'il faut changer de guitare, trouvez un moyen ou un autre de le faire : 
@@ -139,9 +139,9 @@ manières de contourner ce problème.
 ## Harmoniques
 
 La première est l'accordage à l'aide des harmoniques. L'oreille humaine 
-distingue mieux les sons aigus que les graves. Les harmoniques étant plus 
-aiguës que les cordes à vide, il est donc plus facile d'accorder deux 
-harmoniques que deux cordes à vide ou frettées.
+distingue mieux les sons aigus que graves. Les harmoniques étant plus aiguës 
+que les cordes à vide, il est donc plus facile d'accorder deux harmoniques que 
+deux cordes à vide ou frettées.
 
 Voici la méthode classique pour s'accorder avec les harmoniques :
 
@@ -166,11 +166,11 @@ aigües de cette manière :
 
 ## Méthode des intervalles
 
-La deuxième manière efficace de s'accorder est d'accorder deux cordes à vide 
-non plus grâce à une note en commun, mais par l'intervalle qui les sépare. Par 
-exemple, au lieu d'accorder La et La, accorder La et Ré (5ème et 4ème cordes). 
-Pour cela il faut savoir qu'entre ces deux notes il y a une quarte, et savoir 
-préalablement la manière dont une quarte sonne.
+La deuxième manière efficace d'accorder sa guitare est d'accorder deux cordes à 
+vide non plus grâce à une note en commun, mais par l'intervalle qui les sépare. 
+Par exemple, au lieu d'accorder La et La, accorder La et Ré (5ème et 4ème 
+cordes). Pour cela il faut savoir qu'entre ces deux notes il y a une quarte, et 
+savoir préalablement la manière dont une quarte sonne.
 
 Si vous n'êtes pas encore à ce stade, je ne peux que vous conseiller de vous 
 entraîner peu à peu dans ce sens. Avoir les intervalles dans l'oreille vous 
@@ -213,9 +213,9 @@ améliorerez aussi votre oreille. Les musiciens des meilleurs orchestres
 symphoniques du monde s'accordent systématiquement à l'oreille, pourquoi ne pas 
 s'inspirer de leur exemple ?
 
+{% include mailchimp.html %}
+
 [asg]:https://www.accordersaguitare.com
 [diapason]:https://www.secretsdemusiciens.com/liens/diapason/
-[accordage-debutant]:/liens/diapason/
+[accordage-debutant]:https://www.accordersaguitare.com/l-accordage-explique-aux-debutants/
 [oreille]:/jouer-a-l-oreille/
-
-{% include mailchimp.html %}

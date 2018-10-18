@@ -62,7 +62,7 @@ A partir du moment où vous avez défini une tonalité de référence, et
 réfléchissez dans cette tonalité lors de votre pratique musicale, un exercice 
 très intéressant est de vous mettre à analyser la musique que vous écoutez. 
 Prenez un morceau suffisamment simple, et essayez de *sentir* quels accords 
-sont utilisés. Essayez de voir ce morceau avant même de toucher votre 
+sont utilisés. Essayez de visualiser ce morceau avant même de toucher votre 
 instrument.
 
 Comme nous l'avons vu plus haut, 90% de la musique pop utilise les mêmes 
@@ -80,7 +80,7 @@ fois.
 ## Exemple
 
 Prenons un exemple. Voici deux morceaux, les notes principales utilisées dans 
-leur mélodie, ainsi que leurs accords (au début)
+leur mélodie, ainsi que leurs accords (au début) :
 
 {% include video id="khOjDeTNFu8" provider="youtube" %}
 
@@ -109,9 +109,9 @@ reconnaît immédiatement comme interchangeables !
 ## Conclusion
 
 Je reviendrai sur ce sujet dans d'autres articles. Une telle technique mentale 
-permet, comme je le disais, plus d'assurance, mais aussi, à terme : de pouvoir 
-composer volontairement et non par hasard, de pouvoir accéder à des genres plus 
-évolués comme le jazz, où, contrairement à la pop et au rock, ne pas comprendre 
-la théorie est inimaginable.
+permet, comme je le disais, plus d'assurance, mais aussi, à terme, de pouvoir 
+composer volontairement et non par hasard, et de pouvoir accéder à des genres 
+plus évolués comme le jazz, où, contrairement à la pop et au rock, ne pas 
+comprendre la théorie est inimaginable.
 
 {% include mailchimp.html %}
