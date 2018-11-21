@@ -99,6 +99,9 @@ footer:
     - label: "Accorder sa guitare"
       icon: "fas fa-fw fa-link"
       url: "https://www.accordersaguitare.com/"
+    - label: "Politique de confidentialité"
+      icon: "fas fa-fw fa-link"
+      url: "/politique-de-confidentialite/"
 
 # Mailchimp
 mailchimp:
