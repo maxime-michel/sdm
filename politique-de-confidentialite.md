@@ -33,12 +33,10 @@ d'un annonceur, par exemple. Pour plus de détails à ce sujet, prière de
 consulter le [règlement du programme AdSense][adsense].
 
 Les revenus publicitaires qui résultent des visites sur ce site servent en 
-premier lieu à financer les frais liés à la tenue de mes sites. L'excédent sert 
-à l'achat de matériel électronique ou musical pour mon plaisir ainsi que la 
-création de meilleur contenu.
-
-Ils sont par ailleurs déclarés aux autorités compétentes (douane, cotisations 
-sociales, impôts).
+premier lieu à financer les frais liés à la tenue de mes sites. Ils sont par 
+ailleurs déclarés aux autorités compétentes (douane, cotisations sociales, 
+impôts). L'excédent sert à l'achat de matériel électronique ou musical pour mon 
+plaisir ainsi que la création de meilleur contenu.
 
 Ces cookies peuvent être désactivés dans les paramètres de votre navigateur 
 Internet. Pour plus de détails à ce sujet, prière de vous référer à la 
@@ -46,11 +44,11 @@ documentation dudit navigateur.
 
 ## Affiliation
 
-Ce revenu est compensé par la participation à deux programmes d'affiliation. 
-Lorsque vous cliquez sur un lien vers du matériel ou un logiciel que je 
-recommande, dans certains cas je suis inscrit auprès du site vendeur, et 
-rémunéré lorsqu'un de mes visiteurs procède à un achat en étant passé par mon 
-entremise.
+Les gains détaillés ci-dessus sont complémentés par la participation à deux 
+programmes d'affiliation. Lorsque vous cliquez sur un lien vers du matériel ou 
+un logiciel que je recommande, dans certains cas je suis inscrit auprès du site 
+vendeur, et rémunéré lorsqu'un de mes visiteurs procède à un achat en étant 
+passé par mon entremise.
 
 Cela ne veut pas dire que je recommande du matériel que je ne connais pas pour 
 faire du chiffre. En réalité, j'utilise très peu l'affiliation. Je suis 
