@@ -54,5 +54,18 @@ Cela ne veut pas dire que je recommande du matériel que je ne connais pas pour
 faire du chiffre. En réalité, j'utilise très peu l'affiliation. Je suis 
 simplement un amateur passionné qui cherche à partager mon expérience.
 
+## Hébergement
+
+Contrairement à beaucoup de propriétaires de sites, je ne m'intéresse pas aux 
+fluctuations des visites, et n'utilise donc pas d'outil afin de savoir combien 
+de visiteurs accèdent le site chaque jour, leur localisation, leur navigateur 
+Internet, le temps qu'ils passent sur chaque page, etc.
+
+L'hébergeur avec lequel je travaille, Netlify, spécifie, en revanche, sur sa 
+page liée au [RGDP][netlify], en date du 21 novembre 2018, qu'ils conservent 
+l'adresse IP des visiteurs des sites qu'ils hébergent (vous), et ceci pour 
+moins de 30 jours.
+
 [mailchimp]:https//mailchimp.com
 [adsense]:https://support.google.com/adsense/answer/48182?hl=fr
+[gdpr]:https://www.netlify.com/gdpr/
