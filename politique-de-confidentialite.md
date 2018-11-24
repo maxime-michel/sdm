@@ -45,10 +45,10 @@ documentation dudit navigateur.
 ## Affiliation
 
 Les gains détaillés ci-dessus sont complémentés par la participation à deux 
-programmes d'affiliation. Lorsque vous cliquez sur un lien vers du matériel ou 
-un logiciel que je recommande, dans certains cas je suis inscrit auprès du site 
-vendeur, et rémunéré lorsqu'un de mes visiteurs procède à un achat en étant 
-passé par mon entremise.
+programmes d'affiliation (Woodbrass et EarMaster). Lorsque vous cliquez sur un 
+lien vers du matériel ou un logiciel que je recommande, dans certains cas je 
+suis inscrit auprès du site vendeur, et rémunéré lorsqu'un de mes visiteurs 
+procède à un achat en étant passé par mon entremise.
 
 Cela ne veut pas dire que je recommande du matériel que je ne connais pas pour 
 faire du chiffre. En réalité, j'utilise très peu l'affiliation. Je suis 
