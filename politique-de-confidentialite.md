@@ -62,9 +62,9 @@ de visiteurs accèdent le site chaque jour, leur localisation, leur navigateur
 Internet, le temps qu'ils passent sur chaque page, etc.
 
 L'hébergeur avec lequel je travaille, Netlify, spécifie, en revanche, sur sa 
-page liée au [RGDP][netlify], en date du 21 novembre 2018, qu'ils conservent 
-l'adresse IP des visiteurs des sites qu'ils hébergent (vous), et ceci pour 
-moins de 30 jours.
+page liée au [RGDP][netlify], en date du 21 novembre 2018, que l'adresse IP des 
+visiteurs des sites qu'ils hébergent (la vôtre) est conservée, ceci pour une 
+durée de moins de 30 jours.
 
 [mailchimp]:https//mailchimp.com
 [adsense]:https://support.google.com/adsense/answer/48182?hl=fr
