@@ -68,4 +68,4 @@ moins de 30 jours.
 
 [mailchimp]:https//mailchimp.com
 [adsense]:https://support.google.com/adsense/answer/48182?hl=fr
-[gdpr]:https://www.netlify.com/gdpr/
+[netlify]:https://www.netlify.com/gdpr/
