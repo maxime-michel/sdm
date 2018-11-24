@@ -46,8 +46,8 @@ documentation dudit navigateur.
 
 Les gains détaillés ci-dessus sont complémentés par la participation à deux 
 programmes d'affiliation (Woodbrass et EarMaster). Lorsque vous cliquez sur un 
-lien vers du matériel ou un logiciel que je recommande, dans certains cas je 
-suis inscrit auprès du site vendeur, et rémunéré lorsqu'un de mes visiteurs 
+lien vers du matériel ou un logiciel que je recommande, je suis dans certains 
+cas inscrit auprès du site vendeur, et rémunéré lorsqu'un de mes visiteurs 
 procède à un achat en étant passé par mon entremise.
 
 Cela ne veut pas dire que je recommande du matériel que je ne connais pas pour 
