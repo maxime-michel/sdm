@@ -66,6 +66,6 @@ page liée au [RGDP][netlify], en date du 21 novembre 2018, que l'adresse IP des
 visiteurs des sites qu'ils hébergent (la vôtre) est conservée, ceci pour une 
 durée de moins de 30 jours.
 
-[mailchimp]:https//mailchimp.com
+[mailchimp]:https://mailchimp.com
 [adsense]:https://support.google.com/adsense/answer/48182?hl=fr
 [netlify]:https://www.netlify.com/gdpr/
