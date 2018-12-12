@@ -11,6 +11,7 @@ header:
   overlay_image: /img/position-guitare.jpg
 categories: [attitude,guitare]
 toc: true
+toc_label: "Table des matières"
 ---
 
 <style>
@@ -411,7 +412,7 @@ L'angle idéal pour toute articulation est à mi-chemin entre ses deux extrêmes
 Cette zone de confort permet la gamme de mouvements la plus vaste, et ce avec 
 une pression moindre sur les articulations.
 
-### Relâchement des jambes
+### Relâchement des jambes
 
 Ce point est plus avancé et la plupart des guitaristes n'en sont pas au stade 
 auquel ils peuvent l'essayer, mais le voici malgré tout.
@@ -434,7 +435,7 @@ Afin de parvenir à éprouver cette sensation, essayez d'abord sans votre
 guitare. La concentration nécessaire à maintenir cet état *pendant que l'on 
 joue* est énorme. (Pour ma part, j'y travaille encore.)
 
-### Bien-être intégral
+### Bien-être intégral
 
 Pourquoi pas ? Quitte à passer autant de temps à jouer de la guitare, autant 
 que ce soit plaisant, non ?
