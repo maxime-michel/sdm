@@ -33,7 +33,6 @@ que je n'ai pas traduite.
 {% endcapture %}
 
 <div class="notice--info">
-  <h4>Introduction</h4>
   {{ notice-text | markdownify }}
 </div>
 
