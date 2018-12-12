@@ -500,3 +500,6 @@ devant un miroir.** De cette manière vous verrez objectivement ce que vous
 faites. (Ce qui n'est pas toujours ce que l'on croit !)
 
 Voici plusieurs situations à éviter :
+
+[how-to-hold-a-guitar]:https://classicalguitarshed.com/how-to-hold-a-guitar/
+[cgs]:https://classicalguitarshed.com/
