@@ -23,16 +23,15 @@ figure { flex-direction: column; }
 {% capture notice-text %}
 Cet article est la traduction d'[un article fleuve][how-to-hold-a-guitar] écrit 
 par Allen Mathews, guitariste classique et auteur de [The Classical Guitar 
-Shed][cgs], cours complet de guitare classique en anglais.
-
-Cet article m'a énormément aidé et c'est la raison pour laquelle j'ai proposé à 
-Allen de le traduire, ce qu'il a accepté.
-
-L'article inclut aussi une vidéo YouTube qui est un résumé de l'article, mais 
-que je n'ai pas traduite.
+Shed][cgs], cours complet de guitare classique en anglais. Cet article m'a 
+énormément aidé et c'est la raison pour laquelle j'ai proposé à Allen de le 
+traduire, ce qu'il a accepté. L'article inclut aussi une [vidéo 
+YouTube][youtube] qui est un résumé de l'article, mais que je n'ai pas 
+traduite.
 
 [how-to-hold-a-guitar]:https://classicalguitarshed.com/how-to-hold-a-guitar/
 [cgs]:https://classicalguitarshed.com/
+[youtube]:https://www.youtube.com/watch?v=fxDoRaRoiUQ
 {% endcapture %}
 
 <div class="notice--info">
