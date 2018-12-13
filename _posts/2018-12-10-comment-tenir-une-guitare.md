@@ -186,7 +186,7 @@ des ischions.
 
 Dans l'idéal, il faut être au milieu.
 
-#### Ossature plutôt que musculature
+### Ossature plutôt que musculature
 
 La raison pour laquelle la recherche de cet équilibre est important est que 
 lorsque nous l'avons trouvé, la colonne vertébrale est droite et soutenue par 
@@ -272,7 +272,7 @@ jambe gauche), ou une autre position avec la guitare sur la jambe droite.
 d'un repose-pieds" image_path="/img/comment-tenir-une-guitare/repose-pieds.jpg" 
 %}
 
-#### De quel angle surélever le manche ?
+### De quel angle surélever le manche ?
 
 C'est une question de goût. En ce qui me concerne, j'aime que la mécanique de 
 la grosse corde de Mi soit à la hauteur de mes yeux, ou un peu en-dessous.
