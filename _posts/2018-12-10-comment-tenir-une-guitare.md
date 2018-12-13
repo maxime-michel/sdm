@@ -502,3 +502,250 @@ devant un miroir.** De cette manière vous verrez objectivement ce que vous
 faites. (Ce qui n'est pas toujours ce que l'on croit !)
 
 Voici plusieurs situations à éviter :
+
+### Cambrer le dos
+
+{% include figure alt="" caption="" 
+image_path="/img/comment-tenir-une-guitare/cambrer-dos.jpg" %}
+
+Cambrer le dos désaxe votre colonne, ce qui créé plus de tension pour les 
+muscles du dos, des jambes, des épaules et de la nuque.
+
+Quand vous cambrez votre dos, le poids va vers l'avant des ischions, ce qui 
+fait travailler le cou ainsi que les épaules afin de compenser. Les muscles les 
+plus importants des jambes s'impliquent aussi, ce qui ajoute de la tension 
+inutilement.
+
+La plupart des gens le font systématiquement quand ils s'asseient, sans même 
+s'en rendre compte, qu'ils jouent de la guitare ou non.
+
+(Ce qui fut mon cas pendant des années, et même aujourd'hui je dois y faire 
+attention.)
+
+### Voûter le dos
+
+{% include figure alt="" 
+caption=""image_path="/img/comment-tenir-une-guitare/dos-voute.jpg" %}
+
+C'est une des habitudes les plus courantes. Après quelques minutes passées 
+assis, les épaules s'abaissent doucement mais sûrement, jusqu'à ce que le 
+guitariste soit complètement voûté et ressente des douleurs dans le dos.
+
+Comme mentionné plus haut, il faut utiliser sa colonne comme un pilier auquel 
+les muscles s'accrochent.
+
+Quand le dos se voûte, la réaction naturelle est de reculer la tête, ce qui 
+brise la ligne naturelle de la colonne vertébrale au profit d'une forme en S 
+(tête - cou - dos).
+
+Si par-dessus le marché vous vous penchez (cf. ci-dessous), alors vous risquez 
+la scoliose, ou du moins énormément de tension et d'inconfort tout à fait 
+évitables.
+
+### Pencher à gauche
+
+{% include figure alt="" 
+caption=""image_path="/img/comment-tenir-une-guitare/pencher-gauche.jpg" %}
+
+La plupart des gens qui se penchent ne s'en rendent pas compte. D'où 
+l'importance de parfois s'enregistrer avec une caméra lorsque l'on joue.
+
+Ce qu'il se passe est que le guitariste regarde naturellement le manche de 
+l'instrument et se penche vers la gauche (s'il est droitier). La jambe gauche 
+se tend, ce qui provoque une torsion du bassin.
+
+Plus la concentration sur la main gauche prend de l'ampleur, plus la tension 
+augmente dans les jambes, dans les fesses, et plus le poids se déplace vers la 
+gauche. Ce qui aboutit au final à une position très mauvaise.
+
+Votre poids est déjà réparti de manière assymétrique lorsque vous jouez de la 
+guitare (en raison de la forme de l'instrument). Il est important de garder 
+cela à l'esprit et de faire attention à ne pas exagérer ce problème sans s'en 
+rendre compte.
+
+### Tendre le cou
+
+{% include figure alt="" caption="" 
+image_path="/img/comment-tenir-une-guitare/cou-tendu.jpg" %}
+
+L'espèce humaine favorise principalement la vue en tant que sens dominant. Pour 
+les baleines, c'est le son. Pour les chiens, l'odorat. Mais pour nous, la vue.
+
+L'une des meilleures aptitudes à développer pour un guitariste est de parvenir 
+à jouer sans regarder le manche.
+
+Notre physiologie et neurologie (en gros, notre corps) sont capables de gérer 
+la plupart des déplacements, sauts, etc. bien mieux que notre très pointilleux 
+binôme yeux - cerveau.
+
+On regarde tant le manche car on ne se fait pas confiance, on ne se sent pas 
+capable de réaliser les gestes nécessaires. Si nous apprenons à nous détendre 
+et acceptons le fait de faire des erreurs, nous améliorons la probabilité 
+d'obtenir d'excellents résultats.
+
+Etant donné que les frettes sont visibles au spectateur et non au guitariste 
+lui-même, il existe deux manières de voir le manche :
+
+1. tournez la guitare face à vous. Vous n'avez alors plus aucune chance d'avoir 
+une utilisation saine de votre poignet gauche, mais certains le font.
+2. tendez votre cou de manière à ce que la guitare continue à être plus ou 
+moins droite et que vous puissiez en même temps voir ce qu'il se passe.
+
+Vous l'aurez compris, ces deux options sont mauvaises. Ayez plutôt le courage 
+d'apprendre à vous repérer "à l'aveugle", en fonction des distances entre les 
+notes et les cordes par rapport aux doigts.
+
+Par ailleurs, afin de compenser lorsque le cou se tend, il est possible que 
+vous développiez l'habitude de vous **tortiller** excessivement, ce dont il 
+faut aussi se méfier.
+
+Il est bien entendu nécessaire d'investir du temps afin de changer ces 
+habitudes. Mais mieux vaut s'y mettre le plus tôt possible, car si vous 
+attendez trop, il n'est pas impossible que cela se termine en blessure, ce qui 
+sera aussi très douloureux (au sens propre comme figuré).
+
+### Rigidité chronique
+
+On pourrait aussi parler de tension excessive généralisée.
+
+Comme dit plus haut, la guitare est un engin doté d'une drôle de forme à 
+laquelle nous devons nous adapter au travers d'une multitude de microscopiques 
+compromis. On ne s'en passe pas pour autant !
+
+En particulier pour les débutants, mais les joueurs plus expérimentés ne sont 
+pas forcément exempts de cette habitude, il y a la tendance à se tendre et à 
+rendre le simple fait de tenir une guitare beaucoup plus compliqué qu'il ne 
+l'est réellement.
+
+Il est vrai que la plupart d'entre nous utilise trop de force pour absolument 
+tout. Que ce soit pour se lever d'une chaise, nous brosser les dents ou tenir 
+un crayon, nous utilisons beaucoup plus de force musculaire et de tension qu'il 
+n'en faut en réalité.
+
+> (Pour ma part je tiens les crayons comme si j'allais m'en servir pour faire 
+des trous dans une plaque métallique. C'est une habitude contre laquelle je ne 
+peux rien.)
+
+A la guitare, l'équation inclut des angles complexes, une assymétrie du corps, 
+une synchronisation entre les deux mains, et plein d'autres paramètres (sans 
+parler de l'implication mentale que la musique classique exige).
+
+Il n'est donc pas étonnant que l'on se bloque avec un tel cahier des charges. 
+Il est toutefois malheureux que l'on ne s'en rende pas consciemment compte. A 
+notre insu nous :
+
+- serrons nos orteils
+- levons nos talons
+- tendons nos biceps
+- bloquons nos épaules
+- serrons nos sphincters
+- impliquons nos quadriceps (cuisses)
+- plissons les yeux
+- serrons les lèvres
+- tendons la langue
+- tirons nos oreilles vers l'avant
+- fronçons les sourcils
+- verrouillons notre torse (respirez !)
+- et tirons le frein à main de plein d'autres manières
+
+Cela ne veut pas dire que nous devons au contraire être mou et passif.
+
+L'objectif est que pour chaque action nous utilisions le niveau adéquat de 
+tension. En général, nous en utilisons trop, et pas aux bons endroit 
+(Avez-vous *vraiment* besoin de grimacer pour déplacer votre index d'un 
+centimètre ou deux ?)
+
+#### Comment réduire la tension excessive
+
+Afin d'être moins tendu lorsque l'on joue, il est capital d'être attentif à la 
+tension utilisée durant le cours de toute la journée, lors de tâches simples et 
+répétitives. Au moment de jouer, il y a déjà trop de paramètres à prendre en 
+compte.
+
+Ainsi je vous conseille de rechercher une façon plus zen de vous laver les 
+dents ou d'utiliser une fourchette. Prenez conscience des niveaux de tension 
+dans votre visage et vos mains lorsque vous ne faites rien d'autre que vous 
+asseoir (devant la télé, dans une salle d'attente, à un feu rouge, etc.).
+
+C'est un processus à long terme. Il faut remettre l'ouvrage sur le métier jour 
+après jour. Mais l'avantage est une diminution du stress, une capacité plus 
+grande à être dans l'instant présent, et plus de facilité à la guitare !
+
+Vous pouvez aussi, avant de commencer à jouer, prendre quelques minutes afin de 
+devenir plus conscient de vos muscles et fixer pour objectif d'utiliser 
+uniquement la tension nécessaire aux mouvements que vous allez réaliser. Vous 
+pouvez le faire en vous échauffant avec l'instrument, ou sans l'instrument.
+
+Vous pouvez aussi…
+
+## Vous observer et faire des pauses
+
+J'adore travailler en séances intenses mais courtes. Ces pauses fréquentes 
+permettent de se rendre compte s'il y a plus de tension à la fin de la séance 
+qu'au départ, et de la libérer avant de recommencer.
+
+En particulier lorsqu'on commence à s'asseoir de cette nouvelle manière, ou 
+lors de tout changement de position, il n'est pas impossible que les muscles se 
+fatiguent.
+
+Comme dit plus haut, cela signifie que les "bons" muscles se développent, et 
+pas nécessairement que vous faites fausse route.
+
+### Courte pause en position allongée
+
+{% include figure alt="" caption="" 
+image_path="/img/comment-tenir-une-guitare/pause-allonge.jpg" %}
+
+Si votre dos venait à fatiguer en raison de cette posture dans laquelle votre 
+colonne, qui repose sur vos ischions, supporte votre tronc, voici une pause que 
+vous pouvez faire pour vous reposer. Elle promeut en effet un bon 
+fonctionnement du corps, et encourage les muscles à se détendre.
+
+1. couchez-vous sur votre dos par terre (ou toute autre surface dure)
+2. servez-vous d'un ou plusieurs livres pour soutenir votre tête. (Un coussin 
+est trop mou. La dureté des livres permet aux muscles du cou de se détendre, et 
+leur hauteur permet de suivre la courbe naturelle de la nuque.)
+3. pliez vos jambes de manière à ce que vos genoux pointent vers le plafond, 
+les pieds à plat au sol
+4. si vos jambes fatiguent, appuyez vos genoux l'un contre l'autre
+5. concentrez-vous sur chaque partie du corps une par une et libérez la tension
+6. restez concentré ! (il ne s'agit pas ici de rêvasser, cette pause fait 
+partie intégrante de votre séance de travail)
+7. pour vous lever, roulez-vous sur le côté et utilisez vos bras
+
+Vous pensez peut-être que cela s'éloigne trop du sujet initial qui était de 
+tenir correctement une guitare, mais en réalité la quête d'une bonne posture 
+est un processus de longue durée.
+
+Utiliser sa guitare, c'est utiliser son corps. Comme dans toute quête, 
+l'atteinte de la perfection réside dans une compréhension de plus en plus 
+pointue des détails.
+
+## Bref résumé
+
+Pour résumer très rapidement tout ce qui a été vu :
+
+1. **Trouvez une bonne chaise** Trouvez une chaise dure et plate qui permette à 
+vos pieds d'être à plat sur le sol ainsi qu'à vos cuisses d'être parallèles au 
+sol ou légèrement inclinées vers le bas (mais pas vers le haut)
+2. **Asseyez-vous au bord** Et ne reculez pas. Si vous fatiguez vous pouvez 
+faire des pauses le temps de développer votre endurance.
+3. **Trouvez vos ischions** en vous déplaçant de gauche à droite avec la tête 
+haute et le dos droit. Répartissez votre poids sur ces derniers.
+4. **Surélevez le manche de votre guitare** Un manche surélevé permet aux deux 
+mains de travailler plus facilement, ainsi que de rester droit plutôt que de 
+vous affaler. Un support pour guitare peut s'avérer utile.
+5. **Faites des pauses et contrôles** Faites des pauses fréquentes afin que 
+votre dos se repose et de repartir avec une attention optimale.
+6. **Soyez attentif aux erreurs fréquentes** Si vous le pouvez, jouez devant un 
+grand miroir et regardez-vous fréquemment afin de voir ce que vous faites 
+réellement.
+7. **Expérimentez en permanence** Comme des poupées russes, votre ressenti 
+vis-à-vis du fonctionnement de votre corps en rapport avec votre guitare 
+évoluera avec le temps. Amusez-vous lors de cette exploration !
+
+## Qu'en pensez-vous ?
+
+Avez-vous trouvé dans cet article une idée qui a débloqué un aspect de votre 
+jeu ? Avez-vous eu par le passé un problème qu'une nouvelle position assise 
+pourrait aider à résoudre ? Discussons-en dans les commentaires ci-dessous !
