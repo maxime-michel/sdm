@@ -524,8 +524,8 @@ attention.)
 
 ### Voûter le dos
 
-{% include figure alt="" 
-caption=""image_path="/img/comment-tenir-une-guitare/dos-voute.jpg" %}
+{% include figure alt="" caption=""
+image_path="/img/comment-tenir-une-guitare/dos-voute.jpg" %}
 
 C'est une des habitudes les plus courantes. Après quelques minutes passées 
 assis, les épaules s'abaissent doucement mais sûrement, jusqu'à ce que le 
@@ -545,7 +545,8 @@ la scoliose, ou du moins énormément de tension et d'inconfort tout à fait
 ### Pencher à gauche
 
 {% include figure alt="" 
-caption=""image_path="/img/comment-tenir-une-guitare/pencher-gauche.jpg" %}
+caption=""
+image_path="/img/comment-tenir-une-guitare/pencher-gauche.jpg" %}
 
 La plupart des gens qui se penchent ne s'en rendent pas compte. D'où 
 l'importance de parfois s'enregistrer avec une caméra lorsque l'on joue.
