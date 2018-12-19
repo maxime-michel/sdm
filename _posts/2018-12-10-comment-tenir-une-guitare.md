@@ -54,10 +54,10 @@ une question de technique que faire des gammes ou des arpèges.
 Tenir une guitare, c'est utiliser son corps. Tout d'abord, s'asseoir 
 correctement (à l'aide de quelques principes de base), puis ajouter la guitare 
 à l'équation. Cet article s'intéressera en détails à ces deux questions, et 
-citera aussi ce qu'il faut éviter ainsi que rechercher.
+citera aussi ce qu'il faut éviter, ainsi que rechercher.
 
 Cette page n'est pas destinée à être lue d'une traite. La partie la plus 
-importante est probablement celle qui traite des erreurs à ne pas commettre.
+importante est probablement celle qui concerne les erreurs à ne pas commettre.
 
 Avec le temps vous reviendrez peut-être à certaines sections de cette page afin 
 de trouver réponse à de nouvelles questions, ou afin d'aller plus loin dans le 
@@ -75,7 +75,7 @@ progressivement mais sûrement de ces mouvements idéaux.
 
 Votre compréhension évoluera avec le temps et l'expérience. Grâce aux règles 
 décrites ci-dessous, vous pourrez commencer à explorer la manière dont votre 
-corps répartir le poids et réagit à différentes situations.
+corps répartit son poids et réagit à différentes situations.
 
 Vous vous rendrez alors compte que ne rien faire d'autre que varier votre 
 position assise et la manière de tenir votre guitare est un sujet vaste et 
@@ -93,8 +93,8 @@ reste néanmoins important de savoir quelles chaises sont préférables.
 
 #### Dure ou molle ?
 
-Dans l'idéal, assez dur. Les chaise rembourrées, les bord de lit, les canapés, 
-ou toute ces chaises design qui n'offrent aucune résistance sont à proscrire.
+Dans l'idéal, assez dure. Les chaise rembourrées, les bords de lit, les canapés 
+ou toutes ces chaises design qui n'offrent aucune résistance sont à proscrire.
 
 Il faut être en mesure de sentir le contact de son ossature avec la chaise, et 
 les coussins confortables ne le permettent pas.
@@ -120,9 +120,9 @@ La plupart des chaises sont faites d'une assise inclinée qui orientent leur
 utlisateur vers l'arrière. Elles incitent à s'affaler contre leur dossier, 
 certaines exigent même de voûter le dos (nous en reparlerons).
 
-Malgré l'attrait esthétique que représentent les chaises à l'assise arrondie, 
-il est très difficile avec ces dernières de trouver une quelconque stabilité, 
-et de distribuer son poids correctement (nous en reparlerons aussi).
+Malgré l'attrait esthétique que représentent les chaises dont l'assise est 
+arrondie, il est très difficile avec ces dernières de trouver une quelconque 
+stabilité, et de distribuer son poids correctement (nous en reparlerons aussi).
 
 L'une des façons d'atteindre plus de facilité dans notre jeu est de se servir 
 de la colonne vertébrale comme d'un pilier, afin que nos muscles se sentent en 
@@ -137,15 +137,15 @@ Dans l'idéal, préférez donc une chaise plate et dure.
 Certaines chaises sont simplement trop basses ou trop hautes pour votre 
 morphologie.
 
-Trouvez une chaise qui vous permette de vous asseoir avec **vos pieds à plat 
-sur le sol** en face de vous. Vos cuisses devraient suivre une ligne parallèle 
+Trouvez une chaise qui vous permette de vous asseoir avec **les pieds à plat 
+sur le sol**, en face de vous. Vos cuisses devraient suivre une ligne parallèle 
 au sol, ou alors être inclinées légèrement vers les genoux.
 
 > Certaines chaises sont simplement trop basses ou trop hautes pour votre 
 morphologie.
 
 Evitez les chaises qui placent vos genoux au-dessus de vos hanches, ou alors 
-beaucoup plus bas que ces dernières. Dans ces chaises on tend à compenser en 
+beaucoup plus bas que ces dernières. Sur ces chaises on tend à compenser en 
 levant le talon ou en se tortillant d'une manière ou d'une autre.
 
 #### Si aucune bonne chaise n'est disponible
@@ -153,7 +153,7 @@ levant le talon ou en se tortillant d'une manière ou d'une autre.
 Cela arrive, en particulier lorsqu'on joue hors de chez soi. Trop molle, trop 
 basse, trop inclinée, les raisons peuvent être multiples.
 
-Dans ce genre de situation, asseyez-vous le plus près du rebord. Cette partie 
+Dans ce genre de situation, asseyez-vous le plus près du bord. Cette partie 
 sera probablement très dure ainsi que plate.
 
 Ceci est d'ailleurs possible aussi sur les chaises qui disposent d'accoudoirs. 
@@ -173,7 +173,7 @@ partie avant, les pieds à plat au sol, devant vous.
 Balancez-vous ensuite de gauche à droite. Vous devriez sentir que ce mouvement 
 a pour base deux os (ischions), que nous allons apprendre à connaître.
 
-Continuez ce mouvmenet pendant quelques minutes afin de bien vous familiariser 
+Continuez ce mouvement pendant quelques minutes afin de bien vous familiariser 
 avec cette nouvelle sensation. (Si vous trouvez cela étrange, sachez, si cela 
 peut vous rassurer, que c'est une étape par laquelle les gens qui font du yoga 
 passent aussi.)
@@ -188,7 +188,7 @@ Dans l'idéal, il faut être au milieu.
 
 ### Ossature plutôt que musculature
 
-La raison pour laquelle la recherche de cet équilibre est important est que 
+La raison pour laquelle la recherche de cet équilibre est important est que, 
 lorsque nous l'avons trouvé, la colonne vertébrale est droite et soutenue par 
 la chaise, comme le pilier d'une maison.
 
@@ -217,7 +217,7 @@ l'énergie.
 
 Ne prenez pas votre guitare pour autant (c'est pour bientôt !). Mais 
 amusez-vous avec cette nouvelle position, prenez un instant afin de simplement 
-vous familiariser.
+vous familiariser avec elle.
 
 Levez ensuite vos bras comme si vous teniez une guitare.
 
@@ -232,8 +232,8 @@ les muscles autour de vos yeux ou de votre visage ?
 Prenez le temps de vous essayer à cet exercice. C'est un investissement de 
 temps qui paiera à terme (et qui fait du bien !).
 
-La guitare est un instrument doté d'une drôle de forme qui nécessite du joueur 
-qu'il fasse en permanence des compromis et divers ajustements.
+La guitare est un instrument doté d'une drôle de forme qui nécessite du 
+musicien qu'il fasse en permanence des compromis et divers ajustements.
 
 Quand on apprend à utiliser son corps d'une manière idéale sans la difficulté 
 supplémentaire de l'instrument sur nos jambes, on apprend mieux comment sentir 
@@ -258,7 +258,8 @@ image_path="/img/comment-tenir-une-guitare/manche-bas.jpg" %}
 En effet, quand le manche est surélevé, la main et le bras gauches peuvent 
 s'étendre et se déplacer plus librement. Le poignet gauche peut alors opérer 
 dans une zone de confort, sans atteindre d'angle extrême (nous en reparlerons 
-plus bas), ce qui permet à la main d'avoir un maximum de puissance sans forcer.
+plus bas), ce qui permet à la main d'avoir un maximum de puissance, sans 
+forcer.
 
 Si c'est pour jouer une simple suite d'accords, alors cela ne changera pas 
 grand chose ; mais aussitôt que votre jeu se complexifie (classique, jazz), les 
@@ -280,8 +281,8 @@ la grosse corde de Mi soit à la hauteur de mes yeux, ou un peu en-dessous.
 Je connais des guitaristes qui préfèrent une position plus basse, ou plus 
 haute. Si le manche est trop bas, cela influencera la manière dont les doigts 
 de votre main droite attaqueront les cordes, ainsi que l'angle du poignet 
-droit. Chaque paramètre doit donc être modifié en prenant compte du reste de 
-l'ensemble du système "guitare-joueur".
+droit. Chaque paramètre doit donc être modifié en prenant compte de l'ensemble 
+du système "guitare-joueur".
 
 > J'aime que la mécanique de la grosse corde de Mi soit à la hauteur de mes 
 yeux.
@@ -349,10 +350,11 @@ jamais la touche, ou
 guitare au niveau du chevalet.
 
 Afin de jouer avec aisance, il est impératif d'avoir une position sûre. Sinon 
-ce sera toujours un obstacle sur le chemin de votre expression musicale.
+ce manque de sûreté sera toujours un obstacle sur le chemin de votre expression 
+musicale.
 
 Nous avons déjà survolé ce point dans la partie concernant le choix d'une 
-chaise. La bonne chaise vous aidera grandement à atteindre cet objectif.
+chaise. Une bonne chaise vous aidera grandement à atteindre cet objectif.
 
 ### L'ossature assume le poids du corps
 
@@ -374,7 +376,7 @@ capable de réaliser techniquement tout ce que votre répertoire exige
 verrez alors aussi une splendide liberté dans vos mouvements.
 
 C'est ce que l'on voit aussi chez les très bons danceurs, qui possèdent toutes 
-ces qualités, et où la liberté de mouvement est particulièrement visible.
+ces qualités, et chez qui la liberté de mouvement est particulièrement visible.
 
 Cela signifie que quel que soit le geste qu'ils ont à réaliser, à tout moment 
 ils sont capables de le faire, et ce sans "subir" leur position présente.
@@ -432,7 +434,7 @@ Il paraît cocasse que les jambes aient un quelconque effet dans les tensions
 musculaires des bras, poignets et mains, mais je peux vous assurer que c'est 
 une différence flagrante.
 
-Afin de parvenir à éprouver cette sensation, essayez d'abord sans votre 
+Afin de parvenir à éprouver cette sensation, essayez-la d'abord sans votre 
 guitare. La concentration nécessaire à maintenir cet état *pendant que l'on 
 joue* est énorme. (Pour ma part, j'y travaille encore.)
 
@@ -467,9 +469,9 @@ que notre perception change dans la durée.
 
 Il y a donc une part de doute, qu'il faut accepter avec philosophie.
 
-Arrêtons donc de faire ce dont nous savons que cela ne nous apporte aucun 
-confort ni stabilité à long terme (voûter le dos, être dans une position 
-assymétrique, etc.). Et ayons le confort comme mot d'ordre : nous voulons nous 
+Arrêtons donc de faire les gestes dont nous savons qu'ils ne nous apportent 
+aucun confort ni stabilité à long terme (voûter le dos, être dans une position 
+assymétrique, etc.). Et ayons le confort pour mot d'ordre : nous voulons nous 
 sentir libre, avoir de la facilité, ainsi qu'un grand potentiel.
 
 ### De bonnes ondes
@@ -480,11 +482,11 @@ physique, vous êtes plus impliqué et prenez plus de plaisir.
 Vous êtes alors détendu, concentré, et disponible. Alerte et dans l'instant 
 présent.
 
-Une bonne séance de travail se compose de temps, d'énergie, et d'attention. En 
+Une bonne séance de travail se compose de temps, d'énergie et d'attention. En 
 la démarrant avec une attitude positive, votre temps est mieux investi, vous 
 apporte plus de plaisir, et permet à votre attention d'opérer pleinement.
 
-> Une bonne séance de travail se compose de temps, d'énergie, et d'attention.
+> Une bonne séance de travail se compose de temps, d'énergie et d'attention.
 
 Les antonymes sont : déconcentré, fatigué, ennuyé, blasé, indifférent, 
 surchargé, ou frustré.
@@ -494,12 +496,12 @@ lorsque vous travaillez. La guitare est un instrument merveilleux, et en jouer
 permet toutes sortes d'explorations. Si un sujet en particulier ne vous 
 intéresse pas à un moment donné, passez à un autre !
 
-## Erreurs à ne pas commettre lorsqu'on tient une guitare
+## Erreurs à ne pas commettre lorsque l'on tient une guitare
 
 Il y a certains erreurs fréquentes que vous reconnaitrez peut-être. Si vous 
-souhaitez réellement à obtenir la meilleure posture possible, **travaillez 
-devant un miroir.** De cette manière vous verrez objectivement ce que vous 
-faites. (Ce qui n'est pas toujours ce que l'on croit !)
+souhaitez réellement obtenir la meilleure posture possible, **travaillez devant 
+un miroir.** De cette manière, vous verrez objectivement ce que vous faites. 
+(Ce qui n'est pas toujours ce que l'on croit !)
 
 Voici plusieurs situations à éviter :
 
@@ -511,9 +513,9 @@ image_path="/img/comment-tenir-une-guitare/cambrer-dos.jpg" %}
 Cambrer le dos désaxe votre colonne, ce qui créé plus de tension pour les 
 muscles du dos, des jambes, des épaules et de la nuque.
 
-Quand vous cambrez votre dos, le poids va vers l'avant des ischions, ce qui 
-fait travailler le cou ainsi que les épaules afin de compenser. Les muscles les 
-plus importants des jambes s'impliquent aussi, ce qui ajoute de la tension 
+Quand vous cambrez le dos, le poids va vers l'avant des ischions, ce qui fait 
+travailler le cou ainsi que les épaules afin de compenser. Les muscles les plus 
+importants des jambes s'impliquent aussi, ce qui ajoute de la tension 
 inutilement.
 
 La plupart des gens le font systématiquement quand ils s'asseient, sans même 
@@ -584,13 +586,13 @@ capable de réaliser les gestes nécessaires. Si nous apprenons à nous détendr
 et acceptons le fait de faire des erreurs, nous améliorons la probabilité 
 d'obtenir d'excellents résultats.
 
-Etant donné que les frettes sont visibles au spectateur et non au guitariste 
-lui-même, il existe deux manières de voir le manche :
+Etant donné que les frettes sont visibles pour le spectateur et non le 
+guitariste lui-même, il existe deux manières de voir le manche :
 
-1. tournez la guitare face à vous. Vous n'avez alors plus aucune chance d'avoir 
+1. tourner la guitare face à vous. Vous n'avez alors plus aucune chance d'avoir 
 une utilisation saine de votre poignet gauche, mais certains le font.
-2. tendez votre cou de manière à ce que la guitare continue à être plus ou 
-moins droite et que vous puissiez en même temps voir ce qu'il se passe.
+2. tendre le cou de manière à ce que la guitare continue à être plus ou moins 
+droite et que vous puissiez en même temps voir ce qu'il se passe.
 
 Vous l'aurez compris, ces deux options sont mauvaises. Ayez plutôt le courage 
 d'apprendre à vous repérer "à l'aveugle", en fonction des distances entre les 
@@ -611,14 +613,14 @@ On pourrait aussi parler de tension excessive généralisée.
 
 Comme dit plus haut, la guitare est un engin doté d'une drôle de forme à 
 laquelle nous devons nous adapter au travers d'une multitude de microscopiques 
-compromis. On ne s'en passe pas pour autant !
+compromis. Ce n'est pas pour autant que l'on arrêterait de jouer !
 
 En particulier pour les débutants, mais les joueurs plus expérimentés ne sont 
 pas forcément exempts de cette habitude, il y a la tendance à se tendre et à 
 rendre le simple fait de tenir une guitare beaucoup plus compliqué qu'il ne 
 l'est réellement.
 
-Il est vrai que la plupart d'entre nous utilise trop de force pour absolument 
+Il est vrai que la plupart d'entre nous utilisons trop de force pour absolument 
 tout. Que ce soit pour se lever d'une chaise, nous brosser les dents ou tenir 
 un crayon, nous utilisons beaucoup plus de force musculaire et de tension qu'il 
 n'en faut en réalité.
@@ -631,16 +633,16 @@ A la guitare, l'équation inclut des angles complexes, une assymétrie du corps,
 une synchronisation entre les deux mains, et plein d'autres paramètres (sans 
 parler de l'implication mentale que la musique classique exige).
 
-Il n'est donc pas étonnant que l'on se bloque avec un tel cahier des charges. 
+Il n'est donc pas étonnant que l'on se bloque, avec un tel cahier des charges. 
 Il est toutefois malheureux que l'on ne s'en rende pas consciemment compte. A 
 notre insu nous :
 
-- serrons nos orteils
-- levons nos talons
-- tendons nos biceps
-- bloquons nos épaules
-- serrons nos sphincters
-- impliquons nos quadriceps (cuisses)
+- serrons les orteils
+- levons les talons
+- tendons les biceps
+- bloquons les épaules
+- serrons le sphincter
+- impliquons les quadriceps (cuisses)
 - plissons les yeux
 - serrons les lèvres
 - tendons la langue
@@ -659,14 +661,14 @@ centimètre ou deux ?)
 #### Comment réduire la tension excessive
 
 Afin d'être moins tendu lorsque l'on joue, il est capital d'être attentif à la 
-tension utilisée durant le cours de toute la journée, lors de tâches simples et 
-répétitives. Au moment de jouer, il y a déjà trop de paramètres à prendre en 
+tension utilisée durant le cours de toute notre journée, lors de tâches simples 
+et répétitives. Au moment de jouer, il y a déjà trop de paramètres à prendre en 
 compte.
 
 Ainsi je vous conseille de rechercher une façon plus zen de vous laver les 
 dents ou d'utiliser une fourchette. Prenez conscience des niveaux de tension 
-dans votre visage et vos mains lorsque vous ne faites rien d'autre que vous 
-asseoir (devant la télé, dans une salle d'attente, à un feu rouge, etc.).
+dans votre visage et vos mains lorsque vous ne faites rien d'autre que d'être 
+assis (devant la télé, dans une salle d'attente, à un feu rouge, etc.).
 
 C'est un processus à long terme. Il faut remettre l'ouvrage sur le métier jour 
 après jour. Mais l'avantage est une diminution du stress, une capacité plus 
@@ -685,7 +687,7 @@ J'adore travailler en séances intenses mais courtes. Ces pauses fréquentes
 permettent de se rendre compte s'il y a plus de tension à la fin de la séance 
 qu'au départ, et de la libérer avant de recommencer.
 
-En particulier lorsqu'on commence à s'asseoir de cette nouvelle manière, ou 
+En particulier lorsque l'on commence à s'asseoir de cette nouvelle manière, ou 
 lors de tout changement de position, il n'est pas impossible que les muscles se 
 fatiguent.
 
@@ -702,7 +704,7 @@ colonne, qui repose sur vos ischions, supporte votre tronc, voici une pause que
 vous pouvez faire pour vous reposer. Elle promeut en effet un bon 
 fonctionnement du corps, et encourage les muscles à se détendre.
 
-1. couchez-vous sur votre dos par terre (ou toute autre surface dure)
+1. couchez-vous sur votre dos par terre (ou sur toute autre surface dure)
 2. servez-vous d'un ou plusieurs livres pour soutenir votre tête. (Un coussin 
 est trop mou. La dureté des livres permet aux muscles du cou de se détendre, et 
 leur hauteur permet de suivre la courbe naturelle de la nuque.)
@@ -712,7 +714,7 @@ les pieds à plat au sol
 5. concentrez-vous sur chaque partie du corps une par une et libérez la tension
 6. restez concentré ! (il ne s'agit pas ici de rêvasser, cette pause fait 
 partie intégrante de votre séance de travail)
-7. pour vous lever, roulez-vous sur le côté et utilisez vos bras
+7. roulez-vous sur le côté et utilisez vos bras pour vous lever
 
 Vous pensez peut-être que cela s'éloigne trop du sujet initial qui était de 
 tenir correctement une guitare, mais en réalité la quête d'une bonne posture 
@@ -737,7 +739,7 @@ haute et le dos droit. Répartissez votre poids sur ces derniers.
 mains de travailler plus facilement, ainsi que de rester droit plutôt que de 
 vous affaler. Un support pour guitare peut s'avérer utile.
 5. **Faites des pauses et contrôles** Faites des pauses fréquentes afin que 
-votre dos se repose et de repartir avec une attention optimale.
+votre dos se repose et que vous repartiez avec une attention optimale.
 6. **Soyez attentif aux erreurs fréquentes** Si vous le pouvez, jouez devant un 
 grand miroir et regardez-vous fréquemment afin de voir ce que vous faites 
 réellement.
