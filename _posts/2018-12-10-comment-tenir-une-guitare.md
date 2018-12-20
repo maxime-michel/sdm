@@ -96,16 +96,23 @@ reste néanmoins important de savoir quelles chaises sont préférables.
 Dans l'idéal, assez dure. Les chaise rembourrées, les bords de lit, les canapés 
 ou toutes ces chaises design qui n'offrent aucune résistance sont à proscrire.
 
-Il faut être en mesure de sentir le contact de son ossature avec la chaise, et 
-les coussins confortables ne le permettent pas.
+Il faut être en mesure de sentir le contact de son ossature avec la chaise, ce 
+que les coussins confortables ne permettent pas.
+
+Si nécessaire, vous pouvez toujours ajouter un coussin peu épais ou une 
+serviette pliée en deux.
+
+(Il n'est pas impossible que la dureté de la chaise vous amène à faire des 
+pauses fréquentes afin de vous lever et de décompresser. C'est une bonne 
+chose !)
 
 #### Avec ou sans dossier ?
 
 Cela ne change pas grand chose. Quand vous jouez, vous ne devez pas vous 
-appuyer contre le dossier, comme nous le verrons. Mais le dossier peut 
-néanmoins être utile pour se reposer lors de pauses.
+appuyer contre le dossier. Mais le dossier peut néanmoins être utile pour se 
+reposer lors de pauses.
 
-#### Inclinée, arrondie ou plate ?
+#### Inclinée et arrondie, ou plate ?
 
 Même le philosophe Henry David Thoreau a reconnu que la question des chaises 
 est épineuse. Elles mènent à toutes sortes de problèmes de santé. Mais c'est 
@@ -116,9 +123,14 @@ ou arrondie.
 
 > Trouvez une chaise solide, plate et dure.
 
+{% include figure alt="" caption="Sans les mains ! Une posture droite, avec la 
+guitare en équilibre" 
+image_path="/img/comment-tenir-une-guitare/guitare-en-equilibre.jpg" %}
+
 La plupart des chaises sont faites d'une assise inclinée qui orientent leur 
 utlisateur vers l'arrière. Elles incitent à s'affaler contre leur dossier, 
-certaines exigent même de voûter le dos (nous en reparlerons).
+certaines exigent même de voûter le dos (nous en reparlerons) et de plier le 
+coccyx.
 
 Malgré l'attrait esthétique que représentent les chaises dont l'assise est 
 arrondie, il est très difficile avec ces dernières de trouver une quelconque 
@@ -200,7 +212,7 @@ mains, etc.).
 d'une maison.
 
 Dans notre quotidien nous tendons tous à n'utiliser que notre musculature afin 
-d'obtenir différentes positions, comme si nous allions nous envoler ou tomber 
+d'atteindre différentes positions, comme si nous allions nous envoler ou tomber 
 au sol si nous ne le faisions pas ! Mais cela est dû à une tension excessive et 
 est équivalent à tuer une mouche avec un canon.
 
@@ -250,7 +262,7 @@ image_path="/img/comment-tenir-une-guitare/manche-haut.jpg" %}
 
 Dans d'autres styles de musique que le classique, on voit couramment la guitare 
 posée sur la jambe avec le manche vers le bas. Mais l'orientation vers le haut 
-est une meilleure option.
+est une bien meilleure option.
 
 {% include figure alt="" caption="Le manche pointe vers le bas" 
 image_path="/img/comment-tenir-une-guitare/manche-bas.jpg" %}
@@ -290,7 +302,7 @@ yeux.
 Prenez votre temps et essayez plusieurs options. Souvenez-vous simplement que 
 si vous êtes habitué à jouer d'une manière, *toute autre manière de jouer* vous 
 paraîtra étrange. Ne vous arrêtez pas à cette première impression. Cherchez 
-plutôt à analyser votre position de manière objectve (à l'aide d'un miroir) 
+plutôt à analyser votre position de manière objective (à l'aide d'un miroir) 
 afin de voir si votre posture correspond plutôt à la liste des principes de 
 base, ou à celle des choses à éviter (ces deux listes se trouvent ci-dessous).
 
@@ -338,11 +350,11 @@ Par exemple :
 ### La sûreté
 
 Il est important d'avoir la conviction que ni notre corps ni notre guitare ne 
-vont chuter.
+vont chuter (ou s'envoler !).
 
 Cela paraît évident, et pourtant beaucoup de guitaristes (les débutants en 
-particulier) ne sont pas confortables car ils ont peur d'endommager la guitare. 
-Ils prennent pour habitude de :
+particulier) ne sont pas à l'aise car ils ont peur d'endommager la guitare. Ils 
+prennent pour habitude de :
 
 - **tout le temps tenir le manche** : l'index de leur main gauche ne lâche 
 jamais la touche, ou
@@ -400,7 +412,7 @@ d'esprit curieux et bon enfant à ce sujet permet de progresser à long terme.)
 ### Angles moyens
 
 Les angles extrêmes limitent les mouvements possibles. Les angles moyens, en 
-revanche, permettent plus de possibilités, à tout moment.
+revanche, permettent le maximum de possibilités, à tout moment.
 
 Si votre bras est entièrement droit, il n'y a qu'un axe sur lequel il peut se 
 déplacer.
@@ -427,8 +439,8 @@ Il s'agit ici d'un laisser-aller plutôt que d'un mouvement à réaliser. Si vou
 cessez de retenir vos jambes vers vos hanches, et les laissez "partir", alors 
 elles se relâcheront.
 
-Lorsque vous y parvenez, cela libère encore plus les ischions, ce qui a un 
-effet positif supplémentaire sur le dos.
+Lorsque vous y parvenez, cela libère encore plus les muscles des fesses, ce qui 
+a un effet positif supplémentaire sur le dos.
 
 Il paraît cocasse que les jambes aient un quelconque effet dans les tensions 
 musculaires des bras, poignets et mains, mais je peux vous assurer que c'est 
@@ -463,16 +475,16 @@ Il faut donc rechercher le confort. Mais le plus important est de s'asseoir de
 la manière décrite ci-dessus, ainsi que de suivre des principes objectivement 
 bons. (Et de faire des pauses quand cela ne va plus.)
 
-Il ne faut pas croire naïvement le ressenti immédiat mais être conscient qu'une 
-nouvelle habitude met du temps à devenir supportable. Il faut s'attendre à ce 
-que notre perception change dans la durée.
+Il ne faut pas croire naïvement le ressenti immédiat mais le considérer pour ce 
+qu'il est : une indication temporaire. Il faut s'attendre à ce que notre 
+perception change dans la durée.
 
 Il y a donc une part de doute, qu'il faut accepter avec philosophie.
 
 Arrêtons donc de faire les gestes dont nous savons qu'ils ne nous apportent 
-aucun confort ni stabilité à long terme (voûter le dos, être dans une position 
-assymétrique, etc.). Et ayons le confort pour mot d'ordre : nous voulons nous 
-sentir libre, avoir de la facilité, ainsi qu'un grand potentiel.
+aucun confort ni stabilité à long terme (voûter le dos, tendre le cou, etc.). 
+Et ayons le confort pour mot d'ordre : nous voulons nous sentir libre, avoir de 
+la facilité, ainsi qu'un grand potentiel.
 
 ### De bonnes ondes
 
@@ -494,7 +506,7 @@ surchargé, ou frustré.
 Gardez une attitude optimiste et apportez enthousiasme ainsi que curiosité 
 lorsque vous travaillez. La guitare est un instrument merveilleux, et en jouer 
 permet toutes sortes d'explorations. Si un sujet en particulier ne vous 
-intéresse pas à un moment donné, passez à un autre !
+intéresse pas à un moment donné, passez simplement à un autre !
 
 ## Erreurs à ne pas commettre lorsque l'on tient une guitare
 
@@ -507,7 +519,7 @@ Voici plusieurs situations à éviter :
 
 ### Cambrer le dos
 
-{% include figure alt="" caption="" 
+{% include figure alt="Guitariste qui cambre le dos" caption="" 
 image_path="/img/comment-tenir-une-guitare/cambrer-dos.jpg" %}
 
 Cambrer le dos désaxe votre colonne, ce qui créé plus de tension pour les 
@@ -526,10 +538,10 @@ attention.)
 
 ### Voûter le dos
 
-{% include figure alt="" caption=""
+{% include figure alt="Guitariste qui voûte le dos" caption=""
 image_path="/img/comment-tenir-une-guitare/dos-voute.jpg" %}
 
-C'est une des habitudes les plus courantes. Après quelques minutes passées 
+C'est l'une des habitudes les plus courantes. Après quelques minutes passées 
 assis, les épaules s'abaissent doucement mais sûrement, jusqu'à ce que le 
 guitariste soit complètement voûté et ressente des douleurs dans le dos.
 
@@ -546,8 +558,7 @@ la scoliose, ou du moins énormément de tension et d'inconfort tout à fait
 
 ### Pencher à gauche
 
-{% include figure alt="" 
-caption=""
+{% include figure alt="Guitariste qui penche à gauche" caption=""
 image_path="/img/comment-tenir-une-guitare/pencher-gauche.jpg" %}
 
 La plupart des gens qui se penchent ne s'en rendent pas compte. D'où 
@@ -555,7 +566,7 @@ l'importance de parfois s'enregistrer avec une caméra lorsque l'on joue.
 
 Ce qu'il se passe est que le guitariste regarde naturellement le manche de 
 l'instrument et se penche vers la gauche (s'il est droitier). La jambe gauche 
-se tend, ce qui provoque une torsion du bassin.
+se tend, ce qui accentue la torsion du bassin.
 
 Plus la concentration sur la main gauche prend de l'ampleur, plus la tension 
 augmente dans les jambes, dans les fesses, et plus le poids se déplace vers la 
@@ -568,11 +579,11 @@ rendre compte.
 
 ### Tendre le cou
 
-{% include figure alt="" caption="" 
+{% include figure alt="Guitariste qui tend le cou" caption="" 
 image_path="/img/comment-tenir-une-guitare/cou-tendu.jpg" %}
 
-L'espèce humaine favorise principalement la vue en tant que sens dominant. Pour 
-les baleines, c'est le son. Pour les chiens, l'odorat. Mais pour nous, la vue.
+L'espèce humaine favorise la vue en tant que sens dominant. Pour les baleines, 
+c'est le son. Pour les chiens, l'odorat. Mais pour nous, la vue.
 
 L'une des meilleures aptitudes à développer pour un guitariste est de parvenir 
 à jouer sans regarder le manche.
@@ -583,7 +594,7 @@ binôme yeux - cerveau.
 
 On regarde tant le manche car on ne se fait pas confiance, on ne se sent pas 
 capable de réaliser les gestes nécessaires. Si nous apprenons à nous détendre 
-et acceptons le fait de faire des erreurs, nous améliorons la probabilité 
+et acceptons l'éventualité de faire des erreurs, nous améliorons la probabilité 
 d'obtenir d'excellents résultats.
 
 Etant donné que les frettes sont visibles pour le spectateur et non le 
@@ -683,9 +694,9 @@ Vous pouvez aussi…
 
 ## Vous observer et faire des pauses
 
-J'adore travailler en séances intenses mais courtes. Ces pauses fréquentes 
-permettent de se rendre compte s'il y a plus de tension à la fin de la séance 
-qu'au départ, et de la libérer avant de recommencer.
+J'adore travailler en séances courtes mais intenses. Ces pauses fréquentes 
+permettent de comparer le niveau de tension à la fin de la séance par rapport 
+au début, et de la libérer avant de recommencer.
 
 En particulier lorsque l'on commence à s'asseoir de cette nouvelle manière, ou 
 lors de tout changement de position, il n'est pas impossible que les muscles se 
@@ -696,7 +707,7 @@ pas nécessairement que vous faites fausse route.
 
 ### Courte pause en position allongée
 
-{% include figure alt="" caption="" 
+{% include figure alt="Pause détente en position allongée" caption="" 
 image_path="/img/comment-tenir-une-guitare/pause-allonge.jpg" %}
 
 Si votre dos venait à fatiguer en raison de cette posture dans laquelle votre 
@@ -704,17 +715,18 @@ colonne, qui repose sur vos ischions, supporte votre tronc, voici une pause que
 vous pouvez faire pour vous reposer. Elle promeut en effet un bon 
 fonctionnement du corps, et encourage les muscles à se détendre.
 
-1. couchez-vous sur votre dos par terre (ou sur toute autre surface dure)
+1. couchez-vous sur le dos par terre (ou sur toute autre surface dure)
 2. servez-vous d'un ou plusieurs livres pour soutenir votre tête. (Un coussin 
 est trop mou. La dureté des livres permet aux muscles du cou de se détendre, et 
-leur hauteur permet de suivre la courbe naturelle de la nuque.)
+leur hauteur permet de suivre la courbe naturelle de la nuque. Essayez 
+plusieurs livres pour trouver la bonne hauteur.)
 3. pliez vos jambes de manière à ce que vos genoux pointent vers le plafond, 
 les pieds à plat au sol
 4. si vos jambes fatiguent, appuyez vos genoux l'un contre l'autre
 5. concentrez-vous sur chaque partie du corps une par une et libérez la tension
 6. restez concentré ! (il ne s'agit pas ici de rêvasser, cette pause fait 
 partie intégrante de votre séance de travail)
-7. roulez-vous sur le côté et utilisez vos bras pour vous lever
+7. roulez-vous sur le côté et utilisez les bras pour vous lever
 
 Vous pensez peut-être que cela s'éloigne trop du sujet initial qui était de 
 tenir correctement une guitare, mais en réalité la quête d'une bonne posture 
