@@ -1,8 +1,8 @@
 ---
 title: "Oreille absolue ou relative ?"
 excerpt: >
-  Description de ce que sont les oreilles absolue et relative, et ce qu'elles 
-  permettent dans l'apprentissage de la musique.
+  Description des phénomènes d'oreilles absolue et relative, et de ce qu'elles 
+  permettent ou non dans l'apprentissage de la musique.
 header:
   teaser: /img/lunettes-stylo-partition_300.jpg
   overlay_color: "#000"
