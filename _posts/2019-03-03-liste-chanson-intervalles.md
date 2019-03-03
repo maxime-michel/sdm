@@ -13,10 +13,10 @@ categories: [theorie]
 
 Les intervalles sont en musique ce que les opérateurs (addition, soustraction, 
 multiplication, etc.) sont en mathématiques : absolument indispensables à toute 
-construction.
+étude.
 
-Il existe des applications telles qu'[Ear Master][ear-master] afin de se tester 
-de manière interactive, et de voir sa progression au fil du temps.
+Il existe des applications telles qu'[Ear Master][ear-master] afin de 
+s'entraîner de manière interactive, et de voir sa progression au fil du temps.
 
 Mais avant d'avoir les intervalles en tête et de pouvoir les chanter (très 
 important !), la première étape est de se familiariser avec *tous* les 
