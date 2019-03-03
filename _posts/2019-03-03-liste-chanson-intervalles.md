@@ -1,7 +1,8 @@
 ---
 title: "Liste de chansons afin de mémoriser les intervalles"
 excerpt: >
-  TODO
+  Liste de chansons connues afin de se familiariser avec les intervalles, 
+  fondation essentielle à tout travail de l'oreille.
 header:
   teaser: /img/homme-casque-ordinateur_300.jpg
   overlay_color: "#000"
@@ -27,9 +28,11 @@ connue dans laquelle on le trouve.
 Voici donc une liste que j'ai préparée à partir d'exemples qui m'ont aidé quand 
 je débutais.
 
+(Si aucun repère n'est indiqué, l'intervalle est celui qui ouvre le morceau.)
+
 ## Seconde mineure
 
-Thème des *Dents de la Mer*
+Thème des *Dents de la Mer* (0:20)
 
 {% include video id="A9QTSyLwd4w" provider="youtube" %}
 
@@ -37,13 +40,12 @@ Thème des *Dents de la Mer*
 
 Joyeux anniversaire
 
-{% include video id="TODO" provider="youtube" %}
+{% include video id="-tf6dERRTP8" provider="youtube" %}
 
 ## Tierce mineure
 
 *Smoke on the Water* par Deep Purple
 
-https://www.youtube.com/watch?v=
 {% include video id="zUwEIt9ez7M" provider="youtube" %}
 
 ## Tierce majeure
@@ -56,13 +58,13 @@ https://www.youtube.com/watch?v=
 
 La Marseillaise
 
-{% include video id="TODO" provider="youtube" %}
+{% include video id="221UWotqwdo" provider="youtube" %}
 
 ## Triton
 
 Thème des *Simpsons*
 
-{% include video id="TODO" provider="youtube" %}
+{% include video id="Xqog63KOANc" provider="youtube" %}
 
 ## Quinte
 
@@ -80,17 +82,17 @@ Thème des *Simpsons*
 
 *Vive le vent d'hiver*
 
-{% include video id="TODO" provider="youtube" %}
+{% include video id="V-PD5iz7qdE" provider="youtube" %}
 
 ## Septième mineure
 
-*The Winner Takes It All*, d'Abba
+*The Winner Takes It All*, d'Abba (1:06)
 
 {% include video id="92cwKCU8Z5c" provider="youtube" %}
 
 ## Septième majeure
 
-*Maria*
+*Maria*, de West Side Story, par Bernstein (0:30)
 
 {% include video id="Jy2VGRDxSvU" provider="youtube" %}
 
