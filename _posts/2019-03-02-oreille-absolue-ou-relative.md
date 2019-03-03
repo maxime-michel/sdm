@@ -31,12 +31,13 @@ musicien, c'est extrêmement simple : il faut beaucoup travailler.
 
 ## Les différentes oreilles absolues
 
-Certains ont peut-être froncé les sourcils à propos de mon "expérience" de 
-l'oreille absolue : en général, on a l'oreille absolue, ou on ne l'a pas.
+Certains ont peut-être froncé les sourcils lorsque j'ai cité mon "expérience" 
+de l'oreille absolue : en général, on a l'oreille absolue depuis l'enfance, ou 
+on ne l'a pas du tout.
 
-C'est ce que je croyais aussi. Je pensais que l'oreille absolue, dès lors qu'on 
-l'a, permettait l'identification de toutes les notes, à tout moment, quel que 
-soit l'instrument qui joue. C'était avant que je prenne des cours avec une 
+C'est ce que je croyais aussi. Je pensais aussi que l'oreille absolue, dès lors 
+qu'on l'a, permettait l'identification de toutes les notes, à tout moment, quel 
+que soit l'instrument qui joue. C'était avant que je prenne des cours avec une 
 pianiste de jazz qui m'a expliqué son propre cas.
 
 Pour elle, son oreille absolue est intimement liée depuis son enfance au piano, 
@@ -46,23 +47,23 @@ parvenait à voir immédiatement la hauteur exacte des notes sur ce clavier
 mental, pourvu qu'elles soient isolées.
 
 Certains penseront qu'elle n'a pas l'oreille absolue si cela ne marche 
-qu'aléatoirement. En fait, si : dans ce qu'elle décrit comme un mauvais jour, 
-elle est à côté, mais d'un demi-ton, ce que la meilleure oreille relative ne 
-peut pas faire.
+qu'aléatoirement. En fait, si : dans ce qu'elle décrit comme un "mauvais jour", 
+elle est à côté, mais d'un demi-ton, ce qui bat néanmoins une oreille relative, 
+même la meilleure.
 
 J'ai aussi vu des cas d'oreille absolue plus impressionnants où un passage 
 d'une improvisation jazz au piano (main gauche et main droite) est repiqué 
 instantanément par le musicien. Ce qui aboutit vite à un effet type phénomène 
 de foire, à mon humble avis…
 
-En ce qui me concerne, mon unique expérience remonte à l'adolescence. J'étais 
-en vacances à l'étranger, dans la rue, quand tout à coup une sirène a retenti. 
-Il s'agissait d'une sirène fixe, en hauteur, et il se trouve que, même si je ne 
-l'ai pas vue, le son est parvenu à mon oreille sans obstacles et d'une façon 
-très pure.
+En ce qui me concerne, mon expérience de l'oreille absolue remonte à 
+l'adolescence. J'étais en vacances à l'étranger, dans la rue, quand tout à coup 
+une sirène a retenti. Il s'agissait d'une sirène fixe, en hauteur, et il se 
+trouve que, même si je ne l'ai pas vue, le son est parvenu à mon oreille sans 
+obstacle, d'une façon très pure.
 
 Bref, dans ces circonstances particulières, pour une raison que j'ignore, j'ai 
-*vu* la note en même temps que je l'ai entendue : c'était un La. Je n'ai rien 
+*vu* la note en même temps que je l'ai entendue : c'était un La. Je n'ai rien 
 eu à faire. A aucun autre moment de ma vie je n'ai eu une autre expérience de 
 ce genre. Je me souviens parfaitement de celle-là tant c'était unique.
 
@@ -81,8 +82,8 @@ sujet). Les chœurs donnent la nausée.
 
 Voici une réalité dont les gens qui n'ont pas l'oreille absolue devraient être 
 heureux, au lieu de voir l'herbe plus verte ailleurs : leur oreille leur permet 
-une immersion dans la musique très pure, sans la permanente activité de cet 
-[accordeur mental][asg], dont l'aiguille bougerait tout le temps pour indiquer 
+une immersion dans la musique très pure, sans la permanente activité d'un 
+[accordeur][asg] mental, dont l'aiguille bougerait tout le temps pour indiquer 
 si la note est légèrement trop haute ou trop basse, et que l'on ne peut pas 
 éteindre.
 
@@ -118,7 +119,7 @@ absolue.
 La différence sera toutefois que le musicien à l'oreille relative ne pourra pas 
 dire quelles *notes* sont jouées, mais seulement quels mouvements sont réalisés 
 par les accords ou la mélodie. Prenons par exemple la suite d'accords suivante, 
-que l'on entend justement beaucoup à la radio : Do majeur, La mineur, Fa 
+que l'on entend justement beaucoup à la radio : Do majeur, La mineur, Fa 
 majeur, Sol majeur.
 
 Une oreille relative travaillée connaît très bien ces accords, qui sont la base 
@@ -173,7 +174,7 @@ uniquement par soi-même, dans une [tonalité de référence][jouer-oreille]. Ce
 permet de comprendre les relations entre les accords plus rapidement que si 
 l'on change de tonalité à chaque morceau. Faites une chanson simple par jour 
 pendant un an (c'est ce que j'ai fait) et vous n'aurez plus jamais aucun 
-complexe vis-à-vis de l'oreille absolue.
+complexe vis-à-vis de l'oreille absolue !
 
 [tonalites]:/comprendre-les-tonalites/
 [autodidactes]:/les-meilleurs-exercices-pour-autodidactes/
