@@ -1,7 +1,8 @@
 ---
 title: "Oreille absolue ou relative ?"
 excerpt: >
-  TODO
+  Description de ce que sont les oreilles absolue et relative, et ce qu'elles 
+  permettent dans l'apprentissage de la musique.
 header:
   teaser: /img/lunettes-stylo-partition_300.jpg
   overlay_color: "#000"
@@ -10,10 +11,10 @@ header:
 categories: [theorie,attitude]
 ---
 
-(…) Aujourd'hui, une question classique dans l'apprentissage de la musique, et 
-au sujet de laquelle il circule beaucoup de fantasmes et d'informations 
-erronées : je veux parler de l'oreille absolue, ce qu'elle est, ce qu'elle 
-permet, et son importance.
+Aujourd'hui, une question classique dans l'apprentissage de la musique, et au 
+sujet de laquelle il circule beaucoup de fantasmes et d'informations erronées : 
+je veux parler de l'oreille absolue, ce qu'elle est, ce qu'elle permet, et son 
+importance.
 
 La légende voudrait qu'il existe parmi les gens qui jouent de la musique un 
 peuple élu dont les membres parviennent sans effort à des prouesses à 
@@ -51,8 +52,8 @@ peut pas faire.
 
 J'ai aussi vu des cas d'oreille absolue plus impressionnants où un passage 
 d'une improvisation jazz au piano (main gauche et main droite) est repiqué 
-instantanément par le musicien. Ce qui aboutit vite à (…) phénomène de foire, à 
-mon humble avis…
+instantanément par le musicien. Ce qui aboutit vite à un effet type phénomène 
+de foire, à mon humble avis…
 
 En ce qui me concerne, mon unique expérience remonte à l'adolescence. J'étais 
 en vacances à l'étranger, dans la rue, quand tout à coup une sirène a retenti. 
@@ -81,9 +82,9 @@ sujet). Les chœurs donnent la nausée.
 Voici une réalité dont les gens qui n'ont pas l'oreille absolue devraient être 
 heureux, au lieu de voir l'herbe plus verte ailleurs : leur oreille leur permet 
 une immersion dans la musique très pure, sans la permanente activité de cet 
-[accordeur mental][asg] (…), dont l'aiguille bougerait tout le temps pour 
-indiquer si la note est légèrement trop haute ou trop basse, et que l'on ne 
-peut pas éteindre.
+[accordeur mental][asg], dont l'aiguille bougerait tout le temps pour indiquer 
+si la note est légèrement trop haute ou trop basse, et que l'on ne peut pas 
+éteindre.
 
 ## L'oreille absolue n'est pas nécessaire
 
