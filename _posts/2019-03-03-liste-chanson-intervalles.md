@@ -28,13 +28,11 @@ connue dans laquelle on le trouve.
 Voici donc une liste que j'ai préparée à partir d'exemples qui m'ont aidé quand 
 je débutais.
 
-(Si aucun repère n'est indiqué, l'intervalle est celui qui ouvre le morceau.)
-
 ## Seconde mineure
 
-Thème des *Dents de la Mer* (0:20)
+Thème des *Dents de la Mer*
 
-{% include video id="A9QTSyLwd4w" provider="youtube" %}
+{% include video id="A9QTSyLwd4w?start=20" provider="youtube" %}
 
 ## Seconde majeure
 
@@ -86,15 +84,15 @@ Thème des *Simpsons*
 
 ## Septième mineure
 
-*The Winner Takes It All*, d'Abba (1:06)
+*The Winner Takes It All*, d'Abba
 
-{% include video id="92cwKCU8Z5c" provider="youtube" %}
+{% include video id="92cwKCU8Z5c?start=66" provider="youtube" %}
 
 ## Septième majeure
 
-*Maria*, de West Side Story, par Bernstein (0:30)
+*Maria*, de West Side Story, par Bernstein
 
-{% include video id="Jy2VGRDxSvU" provider="youtube" %}
+{% include video id="Jy2VGRDxSvU?start=30" provider="youtube" %}
 
 ## Octave
 
