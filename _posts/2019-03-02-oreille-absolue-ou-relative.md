@@ -32,13 +32,15 @@ musicien, c'est extrêmement simple : il faut beaucoup travailler.
 ## Les différentes oreilles absolues
 
 Certains ont peut-être froncé les sourcils lorsque j'ai cité mon "expérience" 
-de l'oreille absolue : en général, on a l'oreille absolue depuis l'enfance, ou 
-on ne l'a pas du tout.
+de l'oreille absolue : en général, soit on a l'oreille absolue depuis 
+l'enfance, ou on ne l'a pas du tout. Cela reste vrai dans l'immense majorité 
+des cas bien entendu, mais j'aimerais citer quelques exemples afin de vous 
+montrer que, comme souvent chez l'homme, tout n'est pas si noir ou blanc.
 
-C'est ce que je croyais aussi. Je pensais aussi que l'oreille absolue, dès lors 
-qu'on l'a, permettait l'identification de toutes les notes, à tout moment, quel 
-que soit l'instrument qui joue. C'était avant que je prenne des cours avec une 
-pianiste de jazz qui m'a expliqué son propre cas.
+Par exemple, je pensais aussi que l'oreille absolue, dès lors qu'on l'a, 
+permettait l'identification de toutes les notes, à tout moment, quel que soit 
+l'instrument qui joue. C'était avant que je prenne des cours avec une pianiste 
+de jazz qui m'a expliqué son propre cas.
 
 Pour elle, son oreille absolue est intimement liée depuis son enfance au piano, 
 son instrument de prédilection. Elle m'a expliqué qu'elle voyait en permanence 
@@ -48,13 +50,13 @@ mental, pourvu qu'elles soient isolées.
 
 Certains penseront qu'elle n'a pas l'oreille absolue si cela ne marche 
 qu'aléatoirement. En fait, si : dans ce qu'elle décrit comme un "mauvais jour", 
-elle est à côté, mais d'un demi-ton, ce qui bat néanmoins une oreille relative, 
+elle est à côté, mais d'un demi-ton, ce que ne peut pas une oreille relative, 
 même la meilleure.
 
 J'ai aussi vu des cas d'oreille absolue plus impressionnants où un passage 
 d'une improvisation jazz au piano (main gauche et main droite) est repiqué 
-instantanément par le musicien. Ce qui aboutit vite à un effet type phénomène 
-de foire, à mon humble avis…
+instantanément par le musicien. Ce qui aboutit vite à un effet type "phénomène 
+de foire", à mon humble avis…
 
 En ce qui me concerne, mon expérience de l'oreille absolue remonte à 
 l'adolescence. J'étais en vacances à l'étranger, dans la rue, quand tout à coup 
@@ -84,15 +86,15 @@ Voici une réalité dont les gens qui n'ont pas l'oreille absolue devraient êtr
 heureux, au lieu de voir l'herbe plus verte ailleurs : leur oreille leur permet 
 une immersion dans la musique très pure, sans la permanente activité d'un 
 [accordeur][asg] mental, dont l'aiguille bougerait tout le temps pour indiquer 
-si la note est légèrement trop haute ou trop basse, et que l'on ne peut pas 
+si la note est légèrement trop haute ou trop basse, et que l'on ne pourrait pas 
 éteindre.
 
 ## L'oreille absolue n'est pas nécessaire
 
 Mais d'explorer le phénomène de l'oreille absolue dans ses détails n'est pas 
-mon objectif. Ce que je voudrais avant tout est m'attaquer à tous ces lieux 
-communs complètement erronés que l'on entend de la part de non-musiciens ou de 
-novices, par exemple :
+mon objectif. Ce que je voudrais avant tout est m'attaquer aux lieux communs 
+complètement erronés que l'on entend de la part de non-musiciens ou de novices, 
+par exemple :
 
 - il joue sans partition, il a l'oreille absolue : non, jouer sans partition 
 est à la portée de quiconque a un peu de mémoire (c'est même devenu très facile 
@@ -111,13 +113,12 @@ supérieur.
 
 C'est très simple. Quelqu'un qui a travaillé son oreille relative, lorsqu'il 
 entend une chanson, par exemple à la radio, peut reconnaître certains éléments 
-ou l'intégralité des accords et de la mélodie, en fonction de ce qu'il a 
-travaillé au préalable. Si le musicien a été jusqu'au-boutiste dans son 
-travail, cela peut même être un réflexe, aussi rapide que pour l'oreille 
-absolue.
+ou l'intégralité des accords et de la mélodie, en fonction de ce qu'il a étudié 
+au préalable. Si le musicien a été jusqu'au-boutiste dans son travail, cela 
+peut même être un réflexe, aussi rapide que pour l'oreille absolue.
 
 La différence sera toutefois que le musicien à l'oreille relative ne pourra pas 
-dire quelles *notes* sont jouées, mais seulement quels mouvements sont réalisés 
+dire *quelles notes* sont jouées, mais seulement quels mouvements sont réalisés 
 par les accords ou la mélodie. Prenons par exemple la suite d'accords suivante, 
 que l'on entend justement beaucoup à la radio : Do majeur, La mineur, Fa 
 majeur, Sol majeur.
@@ -129,7 +130,7 @@ l'oreille a enregistré les sensations que cette suite d'accords provoque.
 
 Admettons que la chanson à la radio joue cette suite, mais dans la tonalité de 
 La bémol majeur, [pour accomoder le chanteur par exemple][tonalites]. Le 
-musicien à l'oreille relative ne pourra pas parvenir à ce La bémol, tant qu'il 
+musicien à l'oreille relative ne pourra pas parvenir à ce La bémol tant qu'il 
 n'aura pas pu essayer quelques notes sur un clavier ou une guitare. Mais il 
 peut déjà préparer une grille d'accords en tête, ce qui est un bon départ.
 
@@ -137,27 +138,28 @@ peut déjà préparer une grille d'accords en tête, ce qui est un bon départ.
 
 Ce processus est en deux étapes :
 
-1. déterminer la tonalité de la grille d'accords mentale, dans notre exemple Do 
-majeur (ou La mineur, c'est la même chose). Cela s'identifie d'une part par la 
-connaissance théorique, d'autre part par le sentiment de sérénité et de 
-stabilité lorsque cet accord est joué. Dans la tonalité de Do majeur, Fa majeur 
-et Sol majeur ne provoquent pas cette sensation, au contraire ils apportent une 
-tension ; tension qui cherche à résoudre vers Do majeur, justement. L'accord Do 
-majeur démarre et termine souvent la chanson.
-2. déterminer la tonalité du morceau à la radio. Pour cela, il faut tâtonner un 
-peu. Jouer une note, entendre si elle est complètement fausse, jouer plus haut 
-ou plus bas, jusqu'à entendre une note consonante. Celle-là n'est pas notre 
-réponse, mais un premier indice. Comme il y a sept notes par gamme majeure, la 
-note que l'on a identifiée peut être la seconde, troisième, etc. note de la 
-gamme. L'objectif lorsqu'on a une note consonante est de remonter la gamme 
-jusqu'à parvenir à la première note de la gamme, qui permet la construction de 
-l'accord tonique, Do majeur dans notre exemple.
+1. **déterminer la tonalité de la grille d'accords mentale**, dans notre 
+exemple Do majeur (ou La mineur, c'est la même chose). Cela s'identifie d'une 
+part par la connaissance théorique, d'autre part par le sentiment de sérénité 
+et de stabilité lorsque cet accord est joué. Dans la tonalité de Do majeur, Fa 
+majeur et Sol majeur ne provoquent pas cette sensation, au contraire ils 
+apportent une tension ; tension qui cherche à résoudre vers Do majeur, 
+justement. L'accord Do majeur démarre et termine souvent la chanson.
+2. **déterminer la tonalité du morceau à la radio**. Pour cela, il faut 
+tâtonner un peu. Jouer une note, entendre si elle est complètement fausse, 
+jouer plus haut ou plus bas, jusqu'à entendre une note consonante. Celle-là 
+n'est pas notre réponse, mais un premier indice. Comme il y a sept notes par 
+gamme majeure, la note que l'on a identifiée peut être la seconde, troisième, 
+etc. note de la gamme. L'objectif lorsqu'on a une note consonante est de 
+remonter la gamme jusqu'à parvenir à la première note, qui permet la 
+construction de l'accord tonique, Do majeur dans notre exemple.
 
 Ces processus paraissent probablement très compliqués, et ils le sont un peu au 
 début. Je vous invite à prendre votre temps et à répéter plusieurs fois 
 l'exercice. Lorsque vous l'aurez fait, alors non seulement cela ira beaucoup 
 plus vite par la suite, mais cela aura aussi des effets positifs énormes sur 
-votre jeu, en mettant en place les bases de la compréhension harmonique.
+votre jeu, en mettant en place les bases de la compréhension harmonique (ou 
+oreille relative).
 
 ## Rejouer le morceau entendu
 
