@@ -34,10 +34,11 @@ musicien, c'est extrêmement simple : il faut beaucoup travailler.
 Certains ont peut-être froncé les sourcils lorsque j'ai cité mon "expérience" 
 de l'oreille absolue : en général, soit on a l'oreille absolue depuis 
 l'enfance, ou on ne l'a pas du tout. Cela reste vrai dans l'immense majorité 
-des cas bien entendu, mais j'aimerais citer quelques exemples afin de vous 
-montrer que, comme souvent chez l'homme, tout n'est pas si noir ou blanc.
+des cas bien entendu, mais toujours est-il que nous ne sommes pas des robots, 
+et de l'idée abstraite que l'on se fait de l'oreille absolue au ressenti 
+particulier d'une personne qui l'a, il y a de subtiles différences.
 
-Par exemple, je pensais aussi que l'oreille absolue, dès lors qu'on l'a, 
+Par exemple, pour ma part je pensais que l'oreille absolue, dès lors qu'on l'a, 
 permettait l'identification de toutes les notes, à tout moment, quel que soit 
 l'instrument qui joue. C'était avant que je prenne des cours avec une pianiste 
 de jazz qui m'a expliqué son propre cas.
@@ -72,7 +73,7 @@ ce genre. Je me souviens parfaitement de celle-là tant c'était unique.
 Il n'existe donc non pas *une* oreille absolue, qui serait une solution unique 
 à beaucoup de problèmes en musique, mais une palette de phénomènes d'oreille 
 absolue, qui accompagnent certains musiciens, une minorité de musiciens pour 
-être plus précis.
+être plus précis, dans certains scénarios.
 
 ### Gênes possibles avec l'oreille absolue
 
@@ -104,8 +105,8 @@ habitudes][autodidactes]),
 peu de théorie][jouer-oreille] et beaucoup de pratique, cela est à la portée de 
 tout le monde,
 - je progresse si lentement que je me décourage : non, si vos progrès sont 
-lents, c'est que vous avez certainement déjà un certain niveau, et qu'il vous 
-manque peut-être [un peu de confiance et de patience][attitude], ou alors de la 
+lents, c'est que vous avez déjà un certain niveau, et qu'il vous manque 
+peut-être [un peu de confiance et de patience][attitude], ou alors de la 
 [méthode et un plan d'attaque structuré][theorie] pour passer au niveau 
 supérieur.
 
