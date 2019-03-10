@@ -39,9 +39,9 @@ et de l'idée abstraite que l'on se fait de l'oreille absolue au ressenti
 particulier d'une personne qui l'a, il y a de subtiles différences.
 
 Par exemple, pour ma part je pensais que l'oreille absolue permettait 
-l'identification de toutes les notes, à tout moment, quel que soit l'instrument 
-qui joue. C'était avant que je prenne des cours avec une pianiste de jazz qui 
-m'a expliqué son propre cas.
+l'identification de *toutes* les notes, à tout moment, quel que soit 
+l'instrument qui joue. C'était avant que je prenne des cours avec une pianiste 
+de jazz qui m'a expliqué son propre cas.
 
 Pour elle, son oreille absolue est intimement liée depuis son enfance au piano, 
 son instrument de prédilection. Elle m'a expliqué qu'elle voyait en permanence 
@@ -119,7 +119,7 @@ musicien a été jusqu'au-boutiste dans son travail, cela peut même être un
 réflexe, aussi rapide que pour l'oreille absolue.
 
 La différence sera toutefois que le musicien à l'oreille relative ne pourra pas 
-dire *quelles notes* sont jouées, mais seulement quels mouvements sont réalisés 
+dire quelles *notes* sont jouées, mais seulement quels mouvements sont réalisés 
 par les accords ou la mélodie. Prenons par exemple la suite d'accords suivante, 
 que l'on entend justement beaucoup à la radio : Do majeur, La mineur, Fa 
 majeur, Sol majeur.
@@ -146,7 +146,7 @@ part par la connaissance théorique (l'accord Do majeur démarre et termine
 souvent la chanson, Sol résout souvent sur Do majeur, etc.), d'autre part par 
 le sentiment de sérénité et de stabilité lorsque cet accord est joué. Dans la 
 tonalité de Do majeur, Fa majeur et Sol majeur ne provoquent pas cette 
-sensation, au contraire ils apportent une tension ; tension qui cherche à 
+sensation, au contraire, ils apportent une tension : tension qui cherche à 
 résoudre vers Do majeur, justement.
 2. **déterminer la tonalité du morceau à la radio**. Pour cela, il faut 
 tâtonner un peu. Jouer une note, entendre si elle est complètement fausse, 
