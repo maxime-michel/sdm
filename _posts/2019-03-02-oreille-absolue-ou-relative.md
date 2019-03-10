@@ -31,17 +31,17 @@ musicien, c'est extrêmement simple : il faut beaucoup travailler.
 
 ## Les différentes oreilles absolues
 
-Certains ont peut-être froncé les sourcils lorsque j'ai cité mon "expérience" 
+Certains ont peut-être froncé les sourcils lorsque j'ai évoqué mon "expérience" 
 de l'oreille absolue : en général, soit on a l'oreille absolue depuis 
-l'enfance, ou on ne l'a pas du tout. Cela reste vrai dans l'immense majorité 
+l'enfance, soit on ne l'a pas du tout. Cela reste vrai dans l'immense majorité 
 des cas bien entendu, mais toujours est-il que nous ne sommes pas des robots, 
 et de l'idée abstraite que l'on se fait de l'oreille absolue au ressenti 
 particulier d'une personne qui l'a, il y a de subtiles différences.
 
-Par exemple, pour ma part je pensais que l'oreille absolue, dès lors qu'on l'a, 
-permettait l'identification de toutes les notes, à tout moment, quel que soit 
-l'instrument qui joue. C'était avant que je prenne des cours avec une pianiste 
-de jazz qui m'a expliqué son propre cas.
+Par exemple, pour ma part je pensais que l'oreille absolue permettait 
+l'identification de toutes les notes, à tout moment, quel que soit l'instrument 
+qui joue. C'était avant que je prenne des cours avec une pianiste de jazz qui 
+m'a expliqué son propre cas.
 
 Pour elle, son oreille absolue est intimement liée depuis son enfance au piano, 
 son instrument de prédilection. Elle m'a expliqué qu'elle voyait en permanence 
@@ -67,11 +67,11 @@ obstacle, d'une façon très pure.
 
 Bref, dans ces circonstances particulières, pour une raison que j'ignore, j'ai 
 *vu* la note en même temps que je l'ai entendue : c'était un La. Je n'ai rien 
-eu à faire. A aucun autre moment de ma vie je n'ai eu une autre expérience de 
-ce genre. Je me souviens parfaitement de celle-là tant c'était unique.
+eu à faire. A aucun autre moment de ma vie je n'ai eu d'autre expérience de ce 
+genre. Je me souviens parfaitement de celle-là tant c'était unique.
 
-Il n'existe donc non pas *une* oreille absolue, qui serait une solution unique 
-à beaucoup de problèmes en musique, mais une palette de phénomènes d'oreille 
+Il n'existe donc non pas *une* oreille absolue, qui serait la solution unique à 
+beaucoup de problèmes en musique, mais une palette de phénomènes d'oreille 
 absolue, qui accompagnent certains musiciens, une minorité de musiciens pour 
 être plus précis, dans certains scénarios.
 
@@ -94,8 +94,8 @@ si la note est légèrement trop haute ou trop basse, et que l'on ne pourrait pa
 
 Mais d'explorer le phénomène de l'oreille absolue dans ses détails n'est pas 
 mon objectif. Ce que je voudrais avant tout est m'attaquer aux lieux communs 
-complètement erronés que l'on entend de la part de non-musiciens ou de novices, 
-par exemple :
+complètement erronés que l'on entend de la part de non-musiciens ou de novices 
+à son sujet, par exemple :
 
 - il joue sans partition, il a l'oreille absolue : non, jouer sans partition 
 est à la portée de quiconque a un peu de mémoire (c'est même devenu très facile 
@@ -112,11 +112,11 @@ supérieur.
 
 ## Définir l'oreille relative
 
-C'est très simple. Quelqu'un qui a travaillé son oreille relative, lorsqu'il 
-entend une chanson, par exemple à la radio, peut reconnaître certains éléments 
-ou l'intégralité des accords et de la mélodie, en fonction de ce qu'il a étudié 
-au préalable. Si le musicien a été jusqu'au-boutiste dans son travail, cela 
-peut même être un réflexe, aussi rapide que pour l'oreille absolue.
+Quelqu'un qui a travaillé son oreille relative, lorsqu'il entend une chanson, 
+par exemple à la radio, peut reconnaître certains éléments ou l'intégralité des 
+accords et de la mélodie, en fonction de ce qu'il a étudié au préalable. Si le 
+musicien a été jusqu'au-boutiste dans son travail, cela peut même être un 
+réflexe, aussi rapide que pour l'oreille absolue.
 
 La différence sera toutefois que le musicien à l'oreille relative ne pourra pas 
 dire *quelles notes* sont jouées, mais seulement quels mouvements sont réalisés 
@@ -133,7 +133,8 @@ Admettons que la chanson à la radio joue cette suite, mais dans la tonalité de
 La bémol majeur, [pour accomoder le chanteur par exemple][tonalites]. Le 
 musicien à l'oreille relative ne pourra pas parvenir à ce La bémol tant qu'il 
 n'aura pas pu essayer quelques notes sur un clavier ou une guitare. Mais il 
-peut déjà préparer une grille d'accords en tête, ce qui est un bon départ.
+peut déjà préparer une grille d'accords en tête, ce qui est un excellent 
+départ.
 
 ## Déterminer la tonalité
 
@@ -141,11 +142,12 @@ Ce processus est en deux étapes :
 
 1. **déterminer la tonalité de la grille d'accords mentale**, dans notre 
 exemple Do majeur (ou La mineur, c'est la même chose). Cela s'identifie d'une 
-part par la connaissance théorique, d'autre part par le sentiment de sérénité 
-et de stabilité lorsque cet accord est joué. Dans la tonalité de Do majeur, Fa 
-majeur et Sol majeur ne provoquent pas cette sensation, au contraire ils 
-apportent une tension ; tension qui cherche à résoudre vers Do majeur, 
-justement. L'accord Do majeur démarre et termine souvent la chanson.
+part par la connaissance théorique (l'accord Do majeur démarre et termine 
+souvent la chanson, Sol résout souvent sur Do majeur, etc.), d'autre part par 
+le sentiment de sérénité et de stabilité lorsque cet accord est joué. Dans la 
+tonalité de Do majeur, Fa majeur et Sol majeur ne provoquent pas cette 
+sensation, au contraire ils apportent une tension ; tension qui cherche à 
+résoudre vers Do majeur, justement.
 2. **déterminer la tonalité du morceau à la radio**. Pour cela, il faut 
 tâtonner un peu. Jouer une note, entendre si elle est complètement fausse, 
 jouer plus haut ou plus bas, jusqu'à entendre une note consonante. Celle-là 
@@ -173,11 +175,11 @@ faire.
 
 En ce qui me concerne, je suggère plutôt, en tout cas au début, de ne pas jouer 
 avec les enregistrements, mais d'écouter la chanson sans jouer, puis de jouer 
-uniquement par soi-même, dans une [tonalité de référence][jouer-oreille]. Cela 
-permet de comprendre les relations entre les accords plus rapidement que si 
-l'on change de tonalité à chaque morceau. Faites une chanson simple par jour 
-pendant un an (c'est ce que j'ai fait) et vous n'aurez plus jamais aucun 
-complexe vis-à-vis de l'oreille absolue !
+uniquement par soi-même, dans une [tonalité de référence][jouer-oreille], de 
+préférence au clavier. Cela permet de comprendre les relations entre les 
+accords plus rapidement que si l'on change de tonalité à chaque morceau. Faites 
+une chanson simple par jour pendant un an (c'est ce que j'ai fait) et vous 
+n'aurez plus jamais aucun complexe vis-à-vis de l'oreille absolue !
 
 [tonalites]:/comprendre-les-tonalites/
 [autodidactes]:/les-meilleurs-exercices-pour-autodidactes/
