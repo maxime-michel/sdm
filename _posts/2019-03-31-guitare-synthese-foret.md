@@ -1,8 +1,8 @@
 ---
 title: "La guitare ? Une fôret miniature"
 excerpt: >
-  Introduction aux raisons qui font que différents bois complémentaires sont 
-  utilisés dans chaque guitare.
+  Introduction aux raisons qui font que plusieurs bois différents mais 
+  complémentaires sont utilisés dans la construction de chaque guitare.
 header:
   teaser: /img/foret-arbres_300.jpg
   overlay_color: "#000"
@@ -12,7 +12,7 @@ categories: [guitare]
 ---
 
 Je voudrais aujourd'hui partager avec vous une très belle phrase d'Andrés 
-Segovia, guitariste classique décisif du XXème siècle, avant lequel on ne 
+Segovia, guitariste classique décisif du siècle passé, avant lequel on ne 
 jouait pas ou très peu de musique classique à la guitare.
 
 Je ne joue pas de musique classique moi-même, mais une phrase tirée d'un 
@@ -32,7 +32,7 @@ Dans une guitare classique, on trouve, en effet :
 
 - du palissandre, généralement indien, pour le fond et les éclisses (les côtés)
 - de l'épicéa ou cèdre pour la table d'harmonie : l'épicéa, plus clair, est 
-aussi plus exigeant, et met plus de temps à se développer
+aussi plus exigeant pour le joueur, et met plus de temps à se développer
 - de l'ébène pour la touche car c'est un bois très dense
 
 Le luthier m'a d'ailleurs montré, comme en cuisine, l'importance d'avoir 
@@ -41,7 +41,7 @@ devenir la table d'harmonie d'une guitare, a donné un coup avec le pouce sur
 cette dernière, et m'a fait entendre la manière dont cela résonnait, en 
 m'expliquant que "déjà là c'est de la musique".
 
-## Palissandre
+## La contrainte environnementale
 
 J'ai parlé plus haut du palissandre indien. En réalité, le palissandre le plus 
 prisé est le palissandre brésilien. Mais, de nos jours, ce dernier est protégé, 
