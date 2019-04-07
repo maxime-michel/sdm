@@ -219,3 +219,5 @@ s'inspirer de leur exemple ?
 [diapason]:https://www.secretsdemusiciens.com/liens/diapason/
 [accordage-debutant]:https://www.accordersaguitare.com/l-accordage-explique-aux-debutants/
 [oreille]:/jouer-a-l-oreille/
+
+{% include mailchimp.html %}

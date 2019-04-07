@@ -101,3 +101,5 @@ Thème des *Simpsons*
 {% include video id="fjwWjx7Cw8I" provider="youtube" %}
 
 [ear-master]:https://www.secretsdemusiciens.com/liens/earmaster/
+
+{% include mailchimp.html %}

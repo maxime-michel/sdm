@@ -764,3 +764,5 @@ vis-à-vis du fonctionnement de votre corps en rapport avec votre guitare
 Avez-vous trouvé dans cet article une idée qui a débloqué un aspect de votre 
 jeu ? Avez-vous eu par le passé un problème qu'une nouvelle position assise 
 pourrait aider à résoudre ? Discussons-en dans les commentaires ci-dessous !
+
+{% include mailchimp.html %}

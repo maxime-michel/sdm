@@ -65,3 +65,5 @@ récemment.
 
 Pour moi tout ce qui touche de près ou de loin à la musique est digne 
 t'intérêt, et ce sujet des essences bois est d'une poésie extraordinaire.
+
+{% include mailchimp.html %}
