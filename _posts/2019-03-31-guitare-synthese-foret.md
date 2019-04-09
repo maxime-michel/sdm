@@ -16,9 +16,9 @@ Segovia, guitariste classique décisif du siècle passé, avant lequel on ne
 jouait pas ou très peu de musique classique à la guitare.
 
 Je ne joue pas de musique classique moi-même, mais une phrase tirée d'un 
-documentaire sur lui m'a énormément plu, et est valable pour toutes les 
-guitares. Au détour d'une question, Segovia nous rappelle la nature véritable 
-de cet instrument que l'on a tous les jours entre les mains. Il dit :
+documentaire sur le guitariste espagnol m'a énormément plu, et est valable pour 
+toutes les guitares. Au détour d'une question, Segovia nous rappelle la nature 
+véritable de cet instrument que l'on a tous les jours entre les mains. Il dit :
 
 > La guitare est un assemblage de bois si divers que c'est une espèce de fôret 
 miniature.
@@ -72,6 +72,7 @@ Suisse, etc. : votre guitare est un mélange de bois issus de plusieurs pays
 dans différentes proportions, à vous de découvrir ce que les forêts de ces 
 différents pays vous inspirent, et quels liens possibles peuvent être faits 
 avec des morceaux. Grâce à cet exercice, vous obtiendrez un lien plus fort à 
-l'instrument, ce qui infusera de très subtiles couleurs dans votre jeu.
+l'instrument, ce qui infusera à long terme de très subtiles couleurs dans votre 
+jeu.
 
 {% include mailchimp.html %}

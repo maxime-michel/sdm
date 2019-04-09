@@ -11,9 +11,9 @@ header:
 categories: [attitude]
 ---
 
-Dans la même veine que [mon article sur l'oreille absolue][oreille-absolue], il 
-y a un autre sujet qui m'a fait perdre beaucoup de temps et que je souhaiterais 
-traiter suite à une récente découverte.
+Après [mon article sur l'oreille absolue][oreille-absolue], il y a un autre 
+sujet qui m'a fait perdre beaucoup de temps et que je souhaiterais traiter 
+suite à une récente découverte.
 
 Je veux parler de cette idée selon laquelle les grands artistes ont énormément 
 souffert dans leur vie, ont eu un destin tragique, et c'est surtout cela qui 
