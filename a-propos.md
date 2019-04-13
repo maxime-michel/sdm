@@ -10,7 +10,9 @@ author_profile: true
 
 Maxime est un jeune musicien et pédagogue qui vit à Bâle. Il chante et 
 s'accompagne à la guitare dans un style bossa nova, mais joue aussi du piano 
-jazz. (extraits prochainement)
+jazz.
+
+Extraits : [Dreamer de Jobim][dreamer], (plus d'extraits prochainement)
 
 Il commence à jouer de la musique dans son adolescence, et devient 
 immédiatement passionné, au point qu'il se retrouve rapidement sur scène, 
@@ -44,3 +46,4 @@ bonne technique avec un second instrument, mais aussi de maîtriser la théorie.
 [aimee]:https://www.youtube.com/user/NolteFam
 [antoine]:https://www.youtube.com/user/AntoineHerveOfficial
 [stage]:/stage-musicien-professionnel/
+[dreamer]:/audio/dreamer.mp3
