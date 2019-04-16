@@ -11,7 +11,7 @@ header:
 categories: [guitare]
 ---
 
-Je voudrais aujourd'hui partager avec vous une très belle phrase d'Andrés 
+Aujourd'hui, je voudrais partager avec vous une très belle phrase d'Andrés 
 Segovia, guitariste classique décisif du siècle passé, avant lequel on ne 
 jouait pas ou très peu de musique classique à la guitare.
 
