@@ -11,7 +11,7 @@ header:
 categories: [attitude]
 ---
 
-Après [mon article sur l'oreille absolue][oreille-absolue], il y a un autre 
+Après [mon article sur l'oreille absolue][oreille-absolue], voici un autre 
 sujet qui m'a fait perdre beaucoup de temps et que je souhaiterais traiter 
 suite à une récente découverte.
 
