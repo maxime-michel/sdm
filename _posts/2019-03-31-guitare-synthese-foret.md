@@ -50,9 +50,8 @@ J'ai parlé plus haut du palissandre indien. En réalité, le palissandre le plu
 prisé est le palissandre brésilien. Mais, de nos jours, ce dernier est protégé, 
 et, même s'il est toujours possible de trouver un luthier qui en possède et 
 puisse construire une guitare avec, d'une part cela coûte cher, et, d'autre 
-part, un contrôle (lors d'un passage à une douane ou dans un festival par 
-exemple) pourrait aboutir à ce que votre instrument soit saisi et tout 
-simplement détruit.
+part, un contrôle (lors d'un passage à une douane par exemple) pourrait aboutir 
+à ce que votre instrument soit saisi et tout simplement détruit.
 
 C'est un jeu auquel j'ai décidé de ne pas me risquer, en préférant plutôt des 
 bois utilisés moins fréquemment, mais dont beaucoup pensent qu'ils ont des 
