@@ -36,11 +36,11 @@ voiture dix jours plus tard.
 
 Plus tard, c'est sa femme qui s'est suicidée lorsqu'il lui a appris qu'il la 
 quittait, puisqu'elle ne pouvait pas lui donner d'enfant. Puis c'est son frère, 
-à qui il tenait énormément, qui s'est suicidé, suite à des crises de 
+à qui il tenait énormément, qui à son tour s'est suicidé, suite à des crises de 
 schizophrénie de plus en plus violentes.
 
 En parallèle, diverses addictions à plusieurs drogues ont attaqué sa santé 
-physique ainsi que financière. A un moment, son état physique s'est tellement 
+physique ainsi que financière. A une époque, son état physique s'est tellement 
 dégradé qu'il est littéralement devenu un sans-dents, avant qu'un admirateur ne 
 lui offre un traitement chez un dentiste.
 
@@ -55,9 +55,9 @@ jeu".
 Quelqu'un peut-il m'expliquer une bonne fois pour toutes ce que d'être triste 
 voire effondré permet de faire de plus en musique ? Quel travail, en 
 particulier de longue durée, peut-on faire quand on est dépressif ? Quand on se 
-lève avec le soucis de trouver la dose de drogue du jour ? Ou alors c'est 
-l'inspiration qui tombe du ciel et la douleur nous fait écrire des 
-chefs-d'œuvre alors que nos yeux sont noyés de larmes ?
+lève avec le soucis de trouver la dose de drogue du jour ? Ou alors 
+l'inspiration tombe du ciel dès le moment, les doigts bougent tout seul et les 
+chefs-d'œuvre s'écrivent dès lors qu'on est assez malheureux ?
 
 Non, je crois que ce sont des âneries. Je ne nie pas une certaine part 
 d'excentricité chez *certains* artistes. Mais elle n'est absolument pas 
@@ -65,10 +65,10 @@ nécessaire. J'ai rencontré plusieurs musiciens professionnels, dont une mère 
 quatre enfants qui adore nager, jouer au basket, faire du skate. Un autre était 
 un grand boute-en-train.
 
-Je pense aussi qu'il y a une certaine paresse des gens, qui se disent : si 
+Je pense qu'il y a avant tout une certaine paresse des gens, qui se disent : si 
 c'est ça un destin d'artiste, pas étonnant que je ne joue pas si bien, je suis 
 quelqu'un de très banal… Ce sont les musiciens qui sont en réalité des gens 
-aussi banals que quiconque !
+aussi banals que les autres !
 
 ## Conclusion
 
@@ -77,12 +77,12 @@ raisons non-musicales, il faut en être conscient. Mais, [avec la bonne
 méthode][attitude] et [énormément de travail][theorie], rien n'est absolument 
 hors de portée.
 
-La preuve, c'est que la découverte que j'ai faite récemment : j'écoutais un 
-disque d'un autre pianiste, et était persuadé de savoir qui jouait : mon fameux 
-pianiste préféré. Puis j'ai appris le vrai nom du musicien sur le disque par un 
-ami qui était fier du piège qu'il m'avait tendu : il s'agissait en fait d'un 
-autre pianiste, plus âgé, au style très similaire, et qui lui a vécu jusqu'à 92 
-ans ! Comme quoi j'avais tout faux.
+J'en veux pour preuve la découverte que je citias plus haut : j'écoutais un 
+disque de jazz, et était persuadé de savoir qui jouait : mon fameux pianiste 
+préféré. Puis j'ai appris le vrai nom du musicien sur le disque par un ami qui 
+était fier du piège qu'il m'avait tendu : il s'agissait en fait d'un autre 
+pianiste, plus âgé, au style très similaire, et qui lui a vécu en bonne santé 
+jusqu'à 92 ans ! Comme quoi j'avais tout faux.
 
 [oreille-absolue]:/oreille-absolue-ou-relative/
 [stage-pro]:/stage-musicien-professionnel/
