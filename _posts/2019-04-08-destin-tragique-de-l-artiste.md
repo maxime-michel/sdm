@@ -19,9 +19,8 @@ Je veux parler de cette idée selon laquelle les grands artistes ont énormémen
 souffert dans leur vie, ont eu un destin tragique, et c'est surtout cela qui 
 leur permet d'atteindre un art plus décisif que les autres.
 
-Je ne jète la pierre à personne, la preuve c'est que c'est une récente 
-découverte qui m'a amené à me rendre compte que j'ai moi-même longtemps fait 
-cette erreur.
+Je ne jète la pierre à personne, la preuve c'est que jusqu'à récemment je ne 
+m'étais pas rendu compte que j'avais moi-même longtemps fait cette erreur.
 
 ## L'admiration naïve
 
