@@ -61,10 +61,9 @@ qualités similaires aux bons palissandres, comme le cocobolo ou le padouk.
 
 Bref, vous aurez certainement compris par mes remarques que je n'ai pas 
 beaucoup d'expérience en lutherie ! Mais j'espère vous avoir donné envie 
-d'entamer des recherches sur la composition de vos instruments, comme moi 
-récemment. Tout ce qui touche de près ou de loin à la musique devrait nous 
-intéresser, afin de développer la vision la plus complète possible de notre 
-passion.
+d'entamer des recherches sur la composition de vos instruments. Tout ce qui 
+touche de près ou de loin à la musique devrait nous intéresser, afin de 
+développer la vision la plus complète possible de notre passion.
 
 Et ce sujet des essences de bois en particulier permet à l'imagination de 
 développer un monde d'une poésie extraordinaire. Inde, Brésil, Afrique, Canada, 
