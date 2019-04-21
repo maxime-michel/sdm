@@ -111,7 +111,7 @@ mailchimp:
   list: accordersaguitare
   dc: us15
   u: 88f74bac90be8782706e16cfe
-  id: 433ec9f0b0
+  id: 1ae0e7aa7a
   fields:
     - type: "email"
       merge: "EMAIL"
