@@ -12,15 +12,15 @@ categories: [attitude]
 ---
 
 Après [mon article sur l'oreille absolue][oreille-absolue], voici un autre 
-sujet qui m'a fait perdre beaucoup de temps et que je souhaiterais traiter 
+sujet qui m'a fait perdre beaucoup de temps et que je souhaiterais traiter, 
 suite à une récente découverte.
 
 Je veux parler de cette idée selon laquelle les grands artistes ont énormément 
 souffert dans leur vie, ont eu un destin tragique, et c'est surtout cela qui 
 leur permet d'atteindre un art plus décisif que les autres.
 
-Je ne jète la pierre à personne, la preuve c'est que jusqu'à récemment je ne 
-m'étais pas rendu compte que j'avais moi-même longtemps fait cette erreur.
+(Je ne jète la pierre à personne, la preuve c'est que jusqu'à récemment je ne 
+m'étais pas rendu compte que j'avais moi-même longtemps fait cette erreur.)
 
 ## L'admiration naïve
 
@@ -55,20 +55,19 @@ s'entend dans son jeu".
 Quelqu'un peut-il m'expliquer une bonne fois pour toutes ce que le fait d'être 
 triste voire effondré permet de faire de plus en musique ? Quel travail, en 
 particulier de longue durée, peut-on faire quand on est dépressif ? Quand on se 
-lève avec le soucis de trouver la dose de drogue du jour ? Ou alors 
-l'inspiration tombe du ciel, les doigts bougent tout seul et les chefs-d'œuvre 
-s'écrivent – dès lors qu'on est assez malheureux ?
+lève avec le soucis de trouver la dose de drogue du jour ?
 
 Non, je crois que ce sont des âneries. Je ne nie pas une certaine part 
 d'excentricité chez *certains* artistes. Mais elle n'est absolument pas 
 nécessaire. J'ai rencontré plusieurs musiciens professionnels, dont une mère de 
 quatre enfants qui adore nager, jouer au basket, faire du skate. Un autre était 
-un grand boute-en-train, du genre à passer des heures au bistro.
+un grand boute-en-train, dont on pouvait croire qu'il passait des heures au 
+bistro.
 
-Je pense qu'il y a avant tout une certaine paresse des gens, qui se disent : 
-"si c'est ça un destin d'artiste, pas étonnant que je ne joue pas si bien, je 
-suis quelqu'un de très banal…" Alors que ce sont les musiciens qui sont en 
-réalité des gens aussi banals que les autres !
+Je pense qu'il y a avant tout une certaine paresse des non-initiés, qui se 
+disent : "si c'est ça un destin d'artiste, pas étonnant que je ne joue pas si 
+bien, je suis quelqu'un de très banal…" Alors que ce sont les musiciens qui 
+sont en réalité des gens aussi banals que les autres !
 
 ## Conclusion
 
@@ -79,10 +78,10 @@ hors de portée.
 
 J'en veux pour preuve la découverte avec laquelle j'ai commencé cet article : 
 j'écoutais un disque de jazz, et était persuadé de savoir qui jouait : mon 
-fameux pianiste préféré. Puis j'ai appris le vrai nom du musicien sur le disque 
-par un ami qui était fier du piège qu'il m'avait tendu : il s'agissait en fait 
-d'un autre pianiste, plus âgé, au style très similaire, et qui lui a vécu en 
-bonne santé jusqu'à 92 ans ! Comme quoi j'avais tout faux.
+fameux pianiste préféré. Puis j'ai appris le vrai nom du musicien sur le 
+disque, par un ami qui était fier du piège qu'il m'avait tendu : il s'agissait 
+en fait d'un autre pianiste, plus âgé, au style très similaire, et qui lui a 
+vécu en bonne santé jusqu'à 92 ans ! Comme quoi…
 
 [oreille-absolue]:/oreille-absolue-ou-relative/
 [stage-pro]:/stage-musicien-professionnel/
