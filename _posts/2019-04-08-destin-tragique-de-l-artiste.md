@@ -23,13 +23,13 @@ leur permet d'atteindre un art plus décisif que les autres.
 
 Il y a quelques années, j'ai eu une période pendant laquelle je ne jurais que 
 par un pianiste. J'y pensais tout le temps. Je n'écoutais que lui. J'ai lu 
-plusieurs biographies. Je croyais que jamais personne avant lui, ni après lui, 
-ne parviendrait à une telle élégance et à un jeu si riche.
+plusieurs biographies. Je croyais que personne d'autre que lui ne parviendrait 
+à une telle élégance et à un jeu si riche.
 
 Il se trouve que ce pianiste était drogué et, pour le coup, a eu un vrai destin 
-tragique : alors que son premier groupe venait d'enregistrer un concert dont il 
-était enfin satisfait, son contrebassiste s'est tué dans un accident de voiture 
-dix jours plus tard.
+tragique : alors que son premier groupe venait d'enregistrer [un concert dont 
+il était enfin satisfait][vanguard], son contrebassiste s'est tué dans un 
+accident de voiture dix jours plus tard.
 
 Plus tard, c'est sa femme qui s'est suicidée lorsqu'il lui a appris qu'il la 
 quittait, puisqu'elle ne pouvait pas lui donner d'enfant. Puis c'est son frère, 
@@ -51,7 +51,7 @@ s'entend dans son jeu".
 
 Quelqu'un peut-il m'expliquer une bonne fois pour toutes ce que le fait d'être 
 triste voire effondré permet de faire de plus en musique ? Quel travail, en 
-particulier de longue durée, peut-on faire quand on est dépressif ? Quand on se 
+particulier de longue durée, peut-on faire quand on est dépressif ? quand on se 
 lève avec le soucis de trouver la dose de drogue du jour ? L'inspiration 
 tombe-t-elle du ciel dès lors qu'on atteint un seuil de souffrance et de 
 tragique ?
@@ -60,14 +60,14 @@ Non, je crois que ce sont des âneries. Je ne nie pas une certaine part
 d'excentricité chez *certains* artistes. Mais elle n'est absolument pas 
 nécessaire. J'ai rencontré plusieurs musiciens professionnels, dont une mère de 
 quatre enfants qui adore nager, jouer au basket, faire du skate. Un autre est 
-un grand boute-en-train, et donne l'impression de passer de nombreuses heures à 
-blaguer au bistro.
+un grand boute-en-train, et donne l'impression de passer des heures à blaguer 
+entre amis au bistro.
 
 Je pense qu'il y a surtout une certaine paresse des non-initiés, qui se 
 disent : "si c'est ça un destin d'artiste, pas étonnant que je ne joue pas si 
-bien, je suis quelqu'un de très banal…" Et ils ont une excuse pour arrêter. 
-Alors que ce sont les musiciens qui sont en réalité des gens aussi banals que 
-les autres ! Plus persévérants peut-être, mais c'est tout !
+bien, je suis quelqu'un de très banal…" Et ils ont une excuse pour arrêter la 
+musique. Alors que ce sont les musiciens qui sont en réalité des gens aussi 
+banals que les autres ! Plus persévérants peut-être, mais c'est tout !
 
 ## Conclusion
 
@@ -77,13 +77,14 @@ méthode][attitude] et [énormément de travail][theorie], rien n'est absolument
 hors de portée.
 
 J'en veux pour preuve la découverte avec laquelle j'ai commencé cet article : 
-j'écoutais un disque de jazz, et était persuadé de savoir qui jouait : mon 
-fameux pianiste préféré. Puis j'ai appris le vrai nom du musicien sur le 
-disque, par un ami qui était fier du piège qu'il m'avait tendu : il s'agissait 
-en fait d'un autre pianiste, plus âgé, au style très similaire, et qui lui a 
-vécu en bonne santé jusqu'à 92 ans ! Comme quoi…
+j'écoutais un disque, et était persuadé de savoir qui jouait : mon fameux 
+pianiste préféré. Puis j'ai appris le vrai nom du musicien sur le disque, par 
+un ami qui était fier du piège qu'il m'avait tendu : il s'agissait en fait d'un 
+autre pianiste, plus âgé, au style très similaire, et qui lui a vécu en bonne 
+santé jusqu'à 92 ans ! Comme quoi…
 
 [oreille-absolue]:/oreille-absolue-ou-relative/
 [stage-pro]:/stage-musicien-professionnel/
 [attitude]:/attitude/
 [theorie]:/theorie/
+[vanguard]:https://fr.wikipedia.org/wiki/Sunday_at_the_Village_Vanguard
