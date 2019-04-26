@@ -27,9 +27,9 @@ plusieurs biographies. Je croyais que jamais personne avant lui, ni après lui,
 ne parviendrait à une telle élégance et à un jeu si riche.
 
 Il se trouve que ce pianiste était drogué et, pour le coup, a eu un vrai destin 
-tragique : alors que son premier groupe venait d'enregistrer un concert dont 
-enfin il était satisfait, son contrebassiste s'est tué dans un accident de 
-voiture dix jours plus tard.
+tragique : alors que son premier groupe venait d'enregistrer un concert dont il 
+était enfin satisfait, son contrebassiste s'est tué dans un accident de voiture 
+dix jours plus tard.
 
 Plus tard, c'est sa femme qui s'est suicidée lorsqu'il lui a appris qu'il la 
 quittait, puisqu'elle ne pouvait pas lui donner d'enfant. Puis c'est son frère, 
@@ -52,19 +52,22 @@ s'entend dans son jeu".
 Quelqu'un peut-il m'expliquer une bonne fois pour toutes ce que le fait d'être 
 triste voire effondré permet de faire de plus en musique ? Quel travail, en 
 particulier de longue durée, peut-on faire quand on est dépressif ? Quand on se 
-lève avec le soucis de trouver la dose de drogue du jour ?
+lève avec le soucis de trouver la dose de drogue du jour ? L'inspiration 
+tombe-t-elle du ciel dès lors qu'on atteint un seuil de souffrance et de 
+tragique ?
 
 Non, je crois que ce sont des âneries. Je ne nie pas une certaine part 
 d'excentricité chez *certains* artistes. Mais elle n'est absolument pas 
 nécessaire. J'ai rencontré plusieurs musiciens professionnels, dont une mère de 
-quatre enfants qui adore nager, jouer au basket, faire du skate. Un autre était 
-un grand boute-en-train, dont on pouvait croire qu'il passait des heures au 
-bistro.
+quatre enfants qui adore nager, jouer au basket, faire du skate. Un autre est 
+un grand boute-en-train, et donne l'impression de passer de nombreuses heures à 
+blaguer au bistro.
 
-Je pense qu'il y a avant tout une certaine paresse des non-initiés, qui se 
+Je pense qu'il y a surtout une certaine paresse des non-initiés, qui se 
 disent : "si c'est ça un destin d'artiste, pas étonnant que je ne joue pas si 
-bien, je suis quelqu'un de très banal…" Alors que ce sont les musiciens qui 
-sont en réalité des gens aussi banals que les autres !
+bien, je suis quelqu'un de très banal…" Et ils ont une excuse pour arrêter. 
+Alors que ce sont les musiciens qui sont en réalité des gens aussi banals que 
+les autres ! Plus persévérants peut-être, mais c'est tout !
 
 ## Conclusion
 
