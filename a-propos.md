@@ -53,7 +53,7 @@ simples
 - l'oreille et la théorie avec une approche "20% d'efforts pour 80% de 
 résultats", qui vous permettra de comprendre enfin les morceaux que vous jouez, 
 et de gagner en aisance
-- la bossa nova, mon style de prédilection : rythmique, accords, construction 
+- la bossa nova, son style de prédilection : rythmique, accords, construction 
 des morceaux
 - l'attitude : prendre le temps, travailler lentement, s'accepter tel qu'on 
 est, travailler peu de sujets mais en profondeur

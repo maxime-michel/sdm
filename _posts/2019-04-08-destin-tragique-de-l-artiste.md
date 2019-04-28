@@ -76,12 +76,12 @@ raisons non-musicales, il faut en être conscient. Mais, [avec la bonne
 méthode][attitude] et [énormément de travail][theorie], rien n'est absolument 
 hors de portée.
 
-J'en veux pour preuve la découverte avec laquelle j'ai commencé cet article : 
+J'en veux pour preuve la découverte que je citais au début de l'article : 
 j'écoutais un disque, et était persuadé de savoir qui jouait : mon fameux 
 pianiste préféré. Puis j'ai appris le vrai nom du musicien sur le disque, par 
 un ami qui était fier du piège qu'il m'avait tendu : il s'agissait en fait d'un 
-autre pianiste, plus âgé, au style très similaire, et qui lui a vécu en bonne 
-santé jusqu'à 92 ans ! Comme quoi…
+autre pianiste, plus âgé, que je ne connaissais absolument pas, au style très 
+similaire, et qui lui a vécu en bonne santé jusqu'à 92 ans ! Comme quoi…
 
 [oreille-absolue]:/oreille-absolue-ou-relative/
 [stage-pro]:/stage-musicien-professionnel/
