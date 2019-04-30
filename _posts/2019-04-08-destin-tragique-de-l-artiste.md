@@ -77,7 +77,7 @@ méthode][attitude] et [énormément de travail][theorie], rien n'est absolument
 hors de portée.
 
 J'en veux pour preuve la découverte que je citais au début de l'article : 
-j'écoutais un disque, et était persuadé de savoir qui jouait : mon fameux 
+j'écoutais un disque, et étais persuadé de savoir qui jouait : mon fameux 
 pianiste préféré. Puis j'ai appris le vrai nom du musicien sur le disque, par 
 un ami qui était fier du piège qu'il m'avait tendu : il s'agissait en fait d'un 
 autre pianiste, plus âgé, que je ne connaissais absolument pas, au style très 
@@ -87,4 +87,4 @@ similaire, et qui lui a vécu en bonne santé jusqu'à 92 ans ! Comme quoi…
 [stage-pro]:/stage-musicien-professionnel/
 [attitude]:/attitude/
 [theorie]:/theorie/
-[vanguard]:https://fr.wikipedia.org/wiki/Sunday_at_the_Village_Vanguard
+[vanguard]:/liens/sunday-at-the-village-vanguard/
