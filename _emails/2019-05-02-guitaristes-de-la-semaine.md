@@ -4,7 +4,7 @@ title: "Les guitaristes de la semaine : Ivete Sangalo et Rosa Passos"
 
 à l'heure de l'égalité hommes-femmes, après nous être intéressés à [João 
 Gilberto][estate] et [Andrés Segovia][gavottes], rétablissons donc la balance 
-avec deux guitaristes féminines qui jouent en duo :
+avec un duo de guitaristes féminines :
 
 {% include video id="rZr-tSzE6f8" provider="youtube" %}
 
