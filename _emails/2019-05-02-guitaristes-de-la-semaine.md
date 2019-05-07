@@ -6,7 +6,7 @@ title: "Les guitaristes de la semaine : Ivete Sangalo et Rosa Passos"
 Gilberto][estate] et [Andrés Segovia][gavottes], rétablissons donc la balance 
 avec un duo de guitaristes féminines :
 
-{% include video id="rZr-tSzE6f8" provider="youtube" %}
+\*\|YOUTUBE:[$vid=rZr-tSzE6f8]\|\*
 
 Je ne les connais malheureusement pas assez pour vous donner beaucoup de 
 détails sur elles ou ce morceau. Rosa Passos est connue dans le milieu de la 
