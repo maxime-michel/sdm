@@ -8,8 +8,8 @@ trouvailles.
 Par trouvailles, je veux par exemple dire un accord avec des cordes ouvertes. 
 Ce genre d'accords ne peut pas être utilisé dans tous les morceaux, en effet, 
 on ne peut pas augmenter ou diminuer les cordes à vide pour adapter l'accord 
-dans un autre contexte (autre tonalité ou autre couleur) lorsqu'on se trouve en 
-milieu de manche, par exemple.
+dans un autre contexte ([autre tonalité][tonalites] ou autre couleur) lorsqu'on 
+se trouve en milieu de manche, par exemple.
 
 Bref, cet accord est donc :
 
@@ -45,6 +45,8 @@ minute ou deux
 
 Voici un exemple de mes cartes :
 
-![Capture d'écran](https://www.secretsdemusiciens.com/img/anki.png)
+![Carte Anki sur les positions d'accords à la 
+guitare](https://www.secretsdemusiciens.com/img/anki.png)
 
 [anki]:https://apps.ankiweb.net/docs/manual.fr.html
+[tonalites]:https://www.secretsdemusiciens.com/comprendre-les-tonalites/
