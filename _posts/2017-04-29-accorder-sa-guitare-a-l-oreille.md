@@ -213,11 +213,7 @@ améliorerez aussi votre oreille. Les musiciens des meilleurs orchestres
 symphoniques du monde s'accordent systématiquement à l'oreille, pourquoi ne pas 
 s'inspirer de leur exemple ?
 
-{% include mailchimp.html %}
-
 [asg]:https://www.accordersaguitare.com
 [diapason]:https://www.secretsdemusiciens.com/liens/diapason/
 [accordage-debutant]:https://www.accordersaguitare.com/l-accordage-explique-aux-debutants/
 [oreille]:/jouer-a-l-oreille/
-
-{% include mailchimp.html %}

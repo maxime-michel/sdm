@@ -50,5 +50,3 @@ entendre les nuances, repérer les motifs courants, bref : comprendre la
 musique.
 
 {% include feature_row %}
-
-{% include mailchimp.html %}

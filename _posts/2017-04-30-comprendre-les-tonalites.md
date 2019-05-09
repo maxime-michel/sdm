@@ -168,5 +168,3 @@ haut de manche. Cela prend du temps mais en vaut vraiment la peine.
 [autodidactes]:/les-meilleurs-exercices-pour-autodidactes/
 [tablatures]:/pourquoi-les-tablatures-sont-une-mauvaise-methode/
 [oreille]:/jouer-a-l-oreille/
-
-{% include mailchimp.html %}

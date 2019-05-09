@@ -103,5 +103,3 @@ pas de raccourci !
 [tonalites]:/comprendre-les-tonalites/
 [oreille]:/jouer-a-l-oreille/
 [attitude]:/attitude/
-
-{% include mailchimp.html %}

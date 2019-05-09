@@ -73,5 +73,3 @@ différents pays vous inspirent, et quels liens possibles peuvent être faits
 avec votre répertoire. Grâce à cet exercice, vous développerez une relation 
 particulière avec chacun de vos instruments, ce qui infusera à long terme de 
 très subtiles couleurs dans votre jeu.
-
-{% include mailchimp.html %}

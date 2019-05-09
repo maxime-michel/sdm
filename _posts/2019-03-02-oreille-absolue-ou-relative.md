@@ -187,5 +187,3 @@ n'aurez plus jamais aucun complexe vis-à-vis de l'oreille absolue !
 [asg]:https://www.accordersaguitare.com
 [attitude]:/attitude
 [theorie]:/theorie
-
-{% include mailchimp.html %}
