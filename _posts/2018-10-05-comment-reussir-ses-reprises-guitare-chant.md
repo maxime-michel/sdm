@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/chanteuse-joue-guitare.jpg
-categories: [theorie,guitare]
+categories: [guitare]
 ---
 
 Je vous ai déjà parlé de [mes réserves vis-à-vis des tablatures][tablatures] 

@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/etude-tablatures.jpg
-categories: [guitare,theorie]
+categories: [guitare]
 ---
 
 Les musiciens professionnels se divisent en deux catégories : les gens qui ont 

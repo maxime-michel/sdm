@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/guitare-folk-avec-capodastre.jpg
-categories: [theorie,harmonie,guitare]
+categories: [guitare]
 ---
 
 Que vous appreniez de nouveaux morceaux à l'aide de [tablatures trouvées en 

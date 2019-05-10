@@ -9,7 +9,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/position-guitare.jpg
-categories: [attitude,guitare]
+categories: [guitare]
 toc: true
 toc_label: "Table des matières"
 ---
