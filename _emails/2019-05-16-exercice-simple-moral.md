@@ -20,6 +20,6 @@ manche), essayait de jouer un bête accord, et l'élève était forcé de consta
 que le maître n'était né avec aucun don particulier !
 
 Un exercice certainement intéressant que l'on peut "renverser" pour se remonter 
-le moral : quand on est frustré avec un morceau ou passage, prenons la guitare 
+le moral : en cas de frustration avec un morceau ou passage, prenons la guitare 
 dans l'autre sens, et voyons alors à quel point nous sommes en réalité doué et 
 avons progressé par rapport au premier jour ! Pas bête, non ?
