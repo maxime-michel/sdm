@@ -2,7 +2,7 @@
 title: "Bilan d'un cours de guitare brésilienne avec Diego Figueiredo"
 ---
 
-J'ai récemment suivi un très bon cours en ligne de guitare, de [guitare 
+J'ai récemment suivi un très bon cours de guitare en ligne, de [guitare 
 brésilienne][truefire] pour être précis.
 
 Le cours est donné par Diego Figueiredo, guitariste virtuose, certainement l'un 
@@ -31,8 +31,8 @@ du temps (quelques semaines ?) pour l'assimiler et le reproduire proprement.
 L'autre avantage de bien assimiler ce rythme, est qu'on peut plus facilement 
 faire ses propres variations par la suite.
 
-Pour parvenir à bien ressentir le rythme, écouter beaucoup de bossa nova. On 
-peut aussi voir [mon article sur le problème du rythme avec les 
+Pour parvenir à bien ressentir le rythme, écouter beaucoup de musique 
+brésilienne. On peut aussi voir [mon article sur le problème du rythme avec les 
 tablatures][tablatures], dans lequel je suggère de travailler les bases du 
 rythme avec l'excellent logiciel [EarMaster][earmaster], en cas de lacunes.
 
