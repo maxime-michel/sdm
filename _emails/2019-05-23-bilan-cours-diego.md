@@ -36,7 +36,7 @@ brésilienne. On peut aussi voir [mon article sur le problème du rythme avec le
 tablatures][tablatures], dans lequel je suggère de travailler les bases du 
 rythme avec l'excellent logiciel [EarMaster][earmaster], en cas de lacunes.
 
-## Changements d'accords
+## Connaître beaucoup d'accords
 
 Diego passe beaucoup de temps à montrer des accords complètement fous qu'on ne 
 trouve dans aucun livre et qu'il joue avec autant de facilité que nous jouons 
@@ -45,9 +45,7 @@ cela vaut le coup d'œil :
 
 \*\|YOUTUBE:[$vid=3GGUjd5t1R8]\|\*
 
-## Quelques accords
-
-En parlant d'accords, en voici quelques-uns qui m'ont plu :
+En voici quand même quelques-uns qui m'ont plu :
 
 ### L'accord Hendrix à partir de la corde de Mi
 
@@ -70,9 +68,9 @@ sonorité légèrement différente et très belle : `332200`
 ### Le majeur 13
 
 Un autre accord majeur très beau, que l'on peut jouer sur la corde de Mi de la 
-façon suivante : `1X7369`
+façon suivante : `5X6677`
 
-Et de celle-là pour la corde de La : `X13673`
+Et de celle-là pour la corde de La : `X5442X`
 
 [truefire]:https://truefire.com/latin-guitar-lessons/brazilian-jazz-guitarra/c1258
 [tablatures]:https://www.secretsdemusiciens.com/pourquoi-les-tablatures-sont-une-mauvaise-methode/
