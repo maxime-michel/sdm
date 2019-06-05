@@ -74,5 +74,5 @@ Et de celle-là pour la corde de La : `X5442X`
 
 [truefire]:https://truefire.com/latin-guitar-lessons/brazilian-jazz-guitarra/c1258
 [tablatures]:https://www.secretsdemusiciens.com/pourquoi-les-tablatures-sont-une-mauvaise-methode/
-[earmaster]:https://www.secretsdemusiciens.com/liens/earmaster/
+[earmaster]:http://bit.ly/sdm-earmaster
 [purple-haze]:https://www.youtube.com/watch?v=fjwWjx7Cw8I

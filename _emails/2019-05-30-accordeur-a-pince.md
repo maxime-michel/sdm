@@ -17,5 +17,5 @@ avantages et inconvénients de chacun.
 
 ## [>> Clique ici pour accéder à l'article][article]
 
-[pc2]:https://www.secretsdemusiciens.com/liens/korg-pc2/
+[pc2]:http://bit.ly/korg-pc2
 [article]:https://www.accordersaguitare.com/acheter-un-accordeur/
