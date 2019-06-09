@@ -87,4 +87,4 @@ similaire, et qui lui a vécu en bonne santé jusqu'à 92 ans ! Comme quoi…
 [stage-pro]:/stage-musicien-professionnel/
 [attitude]:/attitude/
 [theorie]:/theorie/
-[vanguard]:/liens/sunday-at-the-village-vanguard/
+[vanguard]:https://fr.wikipedia.org/wiki/Sunday_at_the_Village_Vanguard

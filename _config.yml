@@ -245,9 +245,6 @@ defaults:
       classes: wide
 
 collections:
-  links:
-    output: true
-    permalink: /liens/:path/
   emails:
     output: true
     permalink: /emails/:path/
