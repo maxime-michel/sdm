@@ -2,7 +2,7 @@
 title: "Un accordage alternatif à connaître : l'accordage en quartes"
 ---
 
-Qui a déjà accordé une guitare s'est peut-être déjà demandé pourquoi le même 
+Qui a déjà accordé une guitare s'est peut-être demandé pourquoi le même 
 intervalle (la quarte) se trouve entre toutes les cordes adjacentes, à une 
 exception près :
 
@@ -14,9 +14,9 @@ exception près :
 
 Ce changement a certainement d'excellentes raisons pratiques et historiques, 
 mais certains guitaristes lui attribuent aussi beaucoup de temps perdu. En 
-effet, sans cette différence, il devient possible de transposer la même 
-position d'accord ou de gamme à plusieurs endroits du manche *exactement de la 
-même manière*.
+effet, sans cette exception, il devient possible de transposer la même position 
+d'accord ou de gamme à plusieurs endroits du manche *exactement de la même 
+manière*.
 
 Tout devient symétrique. Et certains guitaristes s'en sont rendu compte et 
 l'ont essayé. En l'occurrence, pour l'anectode, Stanley Jordan est parvenu à 
