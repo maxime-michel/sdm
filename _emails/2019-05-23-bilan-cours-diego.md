@@ -2,7 +2,7 @@
 title: "Bilan d'un cours de guitare brésilienne avec Diego Figueiredo"
 ---
 
-J'ai récemment suivi un très bon cours de guitare en ligne, de [guitare 
+j'ai récemment suivi un très bon cours de guitare en ligne, de [guitare 
 brésilienne][truefire] pour être précis.
 
 Le cours est donné par Diego Figueiredo, guitariste virtuose, certainement l'un 

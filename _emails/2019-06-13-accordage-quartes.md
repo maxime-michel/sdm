@@ -2,7 +2,7 @@
 title: "Un accordage alternatif à connaître : l'accordage en quartes"
 ---
 
-Qui a déjà accordé une guitare s'est peut-être demandé pourquoi le même 
+qui a déjà accordé une guitare s'est peut-être demandé pourquoi le même 
 intervalle (la quarte) se trouve entre toutes les cordes adjacentes, à une 
 exception près :
 
