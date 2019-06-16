@@ -19,7 +19,7 @@ d'accord ou de gamme à plusieurs endroits du manche *exactement de la même
 manière*.
 
 Tout devient symétrique. Et certains guitaristes s'en sont rendu compte et 
-l'ont essayé. En l'occurrence, pour l'anectode, Stanley Jordan est parvenu à 
+l'ont essayé. En l'occurrence, pour l'anecdote, Stanley Jordan est parvenu à 
 cet accordage d'une manière très drôle. Après avoir reçu pour Noël la guitare 
 qu'il a tant demandée à ses parents, il était impatient de commencer à jouer.
 
