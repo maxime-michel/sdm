@@ -34,6 +34,8 @@ stage][stage], et dont la pédagogie l'influence profondément. Suite aux
 encouragements de ces deux derniers il arrête alors son objectif de vie : jouer 
 et enseigner.
 
+## Cours Skype
+
 Il pense que son expérience peut apporter énormément aux musiciens autodidactes 
 car :
 
