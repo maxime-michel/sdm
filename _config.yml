@@ -101,7 +101,7 @@ footer:
       url: "/politique-de-confidentialite/"
     - label: "Cours Skype"
       icon: "fab fa-fw fa-skype"
-      url: mailto:maxime@accordersaguitare.com
+      url: http://bit.ly/cours-skype
 
 # Reading Files
 include:
