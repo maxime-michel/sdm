@@ -14,9 +14,16 @@ jazz.
 
 Extraits (plus d'extraits prochainement) :
 
-<audio controls>
-  <source src="/audio/dreamer.mp3" type="audio/mp3">
-</audio>
+<table>
+  <tr>
+    <td>Dreamer d'Antonio Carlos Jobim, version Terra Brasilis (instrumental)</td>
+    <td>
+      <audio controls>
+        <source src="/audio/dreamer.mp3" type="audio/mp3">
+      </audio>
+    </td>
+  </tr>
+</table>
 
 Il commence à jouer de la musique dans son adolescence, et devient 
 immédiatement passionné, au point qu'il se retrouve rapidement sur scène, 
