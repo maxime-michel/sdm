@@ -1,6 +1,9 @@
 ---
 date: 2018-07-23
-title: "Secrets de musiciens afin de débloquer son jeu"
+title: "Débloquer son jeu grâce à des secrets peu partagés"
+description: >
+  Progresser plus rapidement et avoir plus de plaisir grâce à des astuces ou 
+  conseils que les bons musiciens appliquent tous mais qui sont peu partagés.
 layout: single
 classes: wide
 author_profile: true
