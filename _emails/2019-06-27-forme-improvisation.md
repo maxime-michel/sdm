@@ -16,7 +16,7 @@ Dans 99% des cas, une improvisation se déroule de la manière suivante :
 2. la grille d'accords est rejouée et là les musiciens improvisent l'un après 
 l'autre, en se relayant à chaque nouveau départ de la grille
 3. une fois l'improvisation terminée, le morceau est conclu par une dernière 
-grille et un retour au thème joué au début
+grille qui est un retour au thème joué au début
 
 Comme avec toute règle en musique, il y a plein de contre-exemples. Parfois les 
 musiciens démarrent l'improvisation directement. Parfois le thème est joué 

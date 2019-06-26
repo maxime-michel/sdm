@@ -12,19 +12,6 @@ Maxime est un jeune musicien et pédagogue qui vit à Bâle. Il chante et
 s'accompagne à la guitare dans un style bossa nova, mais joue aussi du piano 
 jazz.
 
-Extraits (plus d'extraits prochainement) :
-
-<table>
-  <tr>
-    <td>Dreamer d'Antonio Carlos Jobim, version Terra Brasilis (instrumental)</td>
-    <td>
-      <audio controls>
-        <source src="/audio/dreamer.mp3" type="audio/mp3">
-      </audio>
-    </td>
-  </tr>
-</table>
-
 Il commence à jouer de la musique dans son adolescence, et devient 
 immédiatement passionné, au point qu'il se retrouve rapidement sur scène, 
 notamment lors d'un passage télévisé alors qu'il n'a que 22 ans. Mais ses goûts 
@@ -40,6 +27,35 @@ particulier, ainsi que [ceux d'Antoine Hervé][antoine], [qu'il rencontre en
 stage][stage], et dont la pédagogie l'influence profondément. Suite aux 
 encouragements de ces deux derniers il arrête alors son objectif de vie : jouer 
 et enseigner.
+
+### Extraits
+
+<table>
+  <tr>
+    <td>(2019) Dreamer d'Antonio Carlos Jobim, version Terra Brasilis (instrumental)</td>
+    <td>
+      <audio controls>
+        <source src="/audio/dreamer.mp3" type="audio/mp3">
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>(2011) Composition personnelle dans un groupe de rock indie</td>
+    <td>
+      <audio controls>
+        <source src="/audio/apprendre-theorie-exemple.mp3" type="audio/mp3">
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>(2011) Parties guitare dans un groupe de rock indie (le même)</td>
+    <td>
+      <audio controls>
+        <source src="/audio/joy.mp3" type="audio/mp3">
+      </audio>
+    </td>
+  </tr>
+</table>
 
 ## Cours Skype
 
@@ -66,6 +82,27 @@ et de gagner en aisance
 des morceaux
 - l'attitude : prendre le temps, travailler lentement, s'accepter tel qu'on 
 est, travailler peu de sujets mais en profondeur
+
+## Prendre contact
+
+<form name="contact" method="POST" data-netlify="true">
+  <div class="form-group">
+    <label for="name">Votre prénom</label>
+    <input type="text" name="name" />
+  </div>
+
+  <div class="form-group">
+    <label for="email">Votre adresse mail</label>
+    <input type="email" name="email" />
+  </div>
+
+  <div class="form-group">
+    <label for="message">Votre message</label>
+    <textarea type="text" rows="3" id="message" name="name"></textarea>
+  </div>
+
+  <button class="btn btn--info btn--large" type="submit">Prendre contact</button>
+</form>
 
 [musical-ear]:http://www.themusicalear.com
 [aimee]:https://www.youtube.com/user/NolteFam
