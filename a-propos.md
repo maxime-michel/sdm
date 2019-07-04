@@ -59,8 +59,8 @@ et enseigner.
 
 ## Cours Skype
 
-Il pense que son expérience peut apporter énormément aux musiciens autodidactes 
-car :
+Il pense que son expérience peut apporter énormément aux musiciens de tous les 
+niveaux car :
 
 - il a appris la musique dès son adolescence, mais surtout lorsqu'il était 
 adulte, et non grâce à un cursus dans un conservatoire dès l'enfance,
@@ -98,7 +98,7 @@ est, travailler peu de sujets mais en profondeur
 
   <div class="form-group">
     <label for="message">Votre message</label>
-    <textarea type="text" rows="3" id="message" name="name"></textarea>
+    <textarea type="text" rows="3" name="message"></textarea>
   </div>
 
   <button class="btn btn--info btn--large" type="submit">Prendre contact</button>
