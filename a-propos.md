@@ -83,27 +83,6 @@ des morceaux
 - l'attitude : prendre le temps, travailler lentement, s'accepter tel qu'on 
 est, travailler peu de sujets mais en profondeur
 
-## Prendre contact
-
-<form name="contact" method="POST" data-netlify="true">
-  <div class="form-group">
-    <label for="name">Votre prénom</label>
-    <input type="text" name="name" />
-  </div>
-
-  <div class="form-group">
-    <label for="email">Votre adresse mail</label>
-    <input type="email" name="email" />
-  </div>
-
-  <div class="form-group">
-    <label for="message">Votre message</label>
-    <textarea type="text" rows="3" name="message"></textarea>
-  </div>
-
-  <button class="btn btn--info btn--large" type="submit">Prendre contact</button>
-</form>
-
 [musical-ear]:http://www.themusicalear.com
 [aimee]:https://www.youtube.com/user/NolteFam
 [antoine]:https://www.youtube.com/user/AntoineHerveOfficial
