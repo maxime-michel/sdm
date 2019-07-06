@@ -35,14 +35,14 @@ lesquels il n'a pas trouvé de tablature.
 Certains me rétorqueront peut-être que la tablature étant approximative, 
 l'oreille doit être active pour que le placement soit bon, ou pour identifier 
 les éventuelles erreurs. Je suis entièrement d'accord. On pourrait aussi dire 
-que la tablature étant une forme écrite, c'est aux partitions qu'il faut la 
-comparer si l'on veut être juste.
+que la tablature étant une forme écrite, c'est aux partitions (plutôt qu'à 
+l'oreille) qu'il faut la comparer si l'on veut être juste.
 
 ## Comparée à la partition, la tablature est approximative
 
-Hé bien justement, faisons-le. La notation de la musique utilisée sur les 
-partitions est extrêmement précise. Elle permet d'exprimer la musique de 
-Chopin, Beethoven, Rachmaninov, etc. Les enfants qui apprenent un instrument au 
+Justement, faisons-le. La notation de la musique utilisée sur les partitions 
+est extrêmement précise. Elle permet d'exprimer la musique de Chopin, 
+Beethoven, Rachmaninov, etc. Les enfants qui apprenent un instrument au 
 conservatoire l'étudient pendant des années. Ils savent non seulement 
 identifier les notes en un coup d'œil, mais aussi taper le rythme des mains, 
 même pour des morceaux qu'ils ne connaissent pas !
