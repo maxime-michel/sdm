@@ -28,35 +28,6 @@ stage][stage], et dont la pédagogie l'influence profondément. Suite aux
 encouragements de ces deux derniers il arrête alors son objectif de vie : jouer 
 et enseigner.
 
-### Extraits
-
-<table>
-  <tr>
-    <td>(2019) Dreamer d'Antonio Carlos Jobim, version Terra Brasilis (instrumental)</td>
-    <td>
-      <audio controls>
-        <source src="/audio/dreamer.mp3" type="audio/mp3">
-      </audio>
-    </td>
-  </tr>
-  <tr>
-    <td>(2011) Composition personnelle dans un groupe de rock indie</td>
-    <td>
-      <audio controls>
-        <source src="/audio/apprendre-theorie-exemple.mp3" type="audio/mp3">
-      </audio>
-    </td>
-  </tr>
-  <tr>
-    <td>(2011) Parties guitare dans un groupe de rock indie (le même)</td>
-    <td>
-      <audio controls>
-        <source src="/audio/joy.mp3" type="audio/mp3">
-      </audio>
-    </td>
-  </tr>
-</table>
-
 ## Cours Skype
 
 Il pense que son expérience peut apporter énormément aux musiciens de tous les 
