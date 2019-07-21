@@ -86,7 +86,7 @@ author:
       url: "https://www.accordersaguitare.com/"
     - label: "Cours Skype"
       icon: "fab fa-fw fa-skype"
-      url: /a-propos/
+      url: /a-propos/#cours-skype
 
 # Site Footer
 footer:
@@ -102,7 +102,7 @@ footer:
       url: "/politique-de-confidentialite/"
     - label: "Cours Skype"
       icon: "fab fa-fw fa-skype"
-      url: /a-propos/
+      url: /a-propos/#cours-skype
 
 # Reading Files
 include:
