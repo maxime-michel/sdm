@@ -21,11 +21,6 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : "img/logo.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-comments:
-  provider               : "staticman_v2"
-staticman:
-  branch                 : "master"
-  endpoint               : "https://api.staticman.net/v3/entry/github/"
 reCaptcha:
   siteKey                :
   secret                 :
