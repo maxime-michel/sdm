@@ -34,22 +34,23 @@ de la manière suivante :
 
 - l'action deviendra basse,
 - cela générera des bruits divers (buzz),
-- les frettes seront plus tranchantes,
+- les frettes deviendront tranchantes,
 - le bois pourra se fissurer.
 
 Au contraire, si l'air est trop humide, alors :
 
 - l'action sera haute, ce qui gênera le confort de jeu,
 - le bois enflera,
-- les parties métalliques deviendront oxydées,
-- les parties collées se décolleront, pouvant aboutir à des bruits divers.
+- les parties métalliques s'oxyderont,
+- la colle entre certaines parties ne tiendra plus aussi bien, ce qui aboutira 
+à des bruits divers.
 
 ## Que faire ?
 
 La première étape n'implique pas de grosse dépense mais surtout un changement 
 de mentalité. Il faut garder ses instruments en tête lorsque l'on cuisine, aère 
 ou prend une douche. Afin de savoir exactement quel est le taux d'humidité dans 
-votre pièce musique, l'achat d'un hygromètre est fortement recommandé.
+votre pièce de musique, l'achat d'un hygromètre est fortement recommandé.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=sdm0b-21&marketplace=amazon&region=FR&placement=B01H1R0K68&asins=B01H1R0K68&linkId=ec183ccfbbd01ded7bfa441f3a6eb27d&show_border=true&link_opens_in_new_window=true"></iframe>{: .align-right}
 
@@ -66,7 +67,7 @@ moins de réglages à faire, et des instruments qui durent plus longtemps.
 ## L'étape suivante : l'humidificateur Venta
 
 Cette méthode ne suffira toutefois pas pour l'hiver si la maison est chauffée. 
-Quand l'hiver est là, peu importe que vous laissiez la lessive sécher à 
+Quand la température diminue, peu importe que vous laissiez la lessive sécher à 
 l'intérieur et preniez des douches, l'air de la maison tendra irrémédiablement 
 à devenir sec.
 
@@ -84,28 +85,28 @@ robinet
 3. quand l'air devient trop sec, l'appareil se lance
 4. l'humidité de la pièce augmente (je peux choisir la vitesse : soit cela va 
 vite mais fait du bruit, soit cela prend plus de temps mais est discret)
-4. quand l'humidité est à un bon taux, l'appareil s'arrête
+4. quand l'humidité est de retour à un taux adéquat, l'appareil s'arrête
 5. l'air est filtré au passage, ce qui est bon pour la santé (yeux, allergies, 
 etc.) !
 
 ### La différence entre le LW25 et le LW25 Comfort Plus
 
 Il n'aura pas échappé aux plus attentifs d'entre vous qu'il y a une différence 
-de 15€ entre l'humidificateur que je possède, le LW25, et celui que je 
-recommande, le LW25 Comfort Plus. La raison est la suivante : le modèle Comfort 
-Plus, plus récent, a un hygromètre intégré.
+de 15€ entre l'humidificateur que je possède, le LW25, et celui que l'on voit 
+en photo ci-dessus, le LW25 Comfort Plus. La raison est la suivante : le modèle 
+Comfort Plus, plus récent, a un hygromètre intégré.
 
-En ce qui me concerne, quand je l'ai acheté, mon humidificateur tournait tout 
-le temps. D'après Venta, il était prévu que cela l'appareil ne ferait pas 
-monter l'humidité au-dessus de 60%. Je n'ai pas trouvé que cela fonctionnait 
-très bien, et je me suis retrouvé à devoir l'arrêter ou l'enclencher en 
-permanence.
+Quand je l'ai acheté, mon humidificateur, qui n'avait pas cette option, 
+tournait tout le temps. D'après Venta, il était prévu que l'appareil ne ferait 
+pas monter l'humidité au-dessus de 60%. Je n'ai pas trouvé que cela 
+fonctionnait très bien, et je me suis retrouvé à devoir l'arrêter ou 
+l'enclencher en permanence.
 
-C'est pourquoi j'ai ensuite acheté une prise Venta qui permet de le déclencher 
-automatiquement. Mais j'ai dû importer cette dernière d'Allemagne, puis acheter 
-un adaptateur pour la brancher sur une prise française… Je recommande donc 
-largement de mettre la différence et d'obtenir le modèle Venta Comfort Plus, 
-qui fait tout à la fois.
+C'est pourquoi j'ai ensuite acheté une prise Venta avec hygromètre qui permet 
+de le déclencher automatiquement. Mais j'ai dû importer cette dernière 
+d'Allemagne, puis acheter un adaptateur pour la brancher sur une prise 
+française… Je recommande donc largement de mettre la différence et d'obtenir le 
+modèle Venta Comfort Plus, qui fait tout à la fois.
 
 [asg]:https://www.accordersaguitare.com/accorder-d-autres-instruments/
 [constr-guit]:https://www.secretsdemusiciens.com/guitare-synthese-foret/
