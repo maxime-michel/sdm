@@ -9,20 +9,21 @@ enfin complètement arrêté. Je me suis retrouvé seul, complètement désempar
 pendant longtemps.
 
 J'ai cherché et cherché sans succès les quelques éléments dont j'avais besoin 
-pour débloquer mon jeu, j'avais l'impression qu'il fallait que je reprenne un 
+pour débloquer mon jeu. J'avais l'impression qu'il fallait que je reprenne un 
 cursus complet depuis zéro. Mais je n'avais pas assez confiance aux cours en 
 ligne qui étaient très chers à l'époque.
 
-Grâce à un partenariat avec [Imusic-school][imusic-school], je vous propose une 
-réduction de 50% et 7 jours de cours à 4.95€ afin que vous puissiez éviter de 
-faire la même erreur que moi. Il suffit simplement de saisir le code **ASG7** 
-lors de la commande.
+Grâce à un partenariat avec [Imusic-school][imusic-school], je te propose une 
+réduction de 50% et 7 jours de cours à 4.95€ afin que tu puisses éviter de 
+faire la même erreur que moi.
 
-Si vous débutez la guitare, je vous propose d'aller directement voir les bases 
-avec [Paul Césari][paul].
+Si tu débutes la guitare, je te propose d'aller directement voir (ou revoir) 
+les bases avec [Paul Césari][paul].
 
-Mais vous trouverez sur le site [beaucoup de cours pour tous les niveaux et 
-tous les styles][tous-les-cours].
+Mais tu trouveras sur le site [beaucoup de cours pour tous les niveaux et tous 
+les styles][tous-les-cours].
+
+Il suffit simplement de saisir le code **ASG7** lors de la commande.
 
 [a-propos]:https://www.secretsdemusiciens.com/a-propos/
 [imusic-school]:https://www.imusic-school.com/
