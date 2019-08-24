@@ -3,18 +3,22 @@ title: "Apprendre auprès de pros depuis la maison"
 ---
 
 en ce qui me concerne, [Internet a été crucial dans mon apprentissage de la 
-musique][a-propos]. J'ai appris la musique principalement en autodidacte, et, 
-au début, ça allait bien, très bien même. Puis le progrès s'est ralenti et 
-enfin complètement arrêté. Je me suis retrouvé seul, complètement désemparé, 
-pendant longtemps.
+musique][a-propos]. J'ai appris principalement en autodidacte, et, au début, ça 
+allait bien, très bien même. Puis le progrès s'est ralenti et enfin 
+complètement arrêté. Je me suis retrouvé seul, complètement désemparé, pendant 
+longtemps.
 
 J'ai cherché et cherché sans succès les quelques éléments dont j'avais besoin 
-pour débloquer mon jeu. J'avais l'impression qu'il fallait que je reprenne un 
-cursus complet depuis zéro. Mais je n'avais pas assez confiance aux cours en 
-ligne qui étaient très chers à l'époque.
+pour débloquer mon jeu. Même les gens que j'ai rencontrés ne parvenaient pas à 
+me mettre sur la bonne voie. Il y avait bien les cours en ligne, mais je 
+n'étais pas prêt à prendre de risque avec mon argent, car je ne savais pas à 
+quoi m'attendre.
+
+(Quel temps j'aurais pu gagner pourtant si je m'étais lancé à l'époque ! Le 
+cours qui a débloqué mon jeu en 2016, je l'avais déjà repéré en 2013…)
 
 Grâce à un partenariat avec [Imusic-school][imusic-school], je te propose une 
-réduction de 50% et 7 jours de cours à 4.95€ afin que tu puisses éviter de 
+réduction de 50% sur 7 jours de cours à 4.95€ afin que tu puisses éviter de 
 faire la même erreur que moi.
 
 Si tu débutes la guitare, je te propose d'aller directement voir (ou revoir) 
