@@ -9,10 +9,10 @@ complètement arrêté. Je me suis retrouvé seul, complètement désemparé, pe
 longtemps.
 
 J'ai cherché et cherché sans succès les quelques éléments dont j'avais besoin 
-pour débloquer mon jeu. Même les profs. que j'ai rencontrés ne parvenaient pas 
-à me mettre sur la bonne voie. Il y avait bien les cours en ligne, mais je 
-n'étais pas prêt à prendre de risque avec mon argent, car je ne savais pas à 
-quoi m'attendre.
+pour débloquer mon jeu. Même les profs que j'ai rencontrés ne parvenaient pas à 
+me mettre sur la bonne voie. Il restait Internet, mais je n'étais pas prêt à 
+prendre de risque avec mon argent, car je ne savais pas qu'attendre d'un cours 
+en ligne.
 
 (Quel temps j'aurais pu gagner pourtant si je m'étais lancé à l'époque ! Le 
 cours qui a tout changé pour moi en 2016, je l'avais déjà repéré en 2013…)
