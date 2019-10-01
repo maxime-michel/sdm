@@ -28,37 +28,6 @@ stage][stage], et dont la pédagogie l'influence profondément. Suite aux
 encouragements de ces deux derniers il arrête alors son objectif de vie : jouer 
 et enseigner.
 
-### Extraits
-
-<table>
-  <tr>
-    <td>(2019) Dreamer d'Antonio Carlos Jobim, version Terra Brasilis (instrumental)</td>
-    <td>
-      <audio controls>
-        <source src="/audio/dreamer.mp3" type="audio/mp3">
-      </audio>
-    </td>
-  </tr>
-  <tr>
-    <td>(2011) Composition personnelle dans un groupe de rock indie</td>
-    <td>
-      <audio controls>
-        <source src="/audio/apprendre-theorie-exemple.mp3" type="audio/mp3">
-      </audio>
-    </td>
-  </tr>
-  <tr>
-    <td>(2011) Parties guitare dans un groupe de rock indie (le même)</td>
-    <td>
-      <audio controls>
-        <source src="/audio/joy.mp3" type="audio/mp3">
-      </audio>
-    </td>
-  </tr>
-</table>
-
-## Cours Skype
-
 Il pense que son expérience peut apporter énormément aux musiciens de tous les 
 niveaux car :
 
@@ -71,17 +40,17 @@ traductions,
 - il apprend de pianistes de très haut niveau, ce qui exige non seulement une 
 bonne technique avec un second instrument, mais aussi de maîtriser la théorie.
 
-Les sujets qu'il propose de travailler sont les suivants:
+Les sujets qu'il propose de travailler sont les suivants :
 
 - le rythme et le feeling rythmique afin de faire sonner même des choses 
-simples
+simples,
 - l'oreille et la théorie avec une approche "20% d'efforts pour 80% de 
 résultats", qui vous permettra de comprendre enfin les morceaux que vous jouez, 
-et de gagner en aisance
+et de gagner en aisance,
 - la bossa nova, son style de prédilection : rythmique, accords, construction 
-des morceaux
+des morceaux,
 - l'attitude : prendre le temps, travailler lentement, s'accepter tel qu'on 
-est, travailler peu de sujets mais en profondeur
+est, travailler peu de sujets mais en profondeur.
 
 [musical-ear]:http://www.themusicalear.com
 [aimee]:https://www.youtube.com/user/NolteFam

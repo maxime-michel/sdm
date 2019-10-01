@@ -78,9 +78,6 @@ author:
     - label: "Accorder sa guitare"
       icon: "fas fa-fw fa-link"
       url: "https://www.accordersaguitare.com/"
-    - label: "Cours Skype"
-      icon: "fab fa-fw fa-skype"
-      url: /a-propos/#cours-skype
 
 # Site Footer
 footer:
@@ -94,9 +91,6 @@ footer:
     - label: "Politique de confidentialité"
       icon: "fas fa-fw fa-link"
       url: "/politique-de-confidentialite/"
-    - label: "Cours Skype"
-      icon: "fab fa-fw fa-skype"
-      url: /a-propos/#cours-skype
 
 # Reading Files
 include:
