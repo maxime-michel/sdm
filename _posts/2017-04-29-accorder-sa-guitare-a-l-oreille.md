@@ -1,5 +1,5 @@
 ---
-title: "Le meilleur accordeur ? Votre oreille !"
+title: "Le meilleur accordeur ? Votre oreille !"
 excerpt: >
   Une oreille entraînée a beaucoup d'avantages par rapport à un accordeur 
   électronique, un accordage plus précis par exemple !

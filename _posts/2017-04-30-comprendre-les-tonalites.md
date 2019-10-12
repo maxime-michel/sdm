@@ -1,5 +1,5 @@
 ---
-title: "Quelle différence entre les tonalités à la guitare ?"
+title: "Quelle différence entre les tonalités à la guitare ?"
 excerpt: >
   En raison de l'accordage standard en Mi d'une guitare, certaines tonalités 
   sont à préférer afin de se faciliter la vie autant que l'on peut.
