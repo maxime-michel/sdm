@@ -233,7 +233,7 @@ defaults:
       classes: wide
       sidebar:
         - text: >
-            <a href="http://bit.ly/311Co1B" target="_blank"><img src="/img/banniere-imusic-school.gif" alt="Offre imusic school" width="300" height="250" /></a>
+            <a href="http://bit.ly/311Co1B" target="_blank"><img src="/img/banniere-imusic-school.gif" alt="Offre imusic school" width="300" height="250" style="max-width: 300px;" /></a>
 
 collections:
   emails:
