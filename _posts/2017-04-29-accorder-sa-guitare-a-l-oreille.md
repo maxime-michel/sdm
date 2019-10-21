@@ -11,18 +11,26 @@ header:
 categories: [guitare]
 ---
 
-Il paraîtra peut-être amusant à certains que le créateur d'[Accorder sa 
-guitare][asg] lui-même vante les mérites de l'accordage à l'oreille, sans 
-l'accordeur qu'il propose sur son site, donc. Le paradoxe s'explique toutefois 
-aisément.
+<div class="notice--info">
+  Cet article a plus de deux ans et ne correspond plus tout à fait à ma manière 
+  de penser : j'ai d'autres (meilleures) guitares et, combinées à un accordeur 
+  à pince, je n'ai plus besoin d'utiliser mon oreille pour peaufiner 
+  l'accordage. Je pense toujours qu'il est indispensable de savoir accorder une 
+  guitare à l'oreille (et donc de l'avoir pratiqué), mais ce n'est pas le Graal 
+  que je décris parfois ci-dessous.
+</div>
 
-En 2011, quand j'ai créé ce site, je ne m'accordais, comme beaucoup, qu'à 
+Il paraîtra peut-être amusant à certains que le créateur d'[Accorder sa 
+guitare][asg] vante les mérites de l'accordage à l'oreille, sans l'accordeur 
+qu'il propose sur son site, donc. Le paradoxe s'explique toutefois aisément.
+
+En 2011, quand j'ai créé le site, je ne m'accordais, comme beaucoup, qu'à 
 l'aide d'un accordeur. Bien que l'idée me venait parfois de le faire à 
 l'oreille, ce n'est jamais devenu une priorité, je n'en voyais pas l'avantage. 
 (Si vous m'aviez parlé de telle ou telle pédale d'effet, en revanche, j'aurais 
 réagi au quart de tour. Ah! triste monde moderne…)
 
-Je me disais : je paraîtrais quand même meilleur musicien si je pouvais 
+Je me disais : je paraîtrais quand même meilleur musicien si je pouvais 
 m'accorder à l'oreille quand je joue devant un public. Et j'avais aussi la 
 crainte de me retrouver un jour devant des amis, que l'on me donne une guitare 
 désaccordée, et de ne rien pouvoir en tirer. Mais je ne m'y suis jamais mis 
@@ -30,13 +38,13 @@ pour autant.
 
 ## Tous les bons guitaristes le savent
 
-Or, j'ai depuis beaucoup changé, et, puisque je suis l'auteur *du* site sur la 
-question, je vous le donne en mille : tous les bons guitaristes s'accordent à 
+Or, j'ai depuis beaucoup changé, et, puisque je suis l'auteur d'un site sur la 
+question, je vous le donne en mille : tous les bons guitaristes s'accordent à 
 l'oreille, et ils le font précisément parce que le résultat obtenu est meilleur 
 qu'avec un accordeur.
 
 Cela n'est certes pas une différence qui frappera l'oreille d'un débutant. 
-Mais, après quelques années de guitare, faites-vous une faveur : abandonnez 
+Mais, après quelques années de guitare, faites-vous une faveur : abandonnez 
 votre accordeur du jour au lendemain. Cela sera frustrant au début, mais en 
 quelques semaines vous redécouvrirez votre guitare, sans avoir investi le 
 moindre centime !
@@ -48,11 +56,11 @@ gamme à l'oreille risque de vous frustrer énormément. Si la guitare ne tient
 pas l'accord, ou s'il y a des défauts de justesse le long du manche, il faut 
 régler ces problèmes dans un premier temps. Dans le doute, rendez-vous avec 
 votre guitare dans un magasin de musique et demandez son avis au technicien. 
-S'il faut changer de guitare, trouvez un moyen ou un autre de le faire : 
+S'il faut changer de guitare, trouvez un moyen ou un autre de le faire : 
 l'occasion, par exemple.
 
 Par ailleurs, des cordes systématiquement en bon état vous aideront beaucoup. 
-Vous trouverez peut-être que la note est salée : il n'y a malheureusement aucun 
+Vous trouverez peut-être que la note est salée : il n'y a malheureusement aucun 
 raccourci. Pour pouvoir espérer produire un résultat musical, une guitare en 
 bon état est indispensable.
 
@@ -86,7 +94,7 @@ La guitare elle-même n'est pas une bonne idée. Une fois qu'il vibrera, vous
 entendrez un La 440 Hz. Pour mieux entendre la note, placez la base du diapason 
 contre la caisse de résonance de la guitare.
 
-## Et si je n'ai aucune référence sous la main ?
+## Et si je n'ai aucune référence sous la main ?
 
 Notez que si vous n'avez pas de référence à disposition, et que vous avez entre 
 les mains une guitare qui n'est pas trop désaccordée, vous pouvez accorder 
@@ -123,7 +131,7 @@ corde sera la référence vers laquelle vous reviendrez en permanence.
 Si l'on suit le cours logique des remarques faites jusqu'à présent, la méthode 
 à adopter est la suivante (on peut l'appeler la "méthode des La"). Elle 
 consiste à accorder le La de chaque corde avec la corde de La, en sachant que 
-la note La se trouve à :
+la note La se trouve à :
 
 - la 5ème case des cordes de Mi
 - la 7ème case de la corde de Ré
@@ -132,7 +140,7 @@ la note La se trouve à :
 
 Cette méthode a l'avantage de ne plus répercuter une erreur d'une corde à 
 l'autre. Toutefois, vous remarquerez peut-être que nous nous trouvons dans la 
-même situation que tout à l'heure : comme la main gauche doit appuyer sur le 
+même situation que tout à l'heure : comme la main gauche doit appuyer sur le 
 manche, elle ne peut pas régler les mécaniques en même temps. Il existe deux 
 manières de contourner ce problème.
 
@@ -143,7 +151,7 @@ distingue mieux les sons aigus que graves. Les harmoniques étant plus aiguës
 que les cordes à vide, il est donc plus facile d'accorder deux harmoniques que 
 deux cordes à vide ou frettées.
 
-Voici la méthode classique pour s'accorder avec les harmoniques :
+Voici la méthode classique pour s'accorder avec les harmoniques :
 
 1. accorder la 5ème case de la corde de Mi grave (Mi) en prenant comme 
 référence la 7ème case de la corde de La (Mi)
@@ -159,7 +167,7 @@ sépare les autres cordes adjacentes. On ne peut donc pas faire correspondre la
 les harmoniques aiguës ont moins de corps et sont plus difficiles à entendre. 
 C'est la raison pour laquelle la méthode préconisée est de faire sonner deux 
 harmoniques de la grosse corde de Mi, et d'accorder les deux cordes les plus 
-aigües de cette manière :
+aigües de cette manière :
 
 4. 7ème case de la grosse corde de Mi = corde de Si à vide
 5. 5ème case de la grosse corde de Mi = corde de Mi à vide
@@ -196,7 +204,7 @@ de la construction imparfaite du manche de la guitare, il est possible qu'un
 excellent accordage pour le milieu du manche sonne légèrement faux en haut de 
 manche, et vice-versa. Il s'agit donc de trouver un compromis.
 
-## Bon à savoir : la corde de Sol
+## Bon à savoir : la corde de Sol
 
 Pour des raisons physiques dues à la construction de la guitare et aux tailles 
 des jeux de cordes, beaucoup de guitaristes remarquent que la corde de Sol est 
