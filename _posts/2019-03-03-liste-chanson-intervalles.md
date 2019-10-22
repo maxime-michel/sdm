@@ -22,9 +22,10 @@ modes, les accords, les progressions d'accords.
 repousse certains musiciens. Il n'est pas question ici d'obtenir une meilleure 
 technique, mais bien de développer son oreille.)
 
-En anglais, cela s'appelle *ear training*, soit entraînement de l'oreille, 
-comme si c'était un muscle que l'on développe au fitness. On peut aussi appeler 
-ça le travail de l'oreille relative ([plutôt qu'absolue][oreille-absolue]).
+En anglais, le travail de l'oreille s'appelle *ear training*, soit entraînement 
+de l'oreille, comme si c'était un muscle que l'on développe au fitness. On peut 
+aussi appeler ça le travail de l'oreille relative ([plutôt 
+qu'absolue][oreille-absolue]).
 
 La vocation de cette page est de vous fournir tous les outils nécessaires pour 
 comprendre et travailler les intervalles.
@@ -37,9 +38,9 @@ comprendre et travailler les intervalles.
 
 En ce qui me concerne, quand j'ai commencé à m'intéresser aux intervalles, j'ai 
 pensé qu'apprendre *tous* les intervalles était ce qu'il me fallait faire, même 
-si ça allait prendre plus de temps. Mais [le cours que j'ai suivi à 
-l'époque][musical-ear] recommande plutôt de se concentrer sur six intervalles, 
-prioritaires :
+si ça allait prendre plus de temps. Cette approche a très bien fonctionné, mais 
+[le cours que j'ai suivi à l'époque][musical-ear] recommande plutôt de se 
+concentrer sur six intervalles dits prioritaires :
 
 - le demi-ton,
 - le ton,
@@ -51,32 +52,36 @@ prioritaires :
 Cette approche est intéressante car les intervalles plus larges sont alors 
 construits en combinant les intervalle prioritaires, ce qui est, pour revenir à 
 la métaphore de tout à l'heure, non seulement un entraînement de l'oreille, 
-mais aussi un entraînement mental.
+mais aussi un entraînement mental. Quand on ne l'a jamais fait, muscler le 
+cerveau et l'oreille de cette manière permet au final aux doigts de réaliser 
+des prouesses que l'on aurait jamais soupçonnées (sauf chez les autres).
 
 ### Construction d'un intervalle large en étapes
 
 Lorsque l'on maîtrise les intervalles ci-dessus, on peut identifier un 
 intervalle large qu'on ne connaît pas encore de la manière suivante :
 
-1. chanter ou siffler l'intervalle à identifier
-2. à partir de la note de départ, chanter une quinte
-3. à partir de cette quinte, chanter, par exemple un demi-ton
+1. chanter ou siffler l'intervalle à identifier,
+2. à partir de la note de départ, chanter une quinte,
+3. à partir de cette quinte, chanter, par exemple un demi-ton,
 4. si l'on n'arrive pas à la note souhaitée, recommencer, par exemple avec un 
-ton
+ton,
 5. si cela correspond à l'intervalle recherché, alors l'intervalle est une 
-sixième majeure (puisque quinte + ton = sixième majeure)
+sixième majeure (puisque quinte + ton = sixième majeure).
 
 A noter que l'on peut aussi soustraire des intervalles. Pour trouver une 
 septième majeure, par exemple, on peut chanter une octave à laquelle on enlève 
-un demi-ton.
+un demi-ton. Mais on peut aussi soustraire un demi-ton après avoir chanté ou 
+sifflé une quinte, et trouver un triton.
 
 ## Exemples musicaux
 
-Une méthode qui fonctionne bien est d'associer chaque intervalle à une chanson 
-connue dans laquelle on le trouve. Voici donc une liste que j'ai préparée à 
-partir d'exemples qui m'ont aidé quand je débutais. (L'intervalle en question 
-est celui qui débute la chanson, sauf dans les cas où j'ai indiqué dans le 
-llien YouTube à quelle seconde commencer.)
+Une méthode d'apprendre les intervalles qui fonctionne bien est d'associer 
+chaque intervalle à une chanson connue dans laquelle on le trouve. Voici donc 
+une liste que j'ai préparée à partir d'exemples qui m'ont aidé quand je 
+débutais. (L'intervalle en question est celui qui débute la chanson, sauf dans 
+les cas où j'ai indiqué dans le lien YouTube à quelle seconde le lecteur 
+démarre.)
 
 <table>
   <tr>
