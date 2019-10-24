@@ -13,11 +13,11 @@ categories: [guitare]
 
 <div class="notice--info">
   Cet article a plus de deux ans et ne correspond plus tout à fait à ma manière 
-  de penser : j'ai d'autres (meilleures) guitares et, combinées à un accordeur 
-  à pince, je n'ai plus besoin d'utiliser mon oreille pour peaufiner 
-  l'accordage. Je pense toujours qu'il est indispensable de savoir accorder une 
-  guitare à l'oreille (et donc de l'avoir pratiqué), mais ce n'est pas le Graal 
-  que je décris parfois ci-dessous.
+  de penser : j'ai d'autres (meilleures) guitares et, combinées à un [accordeur 
+  à pince][accordeur-pince], je n'ai plus besoin d'utiliser mon oreille pour 
+  peaufiner l'accordage. Je pense toujours qu'il est indispensable de savoir 
+  accorder une guitare à l'oreille (et donc de l'avoir pratiqué), mais ce n'est 
+  pas le Graal que je décris parfois ci-dessous.
 </div>
 
 Il paraîtra peut-être amusant à certains que le créateur d'[Accorder sa 
@@ -30,11 +30,11 @@ l'oreille, ce n'est jamais devenu une priorité, je n'en voyais pas l'avantage.
 (Si vous m'aviez parlé de telle ou telle pédale d'effet, en revanche, j'aurais 
 réagi au quart de tour. Ah! triste monde moderne…)
 
-Je me disais : je paraîtrais quand même meilleur musicien si je pouvais 
-m'accorder à l'oreille quand je joue devant un public. Et j'avais aussi la 
-crainte de me retrouver un jour devant des amis, que l'on me donne une guitare 
-désaccordée, et de ne rien pouvoir en tirer. Mais je ne m'y suis jamais mis 
-pour autant.
+Je me disais : il serait quand même plus agréable pour mon égo de ne pas 
+toujours dépendre d'une béquille électronique à chaque fois que je joue de la 
+guitare. Et j'avais aussi la crainte de me retrouver un jour devant des amis, 
+que l'on me donne une guitare désaccordée, et de ne rien pouvoir en tirer. Mais 
+je ne m'y suis jamais mis pour autant.
 
 ## Tous les bons guitaristes le savent
 
@@ -80,8 +80,8 @@ précisions quant à la méthode. Evidemment, il faut une référence externe po
 que votre accordage corresponde à celui qu'on entend sur les disques ou sur un 
 piano accordé. Quand vous jouez un La ou n'importe quelle autre note, il faut 
 que votre instrument émette une fréquence qui corresponde au standard. Cette 
-référence est le La 440 Hz. Les diapasons, que je recommande, et que l'on 
-trouve [dans n'importe quel magasin de musique][diapason], donnent cette note.
+référence est le La 440 Hz. [Les diapasons][diapason], que je recommande, et 
+que l'on trouve dans n'importe quel magasin de musique, donnent cette note.
 
 {% include figure alt="Diapason sur fond bleu clair" caption="Un diapason" 
 image_path="/img/diapason.jpg" %}
@@ -99,19 +99,19 @@ contre la caisse de résonance de la guitare.
 Notez que si vous n'avez pas de référence à disposition, et que vous avez entre 
 les mains une guitare qui n'est pas trop désaccordée, vous pouvez accorder 
 l'instrument en prenant comme référence sa corde de La, par exemple. Vous ne 
-serez pas accordé au La 440 Hz, mais vous aurez néanmoins après l'accordage une 
-guitare juste, ce qui peut vous tirer d'affaire dans un scénario tel que celui 
-que je décrivais plus haut : vous êtes chez des amis et l'on vous met entre les 
-mains une guitare que personne n'a plus jouée depuis des semaines.
+serez pas accordé au La 440 Hz, mais vous aurez néanmoins une guitare juste 
+après l'accordage, ce qui peut vous tirer d'affaire dans un scénario tel que 
+celui que je décrivais plus haut : vous êtes chez des amis et l'on vous met 
+entre les mains une guitare que personne n'a plus jouée depuis des semaines.
 
 ## Méthode du débutant
 
-Quand on commence la guitare, on apprend généralement à commencer l'accordage 
+Quand on débute la guitare, on apprend généralement à commencer l'accordage 
 avec le La de la cinquième case de la petite corde de Mi. Puis on remonte le 
 manche en prenant à chaque fois la corde du dessous comme référence. Cette 
-méthode est [détaillée sur le site][accordage-debutant]. L'inconvénient est que 
-si vous faites une légère erreur en cours de route, elle va se répercuter sur 
-toutes les autres cordes.
+méthode est détaillée sur [Accorder sa guitare][accordage-debutant]. 
+L'inconvénient est que si vous faites une légère erreur en cours de route, elle 
+va se répercuter sur toutes les autres cordes.
 
 Par ailleurs, cette méthode présente un autre problème. Quand vous vous 
 accordez, votre main gauche règle la mécanique. Or, si vous appuyez sur la 
@@ -181,9 +181,9 @@ cordes). Pour cela il faut savoir qu'entre ces deux notes il y a une quarte, et
 savoir préalablement la manière dont une quarte sonne.
 
 Si vous n'êtes pas encore à ce stade, je ne peux que vous conseiller de vous 
-entraîner peu à peu dans ce sens. Avoir les intervalles dans l'oreille vous 
-facilitera grandement la vie par la suite, par exemple quand il s'agira de 
-[repiquer des chansons à l'oreille][oreille].
+entraîner peu à peu dans ce sens. [Avoir les intervalles dans 
+l'oreille][intervalles] vous facilitera grandement la vie par la suite, par 
+exemple quand il s'agira de [repiquer des chansons à l'oreille][oreille].
 
 Remarquez que vous pouvez aussi utiliser cette méthode avec les harmoniques des 
 cordes à vide (12ème case).
@@ -225,3 +225,5 @@ s'inspirer de leur exemple ?
 [diapason]:http://bit.ly/diapason-wittner
 [accordage-debutant]:https://www.accordersaguitare.com/l-accordage-explique-aux-debutants/
 [oreille]:/jouer-a-l-oreille/
+[accordeur-pince]:http://bit.ly/korg-pc2
+[intervalles]:/liste-chanson-intervalles/
