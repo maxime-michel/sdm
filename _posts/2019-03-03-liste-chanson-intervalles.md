@@ -1,8 +1,8 @@
 ---
-title: "Liste de chansons afin de mémoriser les intervalles"
+title: "Chansons connues et appli afin de mémoriser les intervalles"
 excerpt: >
-  Liste de chansons connues afin de se familiariser avec les intervalles, 
-  fondation essentielle à tout travail de l'oreille.
+  Liste de chansons connues et quiz en ligne afin de se familiariser avec les 
+  intervalles, fondation essentielle à tout travail de l'oreille.
 header:
   teaser: /img/homme-casque-ordinateur_300.jpg
   overlay_color: "#000"
@@ -50,16 +50,16 @@ concentrer sur six intervalles dits prioritaires :
 - et la quinte.
 
 Cette approche est intéressante car les intervalles plus larges sont alors 
-construits en combinant les intervalle prioritaires, ce qui est, pour revenir à 
-la métaphore de tout à l'heure, non seulement un entraînement de l'oreille, 
-mais aussi un entraînement mental. Quand on ne l'a jamais fait, muscler le 
-cerveau et l'oreille de cette manière permet au final aux doigts de réaliser 
-des prouesses que l'on aurait jamais soupçonnées (sauf chez les autres).
+construits en combinant les intervalle prioritaires, ce qui est non seulement 
+un entraînement de l'oreille, mais aussi un entraînement mental. Quand on ne 
+l'a jamais fait, "muscler" le cerveau et l'oreille de cette manière permet au 
+final aux doigts de réaliser des prouesses que l'on aurait jamais soupçonnées 
+(sauf chez les autres).
 
 ### Construction d'un intervalle large en étapes
 
-Lorsque l'on maîtrise les intervalles ci-dessus, on peut identifier un 
-intervalle large qu'on ne connaît pas encore de la manière suivante :
+Lorsque l'on maîtrise les intervalles prioritaires ci-dessus, la manière 
+d'identifier un intervalle qu'on ne connaît pas encore est la suivante :
 
 1. chanter ou siffler l'intervalle à identifier,
 2. à partir de la note de départ, chanter une quinte,
@@ -69,19 +69,17 @@ ton,
 5. si cela correspond à l'intervalle recherché, alors l'intervalle est une 
 sixième majeure (puisque quinte + ton = sixième majeure).
 
-A noter que l'on peut aussi soustraire des intervalles. Pour trouver une 
-septième majeure, par exemple, on peut chanter une octave à laquelle on enlève 
-un demi-ton. Mais on peut aussi soustraire un demi-ton après avoir chanté ou 
-sifflé une quinte, et trouver un triton.
+A noter que l'on peut aussi soustraire des intervalles. Pour trouver un triton, 
+par exemple, on peut soustraire un demi-ton après avoir chanté ou sifflé une 
+quinte.
 
 ## Exemples musicaux
 
-Une méthode d'apprendre les intervalles qui fonctionne bien est d'associer 
-chaque intervalle à une chanson connue dans laquelle on le trouve. Voici donc 
-une liste que j'ai préparée à partir d'exemples qui m'ont aidé quand je 
-débutais. (L'intervalle en question est celui qui débute la chanson, sauf dans 
-les cas où j'ai indiqué dans le lien YouTube à quelle seconde le lecteur 
-démarre.)
+Une manière d'apprendre les intervalles qui fonctionne bien est d'associer 
+chaque intervalle à une chanson connue dans laquelle on le trouve. Voici une 
+liste que j'ai préparée à partir d'exemples qui m'ont aidé quand je débutais. 
+(L'intervalle en question est celui qui débute la chanson, sauf dans les cas où 
+j'ai indiqué dans le lien YouTube à quelle seconde le lecteur démarre.)
 
 <table>
   <tr>
