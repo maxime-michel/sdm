@@ -11,13 +11,19 @@ header:
 categories: [guitare]
 ---
 
+{% capture notice-text %}
+Cet article a plus de deux ans et ne correspond plus tout à fait à ma manière 
+de penser : j'ai d'autres (meilleures) guitares et, combinées à un [accordeur à 
+pince][accordeur-pince], je n'ai plus besoin d'utiliser mon oreille pour 
+peaufiner l'accordage. Je pense toujours qu'il est indispensable de savoir 
+accorder une guitare à l'oreille (et donc de l'avoir pratiqué), mais ce n'est 
+pas le Graal que je décris parfois ci-dessous.
+
+[accordeur-pince]:http://bit.ly/korg-pc2
+{% endcapture %}
+
 <div class="notice--info">
-  Cet article a plus de deux ans et ne correspond plus tout à fait à ma manière 
-  de penser : j'ai d'autres (meilleures) guitares et, combinées à un [accordeur 
-  à pince][accordeur-pince], je n'ai plus besoin d'utiliser mon oreille pour 
-  peaufiner l'accordage. Je pense toujours qu'il est indispensable de savoir 
-  accorder une guitare à l'oreille (et donc de l'avoir pratiqué), mais ce n'est 
-  pas le Graal que je décris parfois ci-dessous.
+  {{ notice-text | markdownify }}
 </div>
 
 Il paraîtra peut-être amusant à certains que le créateur d'[Accorder sa 
@@ -225,5 +231,4 @@ s'inspirer de leur exemple ?
 [diapason]:http://bit.ly/diapason-wittner
 [accordage-debutant]:https://www.accordersaguitare.com/l-accordage-explique-aux-debutants/
 [oreille]:/jouer-a-l-oreille/
-[accordeur-pince]:http://bit.ly/korg-pc2
 [intervalles]:/liste-chanson-intervalles/
