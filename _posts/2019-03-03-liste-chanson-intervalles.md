@@ -32,7 +32,7 @@ comprendre et travailler les intervalles.
 
 ## Apprendre les intervalles en ligne (expérimental)
 
-<iframe style="height: 500px; width: 100%; border: 0;" src="https://intervalles.secretsdemusiciens.com/"></iframe>
+<iframe style="height: 700px; width: 100%; border: 0;" src="https://intervalles.secretsdemusiciens.com/"></iframe>
 
 ## Les six intervalles prioritaires
 
