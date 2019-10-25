@@ -39,8 +39,8 @@ comprendre et travailler les intervalles.
 En ce qui me concerne, quand j'ai commencé à m'intéresser aux intervalles, j'ai 
 pensé qu'apprendre *tous* les intervalles était ce qu'il me fallait faire, même 
 si ça allait prendre plus de temps. Cette approche a très bien fonctionné, mais 
-[le cours que j'ai suivi à l'époque][musical-ear] recommande plutôt de se 
-concentrer sur six intervalles dits prioritaires :
+[le cours en ligne que je suivais à l'époque][musical-ear] recommande plutôt de 
+se concentrer sur six intervalles dits prioritaires :
 
 - le demi-ton,
 - le ton,
