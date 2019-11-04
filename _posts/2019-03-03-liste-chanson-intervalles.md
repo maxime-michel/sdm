@@ -30,7 +30,7 @@ qu'absolue][oreille-absolue]).
 La vocation de cette page est de vous fournir tous les outils nécessaires pour 
 comprendre et travailler les intervalles.
 
-## Apprendre les intervalles en ligne (expérimental)
+## Apprendre les intervalles en ligne
 
 <iframe style="height: 700px; width: 100%; border: 0;" src="https://intervalles.secretsdemusiciens.com/"></iframe>
 
