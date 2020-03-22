@@ -220,8 +220,17 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      share: true
+      related: true
+      classes: wide
+  - scope:
+      path: ""
+      type: emails
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
       share: true
       related: true
       classes: wide
