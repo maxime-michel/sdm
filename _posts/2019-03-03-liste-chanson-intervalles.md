@@ -41,7 +41,7 @@ l'oreille][jouer-oreille].
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
-     style="display:block; text-align:center;"
+     style="display:block; text-align:center; border: 0;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-2493011358476103"
