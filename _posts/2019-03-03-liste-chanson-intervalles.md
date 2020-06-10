@@ -32,15 +32,32 @@ comprendre et travailler les intervalles.
 
 ## Apprendre les intervalles en ligne
 
+Voici une application afin de s'entraîner en ligne, par niveaux. Travaillez un 
+peu chaque jour pendant plusieurs semaines, jusqu'à ce qu'identifier les 
+intervalles soit un réflexe. Vous pourrez ensuite commencer à [jouer à 
+l'oreille][jouer-oreille].
+
 <iframe style="height: 700px; width: 100%; border: 0;" src="https://intervalles.secretsdemusiciens.com/"></iframe>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2493011358476103"
+     data-ad-slot="3608144420"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Les six intervalles prioritaires
 
 En ce qui me concerne, quand j'ai commencé à m'intéresser aux intervalles, j'ai 
 pensé qu'apprendre *tous* les intervalles était ce qu'il me fallait faire, même 
 si ça allait prendre plus de temps. Cette approche a très bien fonctionné, mais 
-[le cours en ligne que je suivais à l'époque][musical-ear] recommande plutôt de 
-se concentrer sur six intervalles dits prioritaires :
+<a href="https://www.themusicalear.com" target="_blank">le cours en ligne que 
+je suivais à l'époque</a> recommande plutôt de se concentrer sur six 
+intervalles dits prioritaires :
 
 - le demi-ton,
 - le ton,
@@ -133,4 +150,4 @@ j'ai indiqué dans le lien YouTube à quelle seconde le lecteur démarre.)
 </table>
 
 [oreille-absolue]:/oreille-absolue-ou-relative/
-[musical-ear]:http://www.themusicalear.com
+[jouer-oreille]:/jouer-a-l-oreille/
