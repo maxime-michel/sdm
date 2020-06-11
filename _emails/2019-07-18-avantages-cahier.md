@@ -38,4 +38,4 @@ est de développer sa compréhension de ce que l'on joue.
 Je continuerai ce sujet dans l'email de la semaine prochaine dans lequel je 
 citerai deux autres avantage à utiliser un cahier.
 
-[cahiers]:http://bitly.com/cahiers
+[cahiers]:https://bit.ly/cahier-pb

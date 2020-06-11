@@ -40,5 +40,5 @@ vraiment très utile. Cela dit, il faut que ce besoin s'impose naturellement,
 pas qu'il soit forcé, comme c'est souvent le cas au conservatoire, ce qui 
 aboutit à beaucoup de frustration chez certains élèves.
 
-[cahiers]:http://bitly.com/cahiers
+[cahiers]:https://bit.ly/cahier-pb
 [rythme]:https://www.secretsdemusiciens.com/pourquoi-les-tablatures-sont-une-mauvaise-methode/
