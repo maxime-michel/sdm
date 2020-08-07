@@ -53,16 +53,24 @@ sont équivalents, et cela fonctionne, dans la plupart des cas.
 Mais *Autumn Leaves*, dès la première mesure, nous tend un piège très 
 intéressant. La suite d'accords en elle-même fonctionne très bien :
 
-{% include audio.html file="dm7-g7-cmaj7" %}
+Avec les accords simples :
 
-{% include audio.html file="dm9-g13-cmaj9" %}
+{% include audio.html file="dm7-g7-cmaj7" loop=false %}
+
+Avec les accords enrichis :
+
+{% include audio.html file="dm9-g13-cmaj9" loop=false %}
 
 Mais tendez l'oreille et vous entendrez que ça ne va pas du tout avec la 
 mélodie…
 
-{% include audio.html file="dm7-g7-cmaj7-melodie" %}
+Mélodie et accords simples :
 
-{% include audio.html file="dm9-g13-cmaj9-melodie" %}
+{% include audio.html file="dm7-g7-cmaj7-melodie" loop=false %}
+
+Mélodie et accords enrichis :
+
+{% include audio.html file="dm9-g13-cmaj9-melodie" loop=false %}
 
 Dm9 est un accord de Dm7 auquel on ajoute la note Mi. Or, la première phrase de 
 la mélodie conclut sur Fa. Mi et Fa sont à un demi-ton de distance, ce qui peut 
@@ -102,19 +110,23 @@ dièse). Impossible de jouer 7b9 quand bien même la partition le demanderait, o
 obtiendrait alors le même problème entre Fa# et Fa que l'on avait entre Fa et 
 Mi plus haut :
 
-{% include audio.html file="bm7b5-e7b9-am6" %}
+Sans la mélodie :
 
-{% include audio.html file="bm7b5-e7b9-am6-melodie" %}
+{% include audio.html file="bm7b5-e7b9-am6" loop=false %}
+
+Avec :
+
+{% include audio.html file="bm7b5-e7b9-am6-melodie" loop=false %}
 
 On peut en revanche sans problème jouer E7 :
 
-{% include audio.html file="bm7b5-e7-am6-melodie" %}
+{% include audio.html file="bm7b5-e7-am6-melodie" loop=false %}
 
 Ou altérer la quinte, ce qui ne produit aucun conflit avec la mélodie :
 
-{% include audio.html file="bm7b5-e7s5-am6-melodie" %}
+{% include audio.html file="bm7b5-e7s5-am6-melodie" loop=false %}
 
-## Conclusion
+## Conclusion
 
 Les Feuilles Mortes n'est pas un morceau si simple que cela ! Pour jouer du 
 jazz, il faut développer sa conscience harmonique. Un bon moyen de le faire est 
