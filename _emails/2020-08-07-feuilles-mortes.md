@@ -7,12 +7,14 @@ désolé, mais je déménageais (pendant le confinement), puis me suis préparé
 petit studio d'enregistrement, et nous attendons désormais un bébé pour 
 septembre…
 
-Je risque donc d'être absent encore quelques temps, mais ai plein de projets 
+Je risque donc d'être absent encore quelques temps, mais j'ai plein de projets 
 d'enregistrements audio et même vidéo pour la suite.
 
 J'ai malgré tout écrit un nouvel article cette semaine. Il est avancé et décrit 
 deux pièges que présente Les Feuilles Mortes, le célèbre et relativement simple 
 morceau de jazz.
+
+\*\|YOUTUBE:[$vid=Xo1C6E7jbPw]\|\*
 
 ## [>> Clique ici pour accéder à l'article][article]
 
