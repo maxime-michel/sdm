@@ -13,8 +13,8 @@ categories: [theorie]
 
 Parmi les standards que l'on apprend quand on débute le jazz, on trouve [Tune 
 Up][tune-up] ou [Solar][solar] de Miles Davis, [Blue Bossa][blue-bossa], mais 
-aussi [Les Feuilles Mortes][feuilles-mortes], plus connue sous le nom de 
-*Autumn Leaves* dans le milieu jazz international.
+aussi [Les Feuilles Mortes][feuilles-mortes], plus connu sous le nom de *Autumn 
+Leaves* dans le milieu jazz international.
 
 Ces morceaux offrent au débutant des suites d'accords dont la difficulté est 
 abordable, relativement parlant. Il ne viendrait à personne de commencer par 
@@ -53,16 +53,16 @@ sont équivalents, et cela fonctionne, dans la plupart des cas.
 Mais *Autumn Leaves*, dès la première mesure, nous tend un piège très 
 intéressant. La suite d'accords en elle-même fonctionne très bien :
 
-Avec les accords simples :
+Avec les accords simples (Dm7, G7, Cmaj7) :
 
 {% include audio.html file="dm7-g7-cmaj7" loop=false %}
 
-Avec les accords enrichis :
+Avec les accords enrichis (Dm9, G13, Cmaj9) :
 
 {% include audio.html file="dm9-g13-cmaj9" loop=false %}
 
-Mais tendez l'oreille et vous entendrez que ça ne va pas du tout avec la 
-mélodie…
+Mais tendez l'oreille et vous entendrez un problème avec les accords enrichis 
+et la mélodie…
 
 Mélodie et accords simples :
 
@@ -79,10 +79,12 @@ désagréable ici.
 
 Pour moi c'est donc un bête accord m7 qui ouvre Les Feuilles Mortes. Je ne veux 
 pas dire par là qu'il est faux de jouer autre chose. Je suis sûr que beaucoup 
-de bons joueurs jouent un autre accord sans problème. Mais c'est ce que je 
-conseille par pédagogie. Il faut toujours s'assurer que l'harmonie que l'on 
-tient d'une partition ou que l'on a repiquée à l'oreille fonctionne avec la 
-mélodie.
+de bons joueurs jouent un autre accord sans problème. Si la mélodie est dans 
+une octave ou a un timbre différent de l'harmonie, ça peut aller.
+
+Mais c'est ce que je conseille par pédagogie. Il faut toujours s'assurer que 
+l'harmonie que l'on tient d'une partition ou que l'on a repiquée à l'oreille 
+fonctionne avec la mélodie.
 
 ## Choisir ses altérations de dominante
 
