@@ -1,0 +1,5 @@
+<audio controls {% if include.loop %}loop{% endif %}>
+  <source src="/audio/mp3/{{ include.file }}.mp3" type="audio/mpeg">
+  <source src="/audio/ogg/{{ include.file }}.ogg" type="audio/ogg">
+  Votre navigateur ne parvient pas à lire le fichier audio, mais vous pouvez le télécharger en cliquant <a target="_blank" href="/audio/mp3/{{ include.file }}.mp3">ici</a>.
+</audio>
