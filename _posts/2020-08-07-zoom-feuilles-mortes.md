@@ -17,8 +17,8 @@ aussi [Les Feuilles Mortes][feuilles-mortes], plus connu sous le nom de *Autumn
 Leaves* dans le milieu jazz international.
 
 Ces morceaux offrent au débutant des suites d'accords dont la difficulté est 
-abordable, relativement parlant. Il ne viendrait à personne de commencer par 
-[Giant Steps][giant-steps]…
+abordable, relativement parlant. Il ne viendrait à personne l'idée de commencer 
+par [Giant Steps][giant-steps]…
 
 Mais, malgré cette simplicité apparente, il y a deux détails des Feuilles 
 Mortes qui méritent une attention particulière. Ce n'est pas parce que l'on 
@@ -79,12 +79,12 @@ désagréable ici.
 
 Pour moi c'est donc un bête accord m7 qui ouvre Les Feuilles Mortes. Je ne veux 
 pas dire par là qu'il est faux de jouer autre chose. Je suis sûr que beaucoup 
-de bons joueurs jouent un autre accord sans problème. Si la mélodie est dans 
-une octave ou a un timbre différent de l'harmonie, ça peut aller.
+de bons joueurs jouent un autre accord sans problème. Si la mélodie est une 
+octave plus haut ou a un timbre différent de l'harmonie, ça peut aller.
 
-Mais c'est ce que je conseille par pédagogie. Il faut toujours s'assurer que 
-l'harmonie que l'on tient d'une partition ou que l'on a repiquée à l'oreille 
-fonctionne avec la mélodie.
+Mais c'est ce que je conseille par pédagogie. Il faut toujours s'assurer note 
+par note que l'harmonie que l'on tient d'une partition ou que l'on a repiquée à 
+l'oreille fonctionne avec la mélodie.
 
 ## Choisir ses altérations de dominante
 
@@ -109,8 +109,8 @@ A la fin du premier A, la grille indique Bm7b5 - E7, parfois même Bm7b5 - E7b9.
 Mais, sur l'accord de Mi, la mélodie passe par Fa#, soit la neuvième naturelle, 
 note rare en mineur (où la neuvième est souvent altérée, c'est-à-dire bémol ou 
 dièse). Impossible de jouer 7b9 quand bien même la partition le demanderait, on 
-obtiendrait alors le même problème entre Fa# et Fa que l'on avait entre Fa et 
-Mi plus haut :
+obtiendrait alors le même problème entre Fa# et Fa (la neuvième bémol) que l'on 
+avait entre Fa et Mi plus haut :
 
 Sans la mélodie :
 
@@ -136,7 +136,7 @@ de jouer harmonie et mélodie en même temps. Je recommande personnellement le
 piano car c'est un instrument qui permet de voir la musique, et surtout parce 
 qu'il me plaît. Mais on peut aussi mettre le morceau sur papier (partition), 
 chanter en s'accompagnant, s'enregistrer sur plusieurs pistes… Dans tous les 
-cas c'est du travail, mais le jeu en vaut la chandelle.
+cas, c'est du travail, mais le jeu en vaut la chandelle.
 
 [tune-up]:https://www.youtube.com/watch?v=1XhzEmbBD5s
 [solar]:https://www.youtube.com/watch?v=X6pB2WtStbI
