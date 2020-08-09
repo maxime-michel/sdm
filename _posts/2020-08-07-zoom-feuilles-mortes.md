@@ -80,10 +80,9 @@ désagréable ici.
 Pour moi c'est donc un bête accord m7 qui ouvre Les Feuilles Mortes. Je ne veux 
 pas dire par là qu'il est faux de jouer autre chose. Je suis sûr que beaucoup 
 de bons joueurs jouent un autre accord sans problème. Si la mélodie est une 
-octave plus haut ou a un timbre différent de l'harmonie, ça peut aller.
-
-Mais c'est ce que je conseille par pédagogie. Il faut toujours s'assurer note 
-par note que l'harmonie que l'on tient d'une partition ou que l'on a repiquée à 
+octave plus haut ou a un timbre différent de l'harmonie, ça peut aller. Mais 
+c'est ce que je conseille par pédagogie. Il faut toujours s'assurer note par 
+note que l'harmonie que l'on tient d'une partition ou que l'on a repiquée à 
 l'oreille fonctionne avec la mélodie.
 
 ## Choisir ses altérations de dominante
@@ -112,11 +111,11 @@ dièse). Impossible de jouer 7b9 quand bien même la partition le demanderait, o
 obtiendrait alors le même problème entre Fa# et Fa (la neuvième bémol) que l'on 
 avait entre Fa et Mi plus haut :
 
-Sans la mélodie :
+Suite d'accords sans la mélodie, aucun problème :
 
 {% include audio.html file="bm7b5-e7b9-am6" loop=false %}
 
-Avec :
+Conflit entre la deuxième phrase de la mélodie et l'harmonie :
 
 {% include audio.html file="bm7b5-e7b9-am6-melodie" loop=false %}
 
