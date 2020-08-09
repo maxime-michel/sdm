@@ -79,10 +79,12 @@ désagréable ici.
 
 Pour moi c'est donc un bête accord m7 qui ouvre Les Feuilles Mortes. Je ne veux 
 pas dire par là qu'il est faux de jouer autre chose. Je suis sûr que beaucoup 
-de bons joueurs jouent un autre accord sans problème. Si la mélodie est une 
-octave plus haut ou a un timbre différent de l'harmonie, ça peut aller. Mais 
-c'est ce que je conseille par pédagogie. Il faut toujours s'assurer note par 
-note que l'harmonie que l'on tient d'une partition ou que l'on a repiquée à 
+de bons joueurs utilisent un autre accord sans problème. Si la mélodie est une 
+octave plus haut ou a un timbre différent de l'harmonie, ça peut 
+fonctionner.
+
+Mais je conseille malgré tout m7 par pédagogie. Il faut toujours s'assurer note 
+par note que l'harmonie que l'on tient d'une partition ou que l'on a repiquée à 
 l'oreille fonctionne avec la mélodie.
 
 ## Choisir ses altérations de dominante
@@ -123,7 +125,8 @@ On peut en revanche sans problème jouer E7 :
 
 {% include audio.html file="bm7b5-e7-am6-melodie" loop=false %}
 
-Ou altérer la quinte, ce qui ne produit aucun conflit avec la mélodie :
+Ou altérer la quinte (Si devient Do), ce qui ne produit aucun conflit avec la 
+mélodie :
 
 {% include audio.html file="bm7b5-e7s5-am6-melodie" loop=false %}
 
@@ -132,10 +135,10 @@ Ou altérer la quinte, ce qui ne produit aucun conflit avec la mélodie :
 Les Feuilles Mortes n'est pas un morceau si simple que cela ! Pour jouer du 
 jazz, il faut développer sa conscience harmonique. Un bon moyen de le faire est 
 de jouer harmonie et mélodie en même temps. Je recommande personnellement le 
-piano car c'est un instrument qui permet de voir la musique, et surtout parce 
-qu'il me plaît. Mais on peut aussi mettre le morceau sur papier (partition), 
-chanter en s'accompagnant, s'enregistrer sur plusieurs pistes… Dans tous les 
-cas, c'est du travail, mais le jeu en vaut la chandelle.
+travail au piano car c'est un instrument qui permet de voir la musique, et 
+surtout parce qu'il me plaît. Mais on peut aussi mettre le morceau sur papier 
+(partition), chanter en s'accompagnant, s'enregistrer sur plusieurs pistes… 
+Dans tous les cas, c'est du travail, mais le jeu en vaut la chandelle.
 
 [tune-up]:https://www.youtube.com/watch?v=1XhzEmbBD5s
 [solar]:https://www.youtube.com/watch?v=X6pB2WtStbI
