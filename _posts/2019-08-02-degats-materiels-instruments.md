@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/gouttes-eau-fenetre.jpg
-categories: [attitude]
+categories: [divers]
 ---
 
 Les instruments tels que le piano et la guitare sont un assemblage très précis 

@@ -54,4 +54,8 @@ déjà commencé à partager mon itinéraire depuis quelques années.
 
 {% include list.html category="guitare" %}
 
+## Divers
+
+{% include list.html category="divers" %}
+
 [asg]:https://www.accordersaguitare.com
