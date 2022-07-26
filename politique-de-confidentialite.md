@@ -24,38 +24,6 @@ suis pas sur les réseaux sociaux.
 Je ne partagerai jamais les adresses récoltées. Elles sont gérées par 
 [Mailchimp][mailchimp], une entreprise renommée dont c'est le cœur de métier.
 
-## Google AdSense
-
-Les publicités du réseau Google AdSense se servent des cookies afin de me 
-rémunérer lorsqu'un visiteur clique sur une bannière et va éventuellement 
-jusqu'à atteindre un objectif prédéfini, comme l'achat d'un produit sur le site 
-d'un annonceur, par exemple. Pour plus de détails à ce sujet, prière de 
-consulter le [règlement du programme AdSense][adsense].
-
-Les revenus publicitaires qui résultent des visites sur ce site servent en 
-premier lieu à financer les frais tels que la location des serveurs, le 
-renouvellement des nom de domaines, le sous-traitement de travail (graphique, 
-par exemple) à des professionnels. Ils sont par ailleurs déclarés aux autorités 
-compétentes (douane, cotisations sociales, impôts). L'excédent sert à l'achat 
-de matériel électronique ou musical pour mon plaisir ainsi que la création de 
-meilleur contenu.
-
-Ces cookies peuvent être désactivés dans les paramètres de votre navigateur 
-Internet. Pour plus de détails à ce sujet, prière de vous référer à la 
-documentation dudit navigateur.
-
-## Affiliation
-
-Les gains détaillés ci-dessus sont complémentés par la participation à deux 
-programmes d'affiliation. Lorsque vous cliquez sur un lien vers du matériel 
-(Amazon) ou un logiciel (EarMaster) que je recommande, je suis dans ces deux 
-cas inscrit auprès du site vendeur, et rémunéré lorsqu'un de mes visiteurs 
-procède à un achat en étant passé par mon entremise.
-
-Cela ne veut pas dire que je recommande du matériel que je ne connais pas pour 
-faire du chiffre. En réalité, j'utilise très peu l'affiliation. Je suis 
-simplement un amateur passionné qui cherche à partager mon expérience.
-
 ## Hébergement
 
 Contrairement à beaucoup de propriétaires de sites, je ne m'intéresse pas aux 
